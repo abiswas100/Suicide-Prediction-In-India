@@ -1,0 +1,5 @@
+    'Seperated' : 2,
+    'Widowed/Widower' : 4,
+    'Married' : 1, 
+    'Divorcee' : 3,
+    'Never Married' : 0
