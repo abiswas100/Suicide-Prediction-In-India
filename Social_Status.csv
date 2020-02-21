@@ -1,0 +1,121 @@
+State,Year,Type_code,Type,Gender,Age_group,Total
+West Bengal,2001,Social_Status,Seperated,Female,0-100+,175
+West Bengal,2001,Social_Status,Widowed/Widower,Female,0-100+,435
+West Bengal,2001,Social_Status,Married,Female,0-100+,3557
+West Bengal,2001,Social_Status,Divorcee,Female,0-100+,175
+West Bengal,2001,Social_Status,Never Married,Female,0-100+,1853
+West Bengal,2001,Social_Status,Married,Male,0-100+,4385
+West Bengal,2001,Social_Status,Divorcee,Male,0-100+,337
+West Bengal,2001,Social_Status,Widowed/Widower,Male,0-100+,432
+West Bengal,2001,Social_Status,Never Married,Male,0-100+,2028
+West Bengal,2001,Social_Status,Seperated,Male,0-100+,313
+West Bengal,2002,Social_Status,Divorcee,Female,0-100+,155
+West Bengal,2002,Social_Status,Married,Female,0-100+,3276
+West Bengal,2002,Social_Status,Widowed/Widower,Female,0-100+,563
+West Bengal,2002,Social_Status,Seperated,Female,0-100+,256
+West Bengal,2002,Social_Status,Never Married,Female,0-100+,1633
+West Bengal,2002,Social_Status,Seperated,Male,0-100+,165
+West Bengal,2002,Social_Status,Widowed/Widower,Male,0-100+,446
+West Bengal,2002,Social_Status,Never Married,Male,0-100+,2057
+West Bengal,2002,Social_Status,Married,Male,0-100+,4266
+West Bengal,2002,Social_Status,Divorcee,Male,0-100+,190
+West Bengal,2003,Social_Status,Widowed/Widower,Female,0-100+,307
+West Bengal,2003,Social_Status,Never Married,Female,0-100+,1106
+West Bengal,2003,Social_Status,Seperated,Female,0-100+,114
+West Bengal,2003,Social_Status,Divorcee,Female,0-100+,117
+West Bengal,2003,Social_Status,Married,Female,0-100+,4212
+West Bengal,2003,Social_Status,Divorcee,Male,0-100+,109
+West Bengal,2003,Social_Status,Seperated,Male,0-100+,101
+West Bengal,2003,Social_Status,Married,Male,0-100+,4980
+West Bengal,2003,Social_Status,Never Married,Male,0-100+,1952
+West Bengal,2003,Social_Status,Widowed/Widower,Male,0-100+,282
+West Bengal,2004,Social_Status,Widowed/Widower,Female,0-100+,316
+West Bengal,2004,Social_Status,Never Married,Female,0-100+,1270
+West Bengal,2004,Social_Status,Married,Female,0-100+,3833
+West Bengal,2004,Social_Status,Divorcee,Female,0-100+,94
+West Bengal,2004,Social_Status,Seperated,Female,0-100+,250
+West Bengal,2004,Social_Status,Seperated,Male,0-100+,320
+West Bengal,2004,Social_Status,Divorcee,Male,0-100+,139
+West Bengal,2004,Social_Status,Married,Male,0-100+,4854
+West Bengal,2004,Social_Status,Widowed/Widower,Male,0-100+,264
+West Bengal,2004,Social_Status,Never Married,Male,0-100+,2084
+West Bengal,2005,Social_Status,Seperated,Female,0-100+,160
+West Bengal,2005,Social_Status,Never Married,Female,0-100+,1137
+West Bengal,2005,Social_Status,Divorcee,Female,0-100+,158
+West Bengal,2005,Social_Status,Widowed/Widower,Female,0-100+,426
+West Bengal,2005,Social_Status,Married,Female,0-100+,4520
+West Bengal,2005,Social_Status,Never Married,Male,0-100+,1934
+West Bengal,2005,Social_Status,Widowed/Widower,Male,0-100+,254
+West Bengal,2005,Social_Status,Divorcee,Male,0-100+,142
+West Bengal,2005,Social_Status,Seperated,Male,0-100+,274
+West Bengal,2005,Social_Status,Married,Male,0-100+,6010
+West Bengal,2006,Social_Status,Widowed/Widower,Female,0-100+,385
+West Bengal,2006,Social_Status,Seperated,Female,0-100+,111
+West Bengal,2006,Social_Status,Divorcee,Female,0-100+,198
+West Bengal,2006,Social_Status,Married,Female,0-100+,4967
+West Bengal,2006,Social_Status,Never Married,Female,0-100+,944
+West Bengal,2006,Social_Status,Never Married,Male,0-100+,1650
+West Bengal,2006,Social_Status,Divorcee,Male,0-100+,126
+West Bengal,2006,Social_Status,Widowed/Widower,Male,0-100+,303
+West Bengal,2006,Social_Status,Seperated,Male,0-100+,108
+West Bengal,2006,Social_Status,Married,Male,0-100+,6933
+West Bengal,2007,Social_Status,Divorcee,Female,0-100+,155
+West Bengal,2007,Social_Status,Married,Female,0-100+,4377
+West Bengal,2007,Social_Status,Seperated,Female,0-100+,203
+West Bengal,2007,Social_Status,Never Married,Female,0-100+,1208
+West Bengal,2007,Social_Status,Widowed/Widower,Female,0-100+,412
+West Bengal,2007,Social_Status,Never Married,Male,0-100+,2154
+West Bengal,2007,Social_Status,Married,Male,0-100+,5637
+West Bengal,2007,Social_Status,Widowed/Widower,Male,0-100+,291
+West Bengal,2007,Social_Status,Divorcee,Male,0-100+,75
+West Bengal,2007,Social_Status,Seperated,Male,0-100+,348
+West Bengal,2008,Social_Status,Seperated,Female,0-100+,100
+West Bengal,2008,Social_Status,Married,Female,0-100+,4265
+West Bengal,2008,Social_Status,Never Married,Female,0-100+,1580
+West Bengal,2008,Social_Status,Divorcee,Female,0-100+,98
+West Bengal,2008,Social_Status,Widowed/Widower,Female,0-100+,440
+West Bengal,2008,Social_Status,Seperated,Male,0-100+,93
+West Bengal,2008,Social_Status,Never Married,Male,0-100+,2844
+West Bengal,2008,Social_Status,Divorcee,Male,0-100+,78
+West Bengal,2008,Social_Status,Widowed/Widower,Male,0-100+,172
+West Bengal,2008,Social_Status,Married,Male,0-100+,5182
+West Bengal,2009,Social_Status,Divorcee,Female,0-100+,147
+West Bengal,2009,Social_Status,Married,Female,0-100+,4133
+West Bengal,2009,Social_Status,Widowed/Widower,Female,0-100+,399
+West Bengal,2009,Social_Status,Never Married,Female,0-100+,1354
+West Bengal,2009,Social_Status,Seperated,Female,0-100+,121
+West Bengal,2009,Social_Status,Never Married,Male,0-100+,2580
+West Bengal,2009,Social_Status,Seperated,Male,0-100+,127
+West Bengal,2009,Social_Status,Widowed/Widower,Male,0-100+,190
+West Bengal,2009,Social_Status,Married,Male,0-100+,5521
+West Bengal,2009,Social_Status,Divorcee,Male,0-100+,76
+West Bengal,2010,Social_Status,Married,Female,0-100+,4331
+West Bengal,2010,Social_Status,Divorcee,Female,0-100+,146
+West Bengal,2010,Social_Status,Widowed/Widower,Female,0-100+,331
+West Bengal,2010,Social_Status,Seperated,Female,0-100+,162
+West Bengal,2010,Social_Status,Never Married,Female,0-100+,1766
+West Bengal,2010,Social_Status,Married,Male,0-100+,5938
+West Bengal,2010,Social_Status,Seperated,Male,0-100+,173
+West Bengal,2010,Social_Status,Divorcee,Male,0-100+,65
+West Bengal,2010,Social_Status,Never Married,Male,0-100+,2941
+West Bengal,2010,Social_Status,Widowed/Widower,Male,0-100+,184
+West Bengal,2011,Social_Status,Widowed/Widower,Female,0-100+,409
+West Bengal,2011,Social_Status,Married,Female,0-100+,4415
+West Bengal,2011,Social_Status,Seperated,Female,0-100+,113
+West Bengal,2011,Social_Status,Divorcee,Female,0-100+,213
+West Bengal,2011,Social_Status,Never Married,Female,0-100+,1718
+West Bengal,2011,Social_Status,Seperated,Male,0-100+,267
+West Bengal,2011,Social_Status,Widowed/Widower,Male,0-100+,251
+West Bengal,2011,Social_Status,Divorcee,Male,0-100+,61
+West Bengal,2011,Social_Status,Never Married,Male,0-100+,2973
+West Bengal,2011,Social_Status,Married,Male,0-100+,6072
+West Bengal,2012,Social_Status,Seperated,Female,0-100+,200
+West Bengal,2012,Social_Status,Married,Female,0-100+,3927
+West Bengal,2012,Social_Status,Divorcee,Female,0-100+,182
+West Bengal,2012,Social_Status,Widowed/Widower,Female,0-100+,455
+West Bengal,2012,Social_Status,Never Married,Female,0-100+,1513
+West Bengal,2012,Social_Status,Seperated,Male,0-100+,149
+West Bengal,2012,Social_Status,Widowed/Widower,Male,0-100+,233
+West Bengal,2012,Social_Status,Married,Male,0-100+,5451
+West Bengal,2012,Social_Status,Divorcee,Male,0-100+,189
+West Bengal,2012,Social_Status,Never Married,Male,0-100+,2658
