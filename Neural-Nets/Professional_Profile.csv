@@ -1,0 +1,1429 @@
+,State,Year,Type_code,Type,Gender,Age_group,Total,Cataegory
+0,West Bengal,2001,Professional_Profile,Professional Activity,Female,0-14,5,Employed
+1,West Bengal,2001,Professional_Profile,Service (Private),Female,0-14,41,Employed
+2,West Bengal,2001,Professional_Profile,Others (Please Specify),Female,0-14,24,Unemployed
+3,West Bengal,2001,Professional_Profile,Unemployed,Female,0-14,0,Unemployed
+4,West Bengal,2001,Professional_Profile,House Wife,Female,0-14,0,Unemployed
+5,West Bengal,2001,Professional_Profile,Others (Please Specify),Female,0-14,127,Unemployed
+6,West Bengal,2001,Professional_Profile,Student,Female,0-14,73,Unemployed
+7,West Bengal,2001,Professional_Profile,Self-employed (Business activity),Female,0-14,0,Employed
+8,West Bengal,2001,Professional_Profile,Service (Government),Female,0-14,0,Employed
+9,West Bengal,2001,Professional_Profile,Public Sector Undertaking,Female,0-14,0,Employed
+10,West Bengal,2001,Professional_Profile,Farming/Agriculture Activity,Female,0-14,13,Employed
+11,West Bengal,2001,Professional_Profile,Retired Person,Female,0-14,0,Retired
+12,West Bengal,2001,Professional_Profile,House Wife,Male,0-14,0,Unemployed
+13,West Bengal,2001,Professional_Profile,Service (Private),Male,0-14,16,Employed
+14,West Bengal,2001,Professional_Profile,Public Sector Undertaking,Male,0-14,0,Employed
+15,West Bengal,2001,Professional_Profile,Others (Please Specify),Male,0-14,104,Unemployed
+16,West Bengal,2001,Professional_Profile,Farming/Agriculture Activity,Male,0-14,8,Employed
+17,West Bengal,2001,Professional_Profile,Others (Please Specify),Male,0-14,21,Unemployed
+18,West Bengal,2001,Professional_Profile,Retired Person,Male,0-14,0,Retired
+19,West Bengal,2001,Professional_Profile,Professional Activity,Male,0-14,0,Employed
+20,West Bengal,2001,Professional_Profile,Service (Government),Male,0-14,0,Employed
+21,West Bengal,2001,Professional_Profile,Unemployed,Male,0-14,2,Unemployed
+22,West Bengal,2001,Professional_Profile,Student,Male,0-14,132,Unemployed
+23,West Bengal,2001,Professional_Profile,Self-employed (Business activity),Male,0-14,0,Employed
+24,West Bengal,2001,Professional_Profile,Unemployed,Female,15-29,99,Unemployed
+25,West Bengal,2001,Professional_Profile,Others (Please Specify),Female,15-29,523,Unemployed
+26,West Bengal,2001,Professional_Profile,Professional Activity,Female,15-29,22,Employed
+27,West Bengal,2001,Professional_Profile,Service (Private),Female,15-29,118,Employed
+28,West Bengal,2001,Professional_Profile,House Wife,Female,15-29,653,Unemployed
+29,West Bengal,2001,Professional_Profile,Public Sector Undertaking,Female,15-29,93,Employed
+30,West Bengal,2001,Professional_Profile,Self-employed (Business activity),Female,15-29,34,Employed
+31,West Bengal,2001,Professional_Profile,Farming/Agriculture Activity,Female,15-29,72,Employed
+32,West Bengal,2001,Professional_Profile,Student,Female,15-29,331,Unemployed
+33,West Bengal,2001,Professional_Profile,Retired Person,Female,15-29,0,Retired
+34,West Bengal,2001,Professional_Profile,Service (Government),Female,15-29,38,Employed
+35,West Bengal,2001,Professional_Profile,Others (Please Specify),Female,15-29,271,Unemployed
+36,West Bengal,2001,Professional_Profile,Others (Please Specify),Male,15-29,347,Unemployed
+37,West Bengal,2001,Professional_Profile,Professional Activity,Male,15-29,23,Employed
+38,West Bengal,2001,Professional_Profile,Unemployed,Male,15-29,217,Unemployed
+39,West Bengal,2001,Professional_Profile,Retired Person,Male,15-29,0,Retired
+40,West Bengal,2001,Professional_Profile,Service (Private),Male,15-29,229,Employed
+41,West Bengal,2001,Professional_Profile,Self-employed (Business activity),Male,15-29,88,Employed
+42,West Bengal,2001,Professional_Profile,Student,Male,15-29,263,Unemployed
+43,West Bengal,2001,Professional_Profile,House Wife,Male,15-29,0,Unemployed
+44,West Bengal,2001,Professional_Profile,Public Sector Undertaking,Male,15-29,170,Employed
+45,West Bengal,2001,Professional_Profile,Farming/Agriculture Activity,Male,15-29,284,Employed
+46,West Bengal,2001,Professional_Profile,Others (Please Specify),Male,15-29,364,Unemployed
+47,West Bengal,2001,Professional_Profile,Service (Government),Male,15-29,42,Employed
+48,West Bengal,2001,Professional_Profile,Others (Please Specify),Female,30-44,265,Unemployed
+49,West Bengal,2001,Professional_Profile,Retired Person,Female,30-44,0,Retired
+50,West Bengal,2001,Professional_Profile,Service (Government),Female,30-44,65,Employed
+51,West Bengal,2001,Professional_Profile,Public Sector Undertaking,Female,30-44,104,Employed
+52,West Bengal,2001,Professional_Profile,Others (Please Specify),Female,30-44,544,Unemployed
+53,West Bengal,2001,Professional_Profile,House Wife,Female,30-44,588,Unemployed
+54,West Bengal,2001,Professional_Profile,Professional Activity,Female,30-44,28,Employed
+55,West Bengal,2001,Professional_Profile,Self-employed (Business activity),Female,30-44,44,Employed
+56,West Bengal,2001,Professional_Profile,Service (Private),Female,30-44,121,Employed
+57,West Bengal,2001,Professional_Profile,Farming/Agriculture Activity,Female,30-44,133,Employed
+58,West Bengal,2001,Professional_Profile,Student,Female,30-44,13,Unemployed
+59,West Bengal,2001,Professional_Profile,Unemployed,Female,30-44,110,Unemployed
+60,West Bengal,2001,Professional_Profile,Service (Private),Male,30-44,366,Employed
+61,West Bengal,2001,Professional_Profile,Others (Please Specify),Male,30-44,328,Unemployed
+62,West Bengal,2001,Professional_Profile,Others (Please Specify),Male,30-44,786,Unemployed
+63,West Bengal,2001,Professional_Profile,House Wife,Male,30-44,0,Unemployed
+64,West Bengal,2001,Professional_Profile,Farming/Agriculture Activity,Male,30-44,279,Employed
+65,West Bengal,2001,Professional_Profile,Professional Activity,Male,30-44,67,Employed
+66,West Bengal,2001,Professional_Profile,Public Sector Undertaking,Male,30-44,111,Employed
+67,West Bengal,2001,Professional_Profile,Unemployed,Male,30-44,229,Unemployed
+68,West Bengal,2001,Professional_Profile,Student,Male,30-44,2,Unemployed
+69,West Bengal,2001,Professional_Profile,Self-employed (Business activity),Male,30-44,193,Employed
+70,West Bengal,2001,Professional_Profile,Service (Government),Male,30-44,65,Employed
+71,West Bengal,2001,Professional_Profile,Retired Person,Male,30-44,0,Retired
+72,West Bengal,2001,Professional_Profile,Service (Private),Female,45-59,97,Employed
+73,West Bengal,2001,Professional_Profile,Others (Please Specify),Female,45-59,215,Unemployed
+74,West Bengal,2001,Professional_Profile,House Wife,Female,45-59,242,Unemployed
+75,West Bengal,2001,Professional_Profile,Retired Person,Female,45-59,17,Retired
+76,West Bengal,2001,Professional_Profile,Farming/Agriculture Activity,Female,45-59,93,Employed
+77,West Bengal,2001,Professional_Profile,Service (Government),Female,45-59,13,Employed
+78,West Bengal,2001,Professional_Profile,Self-employed (Business activity),Female,45-59,51,Employed
+79,West Bengal,2001,Professional_Profile,Unemployed,Female,45-59,14,Unemployed
+80,West Bengal,2001,Professional_Profile,Others (Please Specify),Female,45-59,348,Unemployed
+81,West Bengal,2001,Professional_Profile,Professional Activity,Female,45-59,16,Employed
+82,West Bengal,2001,Professional_Profile,Public Sector Undertaking,Female,45-59,64,Employed
+83,West Bengal,2001,Professional_Profile,Student,Female,45-59,0,Unemployed
+84,West Bengal,2001,Professional_Profile,Retired Person,Male,45-59,8,Retired
+85,West Bengal,2001,Professional_Profile,Service (Government),Male,45-59,68,Employed
+86,West Bengal,2001,Professional_Profile,Student,Male,45-59,0,Unemployed
+87,West Bengal,2001,Professional_Profile,Unemployed,Male,45-59,186,Unemployed
+88,West Bengal,2001,Professional_Profile,House Wife,Male,45-59,0,Unemployed
+89,West Bengal,2001,Professional_Profile,Self-employed (Business activity),Male,45-59,195,Employed
+90,West Bengal,2001,Professional_Profile,Others (Please Specify),Male,45-59,291,Unemployed
+91,West Bengal,2001,Professional_Profile,Service (Private),Male,45-59,335,Employed
+92,West Bengal,2001,Professional_Profile,Farming/Agriculture Activity,Male,45-59,266,Employed
+93,West Bengal,2001,Professional_Profile,Others (Please Specify),Male,45-59,496,Unemployed
+94,West Bengal,2001,Professional_Profile,Professional Activity,Male,45-59,64,Employed
+95,West Bengal,2001,Professional_Profile,Public Sector Undertaking,Male,45-59,137,Employed
+96,West Bengal,2001,Professional_Profile,House Wife,Female,60+,72,Unemployed
+97,West Bengal,2001,Professional_Profile,Others (Please Specify),Female,60+,72,Unemployed
+98,West Bengal,2001,Professional_Profile,Others (Please Specify),Female,60+,193,Unemployed
+99,West Bengal,2001,Professional_Profile,Professional Activity,Female,60+,10,Employed
+100,West Bengal,2001,Professional_Profile,Self-employed (Business activity),Female,60+,37,Employed
+101,West Bengal,2001,Professional_Profile,Student,Female,60+,0,Unemployed
+102,West Bengal,2001,Professional_Profile,Service (Private),Female,60+,48,Employed
+103,West Bengal,2001,Professional_Profile,Farming/Agriculture Activity,Female,60+,0,Employed
+104,West Bengal,2001,Professional_Profile,Public Sector Undertaking,Female,60+,8,Employed
+105,West Bengal,2001,Professional_Profile,Service (Government),Female,60+,5,Employed
+106,West Bengal,2001,Professional_Profile,Unemployed,Female,60+,0,Unemployed
+107,West Bengal,2001,Professional_Profile,Retired Person,Female,60+,28,Retired
+108,West Bengal,2001,Professional_Profile,Retired Person,Male,60+,94,Retired
+109,West Bengal,2001,Professional_Profile,Farming/Agriculture Activity,Male,60+,98,Employed
+110,West Bengal,2001,Professional_Profile,Student,Male,60+,0,Unemployed
+111,West Bengal,2001,Professional_Profile,Professional Activity,Male,60+,41,Employed
+112,West Bengal,2001,Professional_Profile,House Wife,Male,60+,0,Unemployed
+113,West Bengal,2001,Professional_Profile,Public Sector Undertaking,Male,60+,55,Employed
+114,West Bengal,2001,Professional_Profile,Unemployed,Male,60+,12,Unemployed
+115,West Bengal,2001,Professional_Profile,Others (Please Specify),Male,60+,153,Unemployed
+116,West Bengal,2001,Professional_Profile,Self-employed (Business activity),Male,60+,33,Employed
+117,West Bengal,2001,Professional_Profile,Service (Government),Male,60+,7,Employed
+118,West Bengal,2001,Professional_Profile,Service (Private),Male,60+,49,Employed
+119,West Bengal,2001,Professional_Profile,Others (Please Specify),Male,60+,171,Unemployed
+120,West Bengal,2002,Professional_Profile,Public Sector Undertaking,Female,0-14,0,Employed
+121,West Bengal,2002,Professional_Profile,Student,Female,0-14,144,Unemployed
+122,West Bengal,2002,Professional_Profile,Others (Please Specify),Female,0-14,40,Unemployed
+123,West Bengal,2002,Professional_Profile,Service (Government),Female,0-14,0,Employed
+124,West Bengal,2002,Professional_Profile,Others (Please Specify),Female,0-14,109,Unemployed
+125,West Bengal,2002,Professional_Profile,Farming/Agriculture Activity,Female,0-14,1,Employed
+126,West Bengal,2002,Professional_Profile,Self-employed (Business activity),Female,0-14,0,Employed
+127,West Bengal,2002,Professional_Profile,Professional Activity,Female,0-14,0,Employed
+128,West Bengal,2002,Professional_Profile,Unemployed,Female,0-14,0,Unemployed
+129,West Bengal,2002,Professional_Profile,House Wife,Female,0-14,0,Unemployed
+130,West Bengal,2002,Professional_Profile,Service (Private),Female,0-14,0,Employed
+131,West Bengal,2002,Professional_Profile,Retired Person,Female,0-14,0,Retired
+132,West Bengal,2002,Professional_Profile,Farming/Agriculture Activity,Male,0-14,0,Employed
+133,West Bengal,2002,Professional_Profile,Others (Please Specify),Male,0-14,118,Unemployed
+134,West Bengal,2002,Professional_Profile,Self-employed (Business activity),Male,0-14,0,Employed
+135,West Bengal,2002,Professional_Profile,Professional Activity,Male,0-14,0,Employed
+136,West Bengal,2002,Professional_Profile,Public Sector Undertaking,Male,0-14,0,Employed
+137,West Bengal,2002,Professional_Profile,Service (Government),Male,0-14,0,Employed
+138,West Bengal,2002,Professional_Profile,Others (Please Specify),Male,0-14,32,Unemployed
+139,West Bengal,2002,Professional_Profile,Student,Male,0-14,127,Unemployed
+140,West Bengal,2002,Professional_Profile,Unemployed,Male,0-14,4,Unemployed
+141,West Bengal,2002,Professional_Profile,Retired Person,Male,0-14,0,Retired
+142,West Bengal,2002,Professional_Profile,Service (Private),Male,0-14,2,Employed
+143,West Bengal,2002,Professional_Profile,House Wife,Male,0-14,0,Unemployed
+144,West Bengal,2002,Professional_Profile,Farming/Agriculture Activity,Female,15-29,108,Employed
+145,West Bengal,2002,Professional_Profile,Retired Person,Female,15-29,0,Retired
+146,West Bengal,2002,Professional_Profile,Self-employed (Business activity),Female,15-29,59,Employed
+147,West Bengal,2002,Professional_Profile,Service (Private),Female,15-29,141,Employed
+148,West Bengal,2002,Professional_Profile,Public Sector Undertaking,Female,15-29,72,Employed
+149,West Bengal,2002,Professional_Profile,Student,Female,15-29,118,Unemployed
+150,West Bengal,2002,Professional_Profile,Others (Please Specify),Female,15-29,340,Unemployed
+151,West Bengal,2002,Professional_Profile,Service (Government),Female,15-29,21,Employed
+152,West Bengal,2002,Professional_Profile,Professional Activity,Female,15-29,1,Employed
+153,West Bengal,2002,Professional_Profile,Others (Please Specify),Female,15-29,223,Unemployed
+154,West Bengal,2002,Professional_Profile,Unemployed,Female,15-29,150,Unemployed
+155,West Bengal,2002,Professional_Profile,House Wife,Female,15-29,925,Unemployed
+156,West Bengal,2002,Professional_Profile,Professional Activity,Male,15-29,15,Employed
+157,West Bengal,2002,Professional_Profile,Others (Please Specify),Male,15-29,347,Unemployed
+158,West Bengal,2002,Professional_Profile,Service (Private),Male,15-29,251,Employed
+159,West Bengal,2002,Professional_Profile,House Wife,Male,15-29,0,Unemployed
+160,West Bengal,2002,Professional_Profile,Self-employed (Business activity),Male,15-29,155,Employed
+161,West Bengal,2002,Professional_Profile,Service (Government),Male,15-29,20,Employed
+162,West Bengal,2002,Professional_Profile,Others (Please Specify),Male,15-29,408,Unemployed
+163,West Bengal,2002,Professional_Profile,Farming/Agriculture Activity,Male,15-29,321,Employed
+164,West Bengal,2002,Professional_Profile,Student,Male,15-29,251,Unemployed
+165,West Bengal,2002,Professional_Profile,Unemployed,Male,15-29,274,Unemployed
+166,West Bengal,2002,Professional_Profile,Retired Person,Male,15-29,0,Retired
+167,West Bengal,2002,Professional_Profile,Public Sector Undertaking,Male,15-29,173,Employed
+168,West Bengal,2002,Professional_Profile,Unemployed,Female,30-44,124,Unemployed
+169,West Bengal,2002,Professional_Profile,Others (Please Specify),Female,30-44,178,Unemployed
+170,West Bengal,2002,Professional_Profile,House Wife,Female,30-44,907,Unemployed
+171,West Bengal,2002,Professional_Profile,Service (Private),Female,30-44,136,Employed
+172,West Bengal,2002,Professional_Profile,Others (Please Specify),Female,30-44,335,Unemployed
+173,West Bengal,2002,Professional_Profile,Professional Activity,Female,30-44,16,Employed
+174,West Bengal,2002,Professional_Profile,Service (Government),Female,30-44,35,Employed
+175,West Bengal,2002,Professional_Profile,Farming/Agriculture Activity,Female,30-44,140,Employed
+176,West Bengal,2002,Professional_Profile,Public Sector Undertaking,Female,30-44,86,Employed
+177,West Bengal,2002,Professional_Profile,Self-employed (Business activity),Female,30-44,25,Employed
+178,West Bengal,2002,Professional_Profile,Retired Person,Female,30-44,0,Retired
+179,West Bengal,2002,Professional_Profile,Student,Female,30-44,6,Unemployed
+180,West Bengal,2002,Professional_Profile,Retired Person,Male,30-44,0,Retired
+181,West Bengal,2002,Professional_Profile,Others (Please Specify),Male,30-44,547,Unemployed
+182,West Bengal,2002,Professional_Profile,Student,Male,30-44,20,Unemployed
+183,West Bengal,2002,Professional_Profile,Public Sector Undertaking,Male,30-44,96,Employed
+184,West Bengal,2002,Professional_Profile,Others (Please Specify),Male,30-44,400,Unemployed
+185,West Bengal,2002,Professional_Profile,Unemployed,Male,30-44,218,Unemployed
+186,West Bengal,2002,Professional_Profile,Farming/Agriculture Activity,Male,30-44,425,Employed
+187,West Bengal,2002,Professional_Profile,Service (Government),Male,30-44,64,Employed
+188,West Bengal,2002,Professional_Profile,Professional Activity,Male,30-44,79,Employed
+189,West Bengal,2002,Professional_Profile,Service (Private),Male,30-44,273,Employed
+190,West Bengal,2002,Professional_Profile,House Wife,Male,30-44,0,Unemployed
+191,West Bengal,2002,Professional_Profile,Self-employed (Business activity),Male,30-44,232,Employed
+192,West Bengal,2002,Professional_Profile,Self-employed (Business activity),Female,45-59,66,Employed
+193,West Bengal,2002,Professional_Profile,Service (Private),Female,45-59,63,Employed
+194,West Bengal,2002,Professional_Profile,Student,Female,45-59,0,Unemployed
+195,West Bengal,2002,Professional_Profile,Farming/Agriculture Activity,Female,45-59,119,Employed
+196,West Bengal,2002,Professional_Profile,Others (Please Specify),Female,45-59,161,Unemployed
+197,West Bengal,2002,Professional_Profile,Unemployed,Female,45-59,13,Unemployed
+198,West Bengal,2002,Professional_Profile,House Wife,Female,45-59,395,Unemployed
+199,West Bengal,2002,Professional_Profile,Professional Activity,Female,45-59,28,Employed
+200,West Bengal,2002,Professional_Profile,Service (Government),Female,45-59,49,Employed
+201,West Bengal,2002,Professional_Profile,Others (Please Specify),Female,45-59,136,Unemployed
+202,West Bengal,2002,Professional_Profile,Public Sector Undertaking,Female,45-59,54,Employed
+203,West Bengal,2002,Professional_Profile,Retired Person,Female,45-59,0,Retired
+204,West Bengal,2002,Professional_Profile,Public Sector Undertaking,Male,45-59,110,Employed
+205,West Bengal,2002,Professional_Profile,Farming/Agriculture Activity,Male,45-59,302,Employed
+206,West Bengal,2002,Professional_Profile,Retired Person,Male,45-59,40,Retired
+207,West Bengal,2002,Professional_Profile,House Wife,Male,45-59,0,Unemployed
+208,West Bengal,2002,Professional_Profile,Others (Please Specify),Male,45-59,339,Unemployed
+209,West Bengal,2002,Professional_Profile,Self-employed (Business activity),Male,45-59,185,Employed
+210,West Bengal,2002,Professional_Profile,Professional Activity,Male,45-59,56,Employed
+211,West Bengal,2002,Professional_Profile,Student,Male,45-59,1,Unemployed
+212,West Bengal,2002,Professional_Profile,Service (Private),Male,45-59,235,Employed
+213,West Bengal,2002,Professional_Profile,Unemployed,Male,45-59,145,Unemployed
+214,West Bengal,2002,Professional_Profile,Others (Please Specify),Male,45-59,239,Unemployed
+215,West Bengal,2002,Professional_Profile,Service (Government),Male,45-59,59,Employed
+216,West Bengal,2002,Professional_Profile,Student,Female,60+,0,Unemployed
+217,West Bengal,2002,Professional_Profile,House Wife,Female,60+,67,Unemployed
+218,West Bengal,2002,Professional_Profile,Retired Person,Female,60+,18,Retired
+219,West Bengal,2002,Professional_Profile,Unemployed,Female,60+,3,Unemployed
+220,West Bengal,2002,Professional_Profile,Service (Private),Female,60+,34,Employed
+221,West Bengal,2002,Professional_Profile,Self-employed (Business activity),Female,60+,20,Employed
+222,West Bengal,2002,Professional_Profile,Others (Please Specify),Female,60+,138,Unemployed
+223,West Bengal,2002,Professional_Profile,Farming/Agriculture Activity,Female,60+,7,Employed
+224,West Bengal,2002,Professional_Profile,Others (Please Specify),Female,60+,70,Unemployed
+225,West Bengal,2002,Professional_Profile,Professional Activity,Female,60+,0,Employed
+226,West Bengal,2002,Professional_Profile,Service (Government),Female,60+,1,Employed
+227,West Bengal,2002,Professional_Profile,Public Sector Undertaking,Female,60+,1,Employed
+228,West Bengal,2002,Professional_Profile,House Wife,Male,60+,0,Unemployed
+229,West Bengal,2002,Professional_Profile,Farming/Agriculture Activity,Male,60+,95,Employed
+230,West Bengal,2002,Professional_Profile,Service (Government),Male,60+,5,Employed
+231,West Bengal,2002,Professional_Profile,Professional Activity,Male,60+,14,Employed
+232,West Bengal,2002,Professional_Profile,Student,Male,60+,0,Unemployed
+233,West Bengal,2002,Professional_Profile,Unemployed,Male,60+,19,Unemployed
+234,West Bengal,2002,Professional_Profile,Public Sector Undertaking,Male,60+,27,Employed
+235,West Bengal,2002,Professional_Profile,Service (Private),Male,60+,31,Employed
+236,West Bengal,2002,Professional_Profile,Self-employed (Business activity),Male,60+,47,Employed
+237,West Bengal,2002,Professional_Profile,Others (Please Specify),Male,60+,137,Unemployed
+238,West Bengal,2002,Professional_Profile,Retired Person,Male,60+,95,Retired
+239,West Bengal,2002,Professional_Profile,Others (Please Specify),Male,60+,91,Unemployed
+240,West Bengal,2003,Professional_Profile,Unemployed,Female,0-14,0,Unemployed
+241,West Bengal,2003,Professional_Profile,Professional Activity,Female,0-14,0,Employed
+242,West Bengal,2003,Professional_Profile,Public Sector Undertaking,Female,0-14,0,Employed
+243,West Bengal,2003,Professional_Profile,Others (Please Specify),Female,0-14,4,Unemployed
+244,West Bengal,2003,Professional_Profile,Service (Private),Female,0-14,0,Employed
+245,West Bengal,2003,Professional_Profile,Farming/Agriculture Activity,Female,0-14,0,Employed
+246,West Bengal,2003,Professional_Profile,Retired Person,Female,0-14,0,Retired
+247,West Bengal,2003,Professional_Profile,Others (Please Specify),Female,0-14,33,Unemployed
+248,West Bengal,2003,Professional_Profile,Student,Female,0-14,61,Unemployed
+249,West Bengal,2003,Professional_Profile,Self-employed (Business activity),Female,0-14,0,Employed
+250,West Bengal,2003,Professional_Profile,House Wife,Female,0-14,0,Unemployed
+251,West Bengal,2003,Professional_Profile,Service (Government),Female,0-14,0,Employed
+252,West Bengal,2003,Professional_Profile,House Wife,Male,0-14,0,Unemployed
+253,West Bengal,2003,Professional_Profile,Service (Private),Male,0-14,0,Employed
+254,West Bengal,2003,Professional_Profile,Retired Person,Male,0-14,0,Retired
+255,West Bengal,2003,Professional_Profile,Farming/Agriculture Activity,Male,0-14,0,Employed
+256,West Bengal,2003,Professional_Profile,Unemployed,Male,0-14,0,Unemployed
+257,West Bengal,2003,Professional_Profile,Professional Activity,Male,0-14,0,Employed
+258,West Bengal,2003,Professional_Profile,Public Sector Undertaking,Male,0-14,0,Employed
+259,West Bengal,2003,Professional_Profile,Student,Male,0-14,41,Unemployed
+260,West Bengal,2003,Professional_Profile,Others (Please Specify),Male,0-14,18,Unemployed
+261,West Bengal,2003,Professional_Profile,Others (Please Specify),Male,0-14,2,Unemployed
+262,West Bengal,2003,Professional_Profile,Self-employed (Business activity),Male,0-14,0,Employed
+263,West Bengal,2003,Professional_Profile,Service (Government),Male,0-14,0,Employed
+264,West Bengal,2003,Professional_Profile,Unemployed,Female,15-29,87,Unemployed
+265,West Bengal,2003,Professional_Profile,Farming/Agriculture Activity,Female,15-29,51,Employed
+266,West Bengal,2003,Professional_Profile,Others (Please Specify),Female,15-29,80,Unemployed
+267,West Bengal,2003,Professional_Profile,Service (Private),Female,15-29,26,Employed
+268,West Bengal,2003,Professional_Profile,Retired Person,Female,15-29,0,Retired
+269,West Bengal,2003,Professional_Profile,House Wife,Female,15-29,1402,Unemployed
+270,West Bengal,2003,Professional_Profile,Service (Government),Female,15-29,7,Employed
+271,West Bengal,2003,Professional_Profile,Self-employed (Business activity),Female,15-29,35,Employed
+272,West Bengal,2003,Professional_Profile,Student,Female,15-29,413,Unemployed
+273,West Bengal,2003,Professional_Profile,Professional Activity,Female,15-29,9,Employed
+274,West Bengal,2003,Professional_Profile,Public Sector Undertaking,Female,15-29,79,Employed
+275,West Bengal,2003,Professional_Profile,Others (Please Specify),Female,15-29,93,Unemployed
+276,West Bengal,2003,Professional_Profile,Self-employed (Business activity),Male,15-29,217,Employed
+277,West Bengal,2003,Professional_Profile,Student,Male,15-29,418,Unemployed
+278,West Bengal,2003,Professional_Profile,Service (Government),Male,15-29,74,Employed
+279,West Bengal,2003,Professional_Profile,Service (Private),Male,15-29,221,Employed
+280,West Bengal,2003,Professional_Profile,Professional Activity,Male,15-29,92,Employed
+281,West Bengal,2003,Professional_Profile,Public Sector Undertaking,Male,15-29,322,Employed
+282,West Bengal,2003,Professional_Profile,Others (Please Specify),Male,15-29,204,Unemployed
+283,West Bengal,2003,Professional_Profile,Farming/Agriculture Activity,Male,15-29,201,Employed
+284,West Bengal,2003,Professional_Profile,Retired Person,Male,15-29,0,Retired
+285,West Bengal,2003,Professional_Profile,Others (Please Specify),Male,15-29,255,Unemployed
+286,West Bengal,2003,Professional_Profile,Unemployed,Male,15-29,392,Unemployed
+287,West Bengal,2003,Professional_Profile,House Wife,Male,15-29,0,Unemployed
+288,West Bengal,2003,Professional_Profile,Retired Person,Female,30-44,0,Retired
+289,West Bengal,2003,Professional_Profile,Unemployed,Female,30-44,64,Unemployed
+290,West Bengal,2003,Professional_Profile,Professional Activity,Female,30-44,6,Employed
+291,West Bengal,2003,Professional_Profile,Student,Female,30-44,99,Unemployed
+292,West Bengal,2003,Professional_Profile,Service (Government),Female,30-44,12,Employed
+293,West Bengal,2003,Professional_Profile,Self-employed (Business activity),Female,30-44,22,Employed
+294,West Bengal,2003,Professional_Profile,Others (Please Specify),Female,30-44,123,Unemployed
+295,West Bengal,2003,Professional_Profile,Public Sector Undertaking,Female,30-44,44,Employed
+296,West Bengal,2003,Professional_Profile,House Wife,Female,30-44,1414,Unemployed
+297,West Bengal,2003,Professional_Profile,Service (Private),Female,30-44,47,Employed
+298,West Bengal,2003,Professional_Profile,Farming/Agriculture Activity,Female,30-44,48,Employed
+299,West Bengal,2003,Professional_Profile,Others (Please Specify),Female,30-44,16,Unemployed
+300,West Bengal,2003,Professional_Profile,Self-employed (Business activity),Male,30-44,329,Employed
+301,West Bengal,2003,Professional_Profile,Professional Activity,Male,30-44,121,Employed
+302,West Bengal,2003,Professional_Profile,Unemployed,Male,30-44,356,Unemployed
+303,West Bengal,2003,Professional_Profile,Student,Male,30-44,79,Unemployed
+304,West Bengal,2003,Professional_Profile,Retired Person,Male,30-44,0,Retired
+305,West Bengal,2003,Professional_Profile,Service (Government),Male,30-44,76,Employed
+306,West Bengal,2003,Professional_Profile,Others (Please Specify),Male,30-44,444,Unemployed
+307,West Bengal,2003,Professional_Profile,Public Sector Undertaking,Male,30-44,255,Employed
+308,West Bengal,2003,Professional_Profile,Others (Please Specify),Male,30-44,274,Unemployed
+309,West Bengal,2003,Professional_Profile,House Wife,Male,30-44,0,Unemployed
+310,West Bengal,2003,Professional_Profile,Farming/Agriculture Activity,Male,30-44,394,Employed
+311,West Bengal,2003,Professional_Profile,Service (Private),Male,30-44,290,Employed
+312,West Bengal,2003,Professional_Profile,Others (Please Specify),Female,45-59,103,Unemployed
+313,West Bengal,2003,Professional_Profile,Retired Person,Female,45-59,0,Retired
+314,West Bengal,2003,Professional_Profile,Self-employed (Business activity),Female,45-59,11,Employed
+315,West Bengal,2003,Professional_Profile,Student,Female,45-59,0,Unemployed
+316,West Bengal,2003,Professional_Profile,Service (Government),Female,45-59,9,Employed
+317,West Bengal,2003,Professional_Profile,Farming/Agriculture Activity,Female,45-59,16,Employed
+318,West Bengal,2003,Professional_Profile,House Wife,Female,45-59,980,Unemployed
+319,West Bengal,2003,Professional_Profile,Professional Activity,Female,45-59,5,Employed
+320,West Bengal,2003,Professional_Profile,Public Sector Undertaking,Female,45-59,18,Employed
+321,West Bengal,2003,Professional_Profile,Service (Private),Female,45-59,22,Employed
+322,West Bengal,2003,Professional_Profile,Others (Please Specify),Female,45-59,27,Unemployed
+323,West Bengal,2003,Professional_Profile,Unemployed,Female,45-59,0,Unemployed
+324,West Bengal,2003,Professional_Profile,Unemployed,Male,45-59,9,Unemployed
+325,West Bengal,2003,Professional_Profile,Professional Activity,Male,45-59,140,Employed
+326,West Bengal,2003,Professional_Profile,Farming/Agriculture Activity,Male,45-59,260,Employed
+327,West Bengal,2003,Professional_Profile,Retired Person,Male,45-59,0,Retired
+328,West Bengal,2003,Professional_Profile,Others (Please Specify),Male,45-59,166,Unemployed
+329,West Bengal,2003,Professional_Profile,Self-employed (Business activity),Male,45-59,322,Employed
+330,West Bengal,2003,Professional_Profile,Service (Private),Male,45-59,226,Employed
+331,West Bengal,2003,Professional_Profile,Public Sector Undertaking,Male,45-59,369,Employed
+332,West Bengal,2003,Professional_Profile,Student,Male,45-59,0,Unemployed
+333,West Bengal,2003,Professional_Profile,Others (Please Specify),Male,45-59,226,Unemployed
+334,West Bengal,2003,Professional_Profile,House Wife,Male,45-59,0,Unemployed
+335,West Bengal,2003,Professional_Profile,Service (Government),Male,45-59,52,Employed
+336,West Bengal,2003,Professional_Profile,Others (Please Specify),Female,60+,53,Unemployed
+337,West Bengal,2003,Professional_Profile,Service (Private),Female,60+,0,Employed
+338,West Bengal,2003,Professional_Profile,Professional Activity,Female,60+,1,Employed
+339,West Bengal,2003,Professional_Profile,House Wife,Female,60+,287,Unemployed
+340,West Bengal,2003,Professional_Profile,Self-employed (Business activity),Female,60+,0,Employed
+341,West Bengal,2003,Professional_Profile,Unemployed,Female,60+,0,Unemployed
+342,West Bengal,2003,Professional_Profile,Student,Female,60+,0,Unemployed
+343,West Bengal,2003,Professional_Profile,Retired Person,Female,60+,7,Retired
+344,West Bengal,2003,Professional_Profile,Farming/Agriculture Activity,Female,60+,1,Employed
+345,West Bengal,2003,Professional_Profile,Service (Government),Female,60+,0,Employed
+346,West Bengal,2003,Professional_Profile,Public Sector Undertaking,Female,60+,0,Employed
+347,West Bengal,2003,Professional_Profile,Others (Please Specify),Female,60+,41,Unemployed
+348,West Bengal,2003,Professional_Profile,Service (Government),Male,60+,0,Employed
+349,West Bengal,2003,Professional_Profile,Public Sector Undertaking,Male,60+,0,Employed
+350,West Bengal,2003,Professional_Profile,Others (Please Specify),Male,60+,73,Unemployed
+351,West Bengal,2003,Professional_Profile,Retired Person,Male,60+,241,Retired
+352,West Bengal,2003,Professional_Profile,Others (Please Specify),Male,60+,111,Unemployed
+353,West Bengal,2003,Professional_Profile,Self-employed (Business activity),Male,60+,74,Employed
+354,West Bengal,2003,Professional_Profile,Service (Private),Male,60+,0,Employed
+355,West Bengal,2003,Professional_Profile,Farming/Agriculture Activity,Male,60+,65,Employed
+356,West Bengal,2003,Professional_Profile,House Wife,Male,60+,0,Unemployed
+357,West Bengal,2003,Professional_Profile,Unemployed,Male,60+,0,Unemployed
+358,West Bengal,2003,Professional_Profile,Student,Male,60+,0,Unemployed
+359,West Bengal,2003,Professional_Profile,Professional Activity,Male,60+,15,Employed
+360,West Bengal,2004,Professional_Profile,Student,Female,0-14,145,Unemployed
+361,West Bengal,2004,Professional_Profile,House Wife,Female,0-14,0,Unemployed
+362,West Bengal,2004,Professional_Profile,Others (Please Specify),Female,0-14,127,Unemployed
+363,West Bengal,2004,Professional_Profile,Farming/Agriculture Activity,Female,0-14,2,Employed
+364,West Bengal,2004,Professional_Profile,Unemployed,Female,0-14,0,Unemployed
+365,West Bengal,2004,Professional_Profile,Others (Please Specify),Female,0-14,15,Unemployed
+366,West Bengal,2004,Professional_Profile,Self-employed (Business activity),Female,0-14,0,Employed
+367,West Bengal,2004,Professional_Profile,Service (Government),Female,0-14,0,Employed
+368,West Bengal,2004,Professional_Profile,Professional Activity,Female,0-14,0,Employed
+369,West Bengal,2004,Professional_Profile,Public Sector Undertaking,Female,0-14,0,Employed
+370,West Bengal,2004,Professional_Profile,Retired Person,Female,0-14,0,Retired
+371,West Bengal,2004,Professional_Profile,Service (Private),Female,0-14,0,Employed
+372,West Bengal,2004,Professional_Profile,House Wife,Male,0-14,0,Unemployed
+373,West Bengal,2004,Professional_Profile,Public Sector Undertaking,Male,0-14,0,Employed
+374,West Bengal,2004,Professional_Profile,Unemployed,Male,0-14,0,Unemployed
+375,West Bengal,2004,Professional_Profile,Others (Please Specify),Male,0-14,27,Unemployed
+376,West Bengal,2004,Professional_Profile,Retired Person,Male,0-14,0,Retired
+377,West Bengal,2004,Professional_Profile,Student,Male,0-14,119,Unemployed
+378,West Bengal,2004,Professional_Profile,Others (Please Specify),Male,0-14,138,Unemployed
+379,West Bengal,2004,Professional_Profile,Farming/Agriculture Activity,Male,0-14,0,Employed
+380,West Bengal,2004,Professional_Profile,Service (Government),Male,0-14,0,Employed
+381,West Bengal,2004,Professional_Profile,Service (Private),Male,0-14,0,Employed
+382,West Bengal,2004,Professional_Profile,Professional Activity,Male,0-14,0,Employed
+383,West Bengal,2004,Professional_Profile,Self-employed (Business activity),Male,0-14,0,Employed
+384,West Bengal,2004,Professional_Profile,Others (Please Specify),Female,15-29,160,Unemployed
+385,West Bengal,2004,Professional_Profile,House Wife,Female,15-29,1577,Unemployed
+386,West Bengal,2004,Professional_Profile,Service (Private),Female,15-29,37,Employed
+387,West Bengal,2004,Professional_Profile,Unemployed,Female,15-29,68,Unemployed
+388,West Bengal,2004,Professional_Profile,Self-employed (Business activity),Female,15-29,1,Employed
+389,West Bengal,2004,Professional_Profile,Farming/Agriculture Activity,Female,15-29,7,Employed
+390,West Bengal,2004,Professional_Profile,Public Sector Undertaking,Female,15-29,13,Employed
+391,West Bengal,2004,Professional_Profile,Professional Activity,Female,15-29,2,Employed
+392,West Bengal,2004,Professional_Profile,Service (Government),Female,15-29,9,Employed
+393,West Bengal,2004,Professional_Profile,Retired Person,Female,15-29,0,Retired
+394,West Bengal,2004,Professional_Profile,Student,Female,15-29,212,Unemployed
+395,West Bengal,2004,Professional_Profile,Others (Please Specify),Female,15-29,284,Unemployed
+396,West Bengal,2004,Professional_Profile,Farming/Agriculture Activity,Male,15-29,220,Employed
+397,West Bengal,2004,Professional_Profile,House Wife,Male,15-29,0,Unemployed
+398,West Bengal,2004,Professional_Profile,Self-employed (Business activity),Male,15-29,127,Employed
+399,West Bengal,2004,Professional_Profile,Retired Person,Male,15-29,0,Retired
+400,West Bengal,2004,Professional_Profile,Unemployed,Male,15-29,371,Unemployed
+401,West Bengal,2004,Professional_Profile,Others (Please Specify),Male,15-29,592,Unemployed
+402,West Bengal,2004,Professional_Profile,Others (Please Specify),Male,15-29,357,Unemployed
+403,West Bengal,2004,Professional_Profile,Public Sector Undertaking,Male,15-29,162,Employed
+404,West Bengal,2004,Professional_Profile,Professional Activity,Male,15-29,71,Employed
+405,West Bengal,2004,Professional_Profile,Service (Government),Male,15-29,15,Employed
+406,West Bengal,2004,Professional_Profile,Service (Private),Male,15-29,122,Employed
+407,West Bengal,2004,Professional_Profile,Student,Male,15-29,318,Unemployed
+408,West Bengal,2004,Professional_Profile,House Wife,Female,30-44,1224,Unemployed
+409,West Bengal,2004,Professional_Profile,Service (Government),Female,30-44,11,Employed
+410,West Bengal,2004,Professional_Profile,Others (Please Specify),Female,30-44,126,Unemployed
+411,West Bengal,2004,Professional_Profile,Farming/Agriculture Activity,Female,30-44,10,Employed
+412,West Bengal,2004,Professional_Profile,Professional Activity,Female,30-44,4,Employed
+413,West Bengal,2004,Professional_Profile,Service (Private),Female,30-44,20,Employed
+414,West Bengal,2004,Professional_Profile,Others (Please Specify),Female,30-44,416,Unemployed
+415,West Bengal,2004,Professional_Profile,Public Sector Undertaking,Female,30-44,27,Employed
+416,West Bengal,2004,Professional_Profile,Unemployed,Female,30-44,74,Unemployed
+417,West Bengal,2004,Professional_Profile,Self-employed (Business activity),Female,30-44,20,Employed
+418,West Bengal,2004,Professional_Profile,Student,Female,30-44,4,Unemployed
+419,West Bengal,2004,Professional_Profile,Retired Person,Female,30-44,0,Retired
+420,West Bengal,2004,Professional_Profile,Public Sector Undertaking,Male,30-44,243,Employed
+421,West Bengal,2004,Professional_Profile,House Wife,Male,30-44,0,Unemployed
+422,West Bengal,2004,Professional_Profile,Others (Please Specify),Male,30-44,691,Unemployed
+423,West Bengal,2004,Professional_Profile,Self-employed (Business activity),Male,30-44,271,Employed
+424,West Bengal,2004,Professional_Profile,Professional Activity,Male,30-44,70,Employed
+425,West Bengal,2004,Professional_Profile,Service (Private),Male,30-44,263,Employed
+426,West Bengal,2004,Professional_Profile,Unemployed,Male,30-44,270,Unemployed
+427,West Bengal,2004,Professional_Profile,Student,Male,30-44,11,Unemployed
+428,West Bengal,2004,Professional_Profile,Service (Government),Male,30-44,65,Employed
+429,West Bengal,2004,Professional_Profile,Others (Please Specify),Male,30-44,368,Unemployed
+430,West Bengal,2004,Professional_Profile,Farming/Agriculture Activity,Male,30-44,298,Employed
+431,West Bengal,2004,Professional_Profile,Retired Person,Male,30-44,0,Retired
+432,West Bengal,2004,Professional_Profile,House Wife,Female,45-59,480,Unemployed
+433,West Bengal,2004,Professional_Profile,Unemployed,Female,45-59,16,Unemployed
+434,West Bengal,2004,Professional_Profile,Service (Government),Female,45-59,6,Employed
+435,West Bengal,2004,Professional_Profile,Others (Please Specify),Female,45-59,219,Unemployed
+436,West Bengal,2004,Professional_Profile,Others (Please Specify),Female,45-59,133,Unemployed
+437,West Bengal,2004,Professional_Profile,Professional Activity,Female,45-59,2,Employed
+438,West Bengal,2004,Professional_Profile,Self-employed (Business activity),Female,45-59,5,Employed
+439,West Bengal,2004,Professional_Profile,Farming/Agriculture Activity,Female,45-59,6,Employed
+440,West Bengal,2004,Professional_Profile,Retired Person,Female,45-59,3,Retired
+441,West Bengal,2004,Professional_Profile,Public Sector Undertaking,Female,45-59,26,Employed
+442,West Bengal,2004,Professional_Profile,Student,Female,45-59,0,Unemployed
+443,West Bengal,2004,Professional_Profile,Service (Private),Female,45-59,20,Employed
+444,West Bengal,2004,Professional_Profile,Professional Activity,Male,45-59,136,Employed
+445,West Bengal,2004,Professional_Profile,Farming/Agriculture Activity,Male,45-59,250,Employed
+446,West Bengal,2004,Professional_Profile,Service (Private),Male,45-59,212,Employed
+447,West Bengal,2004,Professional_Profile,Student,Male,45-59,0,Unemployed
+448,West Bengal,2004,Professional_Profile,House Wife,Male,45-59,0,Unemployed
+449,West Bengal,2004,Professional_Profile,Others (Please Specify),Male,45-59,256,Unemployed
+450,West Bengal,2004,Professional_Profile,Retired Person,Male,45-59,0,Retired
+451,West Bengal,2004,Professional_Profile,Self-employed (Business activity),Male,45-59,300,Employed
+452,West Bengal,2004,Professional_Profile,Public Sector Undertaking,Male,45-59,246,Employed
+453,West Bengal,2004,Professional_Profile,Others (Please Specify),Male,45-59,392,Unemployed
+454,West Bengal,2004,Professional_Profile,Unemployed,Male,45-59,72,Unemployed
+455,West Bengal,2004,Professional_Profile,Service (Government),Male,45-59,45,Employed
+456,West Bengal,2004,Professional_Profile,House Wife,Female,60+,71,Unemployed
+457,West Bengal,2004,Professional_Profile,Self-employed (Business activity),Female,60+,0,Employed
+458,West Bengal,2004,Professional_Profile,Others (Please Specify),Female,60+,85,Unemployed
+459,West Bengal,2004,Professional_Profile,Service (Private),Female,60+,0,Employed
+460,West Bengal,2004,Professional_Profile,Public Sector Undertaking,Female,60+,0,Employed
+461,West Bengal,2004,Professional_Profile,Service (Government),Female,60+,0,Employed
+462,West Bengal,2004,Professional_Profile,Retired Person,Female,60+,10,Retired
+463,West Bengal,2004,Professional_Profile,Professional Activity,Female,60+,1,Employed
+464,West Bengal,2004,Professional_Profile,Farming/Agriculture Activity,Female,60+,0,Employed
+465,West Bengal,2004,Professional_Profile,Student,Female,60+,0,Unemployed
+466,West Bengal,2004,Professional_Profile,Unemployed,Female,60+,0,Unemployed
+467,West Bengal,2004,Professional_Profile,Student,Male,60+,0,Unemployed
+468,West Bengal,2004,Professional_Profile,Service (Government),Male,60+,0,Employed
+469,West Bengal,2004,Professional_Profile,Service (Private),Male,60+,0,Employed
+470,West Bengal,2004,Professional_Profile,Others (Please Specify),Male,60+,152,Unemployed
+471,West Bengal,2004,Professional_Profile,House Wife,Male,60+,0,Unemployed
+472,West Bengal,2004,Professional_Profile,Others (Please Specify),Male,60+,107,Unemployed
+473,West Bengal,2004,Professional_Profile,Unemployed,Male,60+,0,Unemployed
+474,West Bengal,2004,Professional_Profile,Retired Person,Male,60+,218,Retired
+475,West Bengal,2004,Professional_Profile,Farming/Agriculture Activity,Male,60+,29,Employed
+476,West Bengal,2004,Professional_Profile,Public Sector Undertaking,Male,60+,0,Employed
+477,West Bengal,2004,Professional_Profile,Self-employed (Business activity),Male,60+,48,Employed
+478,West Bengal,2004,Professional_Profile,Professional Activity,Male,60+,9,Employed
+479,West Bengal,2005,Professional_Profile,Public Sector Undertaking,Female,0-14,0,Employed
+480,West Bengal,2005,Professional_Profile,Others (Please Specify),Female,0-14,37,Unemployed
+481,West Bengal,2005,Professional_Profile,Service (Government),Female,0-14,0,Employed
+482,West Bengal,2005,Professional_Profile,Others (Please Specify),Female,0-14,4,Unemployed
+483,West Bengal,2005,Professional_Profile,Self-employed (Business activity),Female,0-14,0,Employed
+484,West Bengal,2005,Professional_Profile,Unemployed,Female,0-14,0,Unemployed
+485,West Bengal,2005,Professional_Profile,Farming/Agriculture Activity,Female,0-14,0,Employed
+486,West Bengal,2005,Professional_Profile,Professional Activity,Female,0-14,0,Employed
+487,West Bengal,2005,Professional_Profile,Service (Private),Female,0-14,0,Employed
+488,West Bengal,2005,Professional_Profile,Retired Person,Female,0-14,0,Retired
+489,West Bengal,2005,Professional_Profile,House Wife,Female,0-14,0,Unemployed
+490,West Bengal,2005,Professional_Profile,Student,Female,0-14,164,Unemployed
+491,West Bengal,2005,Professional_Profile,Farming/Agriculture Activity,Male,0-14,0,Employed
+492,West Bengal,2005,Professional_Profile,Self-employed (Business activity),Male,0-14,0,Employed
+493,West Bengal,2005,Professional_Profile,Others (Please Specify),Male,0-14,73,Unemployed
+494,West Bengal,2005,Professional_Profile,Professional Activity,Male,0-14,0,Employed
+495,West Bengal,2005,Professional_Profile,Public Sector Undertaking,Male,0-14,0,Employed
+496,West Bengal,2005,Professional_Profile,Service (Private),Male,0-14,0,Employed
+497,West Bengal,2005,Professional_Profile,Service (Government),Male,0-14,0,Employed
+498,West Bengal,2005,Professional_Profile,Retired Person,Male,0-14,0,Retired
+499,West Bengal,2005,Professional_Profile,Student,Male,0-14,141,Unemployed
+500,West Bengal,2005,Professional_Profile,Unemployed,Male,0-14,0,Unemployed
+501,West Bengal,2005,Professional_Profile,House Wife,Male,0-14,0,Unemployed
+502,West Bengal,2005,Professional_Profile,Others (Please Specify),Male,0-14,0,Unemployed
+503,West Bengal,2005,Professional_Profile,Professional Activity,Female,15-29,3,Employed
+504,West Bengal,2005,Professional_Profile,Self-employed (Business activity),Female,15-29,11,Employed
+505,West Bengal,2005,Professional_Profile,Retired Person,Female,15-29,0,Retired
+506,West Bengal,2005,Professional_Profile,House Wife,Female,15-29,1834,Unemployed
+507,West Bengal,2005,Professional_Profile,Others (Please Specify),Female,15-29,345,Unemployed
+508,West Bengal,2005,Professional_Profile,Others (Please Specify),Female,15-29,193,Unemployed
+509,West Bengal,2005,Professional_Profile,Public Sector Undertaking,Female,15-29,32,Employed
+510,West Bengal,2005,Professional_Profile,Service (Private),Female,15-29,94,Employed
+511,West Bengal,2005,Professional_Profile,Student,Female,15-29,102,Unemployed
+512,West Bengal,2005,Professional_Profile,Unemployed,Female,15-29,152,Unemployed
+513,West Bengal,2005,Professional_Profile,Service (Government),Female,15-29,2,Employed
+514,West Bengal,2005,Professional_Profile,Farming/Agriculture Activity,Female,15-29,12,Employed
+515,West Bengal,2005,Professional_Profile,Professional Activity,Male,15-29,57,Employed
+516,West Bengal,2005,Professional_Profile,Service (Private),Male,15-29,418,Employed
+517,West Bengal,2005,Professional_Profile,Farming/Agriculture Activity,Male,15-29,233,Employed
+518,West Bengal,2005,Professional_Profile,Student,Male,15-29,285,Unemployed
+519,West Bengal,2005,Professional_Profile,Unemployed,Male,15-29,617,Unemployed
+520,West Bengal,2005,Professional_Profile,Self-employed (Business activity),Male,15-29,212,Employed
+521,West Bengal,2005,Professional_Profile,Service (Government),Male,15-29,46,Employed
+522,West Bengal,2005,Professional_Profile,Public Sector Undertaking,Male,15-29,97,Employed
+523,West Bengal,2005,Professional_Profile,House Wife,Male,15-29,0,Unemployed
+524,West Bengal,2005,Professional_Profile,Others (Please Specify),Male,15-29,625,Unemployed
+525,West Bengal,2005,Professional_Profile,Others (Please Specify),Male,15-29,372,Unemployed
+526,West Bengal,2005,Professional_Profile,Retired Person,Male,15-29,0,Retired
+527,West Bengal,2005,Professional_Profile,Professional Activity,Female,30-44,1,Employed
+528,West Bengal,2005,Professional_Profile,Others (Please Specify),Female,30-44,86,Unemployed
+529,West Bengal,2005,Professional_Profile,Others (Please Specify),Female,30-44,220,Unemployed
+530,West Bengal,2005,Professional_Profile,Self-employed (Business activity),Female,30-44,56,Employed
+531,West Bengal,2005,Professional_Profile,Service (Private),Female,30-44,104,Employed
+532,West Bengal,2005,Professional_Profile,House Wife,Female,30-44,1296,Unemployed
+533,West Bengal,2005,Professional_Profile,Retired Person,Female,30-44,0,Retired
+534,West Bengal,2005,Professional_Profile,Unemployed,Female,30-44,63,Unemployed
+535,West Bengal,2005,Professional_Profile,Farming/Agriculture Activity,Female,30-44,60,Employed
+536,West Bengal,2005,Professional_Profile,Public Sector Undertaking,Female,30-44,12,Employed
+537,West Bengal,2005,Professional_Profile,Service (Government),Female,30-44,9,Employed
+538,West Bengal,2005,Professional_Profile,Student,Female,30-44,12,Unemployed
+539,West Bengal,2005,Professional_Profile,Service (Government),Male,30-44,70,Employed
+540,West Bengal,2005,Professional_Profile,Unemployed,Male,30-44,301,Unemployed
+541,West Bengal,2005,Professional_Profile,Student,Male,30-44,27,Unemployed
+542,West Bengal,2005,Professional_Profile,Retired Person,Male,30-44,0,Retired
+543,West Bengal,2005,Professional_Profile,Public Sector Undertaking,Male,30-44,222,Employed
+544,West Bengal,2005,Professional_Profile,Others (Please Specify),Male,30-44,610,Unemployed
+545,West Bengal,2005,Professional_Profile,Farming/Agriculture Activity,Male,30-44,293,Employed
+546,West Bengal,2005,Professional_Profile,Professional Activity,Male,30-44,133,Employed
+547,West Bengal,2005,Professional_Profile,House Wife,Male,30-44,0,Unemployed
+548,West Bengal,2005,Professional_Profile,Others (Please Specify),Male,30-44,430,Unemployed
+549,West Bengal,2005,Professional_Profile,Service (Private),Male,30-44,464,Employed
+550,West Bengal,2005,Professional_Profile,Self-employed (Business activity),Male,30-44,351,Employed
+551,West Bengal,2005,Professional_Profile,Farming/Agriculture Activity,Female,45-59,30,Employed
+552,West Bengal,2005,Professional_Profile,Unemployed,Female,45-59,6,Unemployed
+553,West Bengal,2005,Professional_Profile,Public Sector Undertaking,Female,45-59,2,Employed
+554,West Bengal,2005,Professional_Profile,Student,Female,45-59,0,Unemployed
+555,West Bengal,2005,Professional_Profile,Professional Activity,Female,45-59,2,Employed
+556,West Bengal,2005,Professional_Profile,Service (Private),Female,45-59,47,Employed
+557,West Bengal,2005,Professional_Profile,Service (Government),Female,45-59,9,Employed
+558,West Bengal,2005,Professional_Profile,Others (Please Specify),Female,45-59,111,Unemployed
+559,West Bengal,2005,Professional_Profile,House Wife,Female,45-59,830,Unemployed
+560,West Bengal,2005,Professional_Profile,Self-employed (Business activity),Female,45-59,8,Employed
+561,West Bengal,2005,Professional_Profile,Others (Please Specify),Female,45-59,133,Unemployed
+562,West Bengal,2005,Professional_Profile,Retired Person,Female,45-59,0,Retired
+563,West Bengal,2005,Professional_Profile,House Wife,Male,45-59,0,Unemployed
+564,West Bengal,2005,Professional_Profile,Unemployed,Male,45-59,10,Unemployed
+565,West Bengal,2005,Professional_Profile,Farming/Agriculture Activity,Male,45-59,282,Employed
+566,West Bengal,2005,Professional_Profile,Self-employed (Business activity),Male,45-59,307,Employed
+567,West Bengal,2005,Professional_Profile,Others (Please Specify),Male,45-59,528,Unemployed
+568,West Bengal,2005,Professional_Profile,Public Sector Undertaking,Male,45-59,152,Employed
+569,West Bengal,2005,Professional_Profile,Retired Person,Male,45-59,0,Retired
+570,West Bengal,2005,Professional_Profile,Service (Government),Male,45-59,48,Employed
+571,West Bengal,2005,Professional_Profile,Student,Male,45-59,0,Unemployed
+572,West Bengal,2005,Professional_Profile,Professional Activity,Male,45-59,148,Employed
+573,West Bengal,2005,Professional_Profile,Others (Please Specify),Male,45-59,296,Unemployed
+574,West Bengal,2005,Professional_Profile,Service (Private),Male,45-59,237,Employed
+575,West Bengal,2005,Professional_Profile,House Wife,Female,60+,195,Unemployed
+576,West Bengal,2005,Professional_Profile,Student,Female,60+,0,Unemployed
+577,West Bengal,2005,Professional_Profile,Retired Person,Female,60+,15,Retired
+578,West Bengal,2005,Professional_Profile,Unemployed,Female,60+,0,Unemployed
+579,West Bengal,2005,Professional_Profile,Service (Government),Female,60+,0,Employed
+580,West Bengal,2005,Professional_Profile,Self-employed (Business activity),Female,60+,21,Employed
+581,West Bengal,2005,Professional_Profile,Service (Private),Female,60+,0,Employed
+582,West Bengal,2005,Professional_Profile,Professional Activity,Female,60+,0,Employed
+583,West Bengal,2005,Professional_Profile,Public Sector Undertaking,Female,60+,0,Employed
+584,West Bengal,2005,Professional_Profile,Farming/Agriculture Activity,Female,60+,10,Employed
+585,West Bengal,2005,Professional_Profile,Others (Please Specify),Female,60+,36,Unemployed
+586,West Bengal,2005,Professional_Profile,Others (Please Specify),Female,60+,42,Unemployed
+587,West Bengal,2005,Professional_Profile,House Wife,Male,60+,0,Unemployed
+588,West Bengal,2005,Professional_Profile,Retired Person,Male,60+,212,Retired
+589,West Bengal,2005,Professional_Profile,Others (Please Specify),Male,60+,202,Unemployed
+590,West Bengal,2005,Professional_Profile,Self-employed (Business activity),Male,60+,34,Employed
+591,West Bengal,2005,Professional_Profile,Student,Male,60+,0,Unemployed
+592,West Bengal,2005,Professional_Profile,Others (Please Specify),Male,60+,28,Unemployed
+593,West Bengal,2005,Professional_Profile,Unemployed,Male,60+,0,Unemployed
+594,West Bengal,2005,Professional_Profile,Service (Private),Male,60+,0,Employed
+595,West Bengal,2005,Professional_Profile,Farming/Agriculture Activity,Male,60+,45,Employed
+596,West Bengal,2005,Professional_Profile,Professional Activity,Male,60+,8,Employed
+597,West Bengal,2005,Professional_Profile,Service (Government),Male,60+,0,Employed
+598,West Bengal,2005,Professional_Profile,Public Sector Undertaking,Male,60+,0,Employed
+599,West Bengal,2006,Professional_Profile,Professional Activity,Female,0-14,0,Employed
+600,West Bengal,2006,Professional_Profile,Unemployed,Female,0-14,0,Unemployed
+601,West Bengal,2006,Professional_Profile,Others (Please Specify),Female,0-14,0,Unemployed
+602,West Bengal,2006,Professional_Profile,Farming/Agriculture Activity,Female,0-14,0,Employed
+603,West Bengal,2006,Professional_Profile,Service (Private),Female,0-14,0,Employed
+604,West Bengal,2006,Professional_Profile,Retired Person,Female,0-14,0,Retired
+605,West Bengal,2006,Professional_Profile,Public Sector Undertaking,Female,0-14,0,Employed
+606,West Bengal,2006,Professional_Profile,House Wife,Female,0-14,0,Unemployed
+607,West Bengal,2006,Professional_Profile,Student,Female,0-14,184,Unemployed
+608,West Bengal,2006,Professional_Profile,Self-employed (Business activity),Female,0-14,0,Employed
+609,West Bengal,2006,Professional_Profile,Service (Government),Female,0-14,0,Employed
+610,West Bengal,2006,Professional_Profile,House Wife,Male,0-14,0,Unemployed
+611,West Bengal,2006,Professional_Profile,Service (Government),Male,0-14,0,Employed
+612,West Bengal,2006,Professional_Profile,Retired Person,Male,0-14,0,Retired
+613,West Bengal,2006,Professional_Profile,Service (Private),Male,0-14,0,Employed
+614,West Bengal,2006,Professional_Profile,Student,Male,0-14,146,Unemployed
+615,West Bengal,2006,Professional_Profile,Others (Please Specify),Male,0-14,4,Unemployed
+616,West Bengal,2006,Professional_Profile,Farming/Agriculture Activity,Male,0-14,0,Employed
+617,West Bengal,2006,Professional_Profile,Others (Please Specify),Male,0-14,0,Unemployed
+618,West Bengal,2006,Professional_Profile,Professional Activity,Male,0-14,0,Employed
+619,West Bengal,2006,Professional_Profile,Public Sector Undertaking,Male,0-14,0,Employed
+620,West Bengal,2006,Professional_Profile,Unemployed,Male,0-14,0,Unemployed
+621,West Bengal,2006,Professional_Profile,Self-employed (Business activity),Male,0-14,0,Employed
+622,West Bengal,2006,Professional_Profile,Service (Private),Female,15-29,36,Employed
+623,West Bengal,2006,Professional_Profile,Professional Activity,Female,15-29,23,Employed
+624,West Bengal,2006,Professional_Profile,Public Sector Undertaking,Female,15-29,33,Employed
+625,West Bengal,2006,Professional_Profile,House Wife,Female,15-29,2263,Unemployed
+626,West Bengal,2006,Professional_Profile,Others (Please Specify),Female,15-29,78,Unemployed
+627,West Bengal,2006,Professional_Profile,Service (Government),Female,15-29,8,Employed
+628,West Bengal,2006,Professional_Profile,Self-employed (Business activity),Female,15-29,10,Employed
+629,West Bengal,2006,Professional_Profile,Unemployed,Female,15-29,144,Unemployed
+630,West Bengal,2006,Professional_Profile,Retired Person,Female,15-29,0,Retired
+631,West Bengal,2006,Professional_Profile,Others (Please Specify),Female,15-29,1,Unemployed
+632,West Bengal,2006,Professional_Profile,Student,Female,15-29,317,Unemployed
+633,West Bengal,2006,Professional_Profile,Farming/Agriculture Activity,Female,15-29,85,Employed
+634,West Bengal,2006,Professional_Profile,Service (Government),Male,15-29,20,Employed
+635,West Bengal,2006,Professional_Profile,Others (Please Specify),Male,15-29,521,Unemployed
+636,West Bengal,2006,Professional_Profile,Public Sector Undertaking,Male,15-29,265,Employed
+637,West Bengal,2006,Professional_Profile,Service (Private),Male,15-29,93,Employed
+638,West Bengal,2006,Professional_Profile,Others (Please Specify),Male,15-29,3,Unemployed
+639,West Bengal,2006,Professional_Profile,Professional Activity,Male,15-29,182,Employed
+640,West Bengal,2006,Professional_Profile,Student,Male,15-29,491,Unemployed
+641,West Bengal,2006,Professional_Profile,Unemployed,Male,15-29,928,Unemployed
+642,West Bengal,2006,Professional_Profile,Retired Person,Male,15-29,0,Retired
+643,West Bengal,2006,Professional_Profile,Self-employed (Business activity),Male,15-29,338,Employed
+644,West Bengal,2006,Professional_Profile,Farming/Agriculture Activity,Male,15-29,196,Employed
+645,West Bengal,2006,Professional_Profile,House Wife,Male,15-29,0,Unemployed
+646,West Bengal,2006,Professional_Profile,Others (Please Specify),Female,30-44,34,Unemployed
+647,West Bengal,2006,Professional_Profile,Retired Person,Female,30-44,0,Retired
+648,West Bengal,2006,Professional_Profile,Unemployed,Female,30-44,37,Unemployed
+649,West Bengal,2006,Professional_Profile,Student,Female,30-44,1,Unemployed
+650,West Bengal,2006,Professional_Profile,Service (Government),Female,30-44,16,Employed
+651,West Bengal,2006,Professional_Profile,Professional Activity,Female,30-44,12,Employed
+652,West Bengal,2006,Professional_Profile,Farming/Agriculture Activity,Female,30-44,105,Employed
+653,West Bengal,2006,Professional_Profile,Others (Please Specify),Female,30-44,1,Unemployed
+654,West Bengal,2006,Professional_Profile,House Wife,Female,30-44,1584,Unemployed
+655,West Bengal,2006,Professional_Profile,Public Sector Undertaking,Female,30-44,25,Employed
+656,West Bengal,2006,Professional_Profile,Self-employed (Business activity),Female,30-44,33,Employed
+657,West Bengal,2006,Professional_Profile,Service (Private),Female,30-44,65,Employed
+658,West Bengal,2006,Professional_Profile,Service (Private),Male,30-44,339,Employed
+659,West Bengal,2006,Professional_Profile,Student,Male,30-44,2,Unemployed
+660,West Bengal,2006,Professional_Profile,Farming/Agriculture Activity,Male,30-44,455,Employed
+661,West Bengal,2006,Professional_Profile,Public Sector Undertaking,Male,30-44,388,Employed
+662,West Bengal,2006,Professional_Profile,Service (Government),Male,30-44,81,Employed
+663,West Bengal,2006,Professional_Profile,Others (Please Specify),Male,30-44,14,Unemployed
+664,West Bengal,2006,Professional_Profile,Others (Please Specify),Male,30-44,627,Unemployed
+665,West Bengal,2006,Professional_Profile,Retired Person,Male,30-44,0,Retired
+666,West Bengal,2006,Professional_Profile,Unemployed,Male,30-44,639,Unemployed
+667,West Bengal,2006,Professional_Profile,Professional Activity,Male,30-44,242,Employed
+668,West Bengal,2006,Professional_Profile,Self-employed (Business activity),Male,30-44,688,Employed
+669,West Bengal,2006,Professional_Profile,House Wife,Male,30-44,0,Unemployed
+670,West Bengal,2006,Professional_Profile,Retired Person,Female,45-59,0,Retired
+671,West Bengal,2006,Professional_Profile,Self-employed (Business activity),Female,45-59,8,Employed
+672,West Bengal,2006,Professional_Profile,Service (Private),Female,45-59,29,Employed
+673,West Bengal,2006,Professional_Profile,House Wife,Female,45-59,1111,Unemployed
+674,West Bengal,2006,Professional_Profile,Student,Female,45-59,0,Unemployed
+675,West Bengal,2006,Professional_Profile,Public Sector Undertaking,Female,45-59,21,Employed
+676,West Bengal,2006,Professional_Profile,Others (Please Specify),Female,45-59,1,Unemployed
+677,West Bengal,2006,Professional_Profile,Service (Government),Female,45-59,12,Employed
+678,West Bengal,2006,Professional_Profile,Professional Activity,Female,45-59,3,Employed
+679,West Bengal,2006,Professional_Profile,Farming/Agriculture Activity,Female,45-59,31,Employed
+680,West Bengal,2006,Professional_Profile,Others (Please Specify),Female,45-59,18,Unemployed
+681,West Bengal,2006,Professional_Profile,Unemployed,Female,45-59,0,Unemployed
+682,West Bengal,2006,Professional_Profile,Unemployed,Male,45-59,0,Unemployed
+683,West Bengal,2006,Professional_Profile,Public Sector Undertaking,Male,45-59,123,Employed
+684,West Bengal,2006,Professional_Profile,Retired Person,Male,45-59,0,Retired
+685,West Bengal,2006,Professional_Profile,Self-employed (Business activity),Male,45-59,335,Employed
+686,West Bengal,2006,Professional_Profile,Farming/Agriculture Activity,Male,45-59,256,Employed
+687,West Bengal,2006,Professional_Profile,Student,Male,45-59,0,Unemployed
+688,West Bengal,2006,Professional_Profile,Service (Government),Male,45-59,62,Employed
+689,West Bengal,2006,Professional_Profile,House Wife,Male,45-59,0,Unemployed
+690,West Bengal,2006,Professional_Profile,Others (Please Specify),Male,45-59,562,Unemployed
+691,West Bengal,2006,Professional_Profile,Service (Private),Male,45-59,256,Employed
+692,West Bengal,2006,Professional_Profile,Professional Activity,Male,45-59,279,Employed
+693,West Bengal,2006,Professional_Profile,Others (Please Specify),Male,45-59,20,Unemployed
+694,West Bengal,2006,Professional_Profile,Service (Private),Female,60+,0,Employed
+695,West Bengal,2006,Professional_Profile,Others (Please Specify),Female,60+,5,Unemployed
+696,West Bengal,2006,Professional_Profile,Farming/Agriculture Activity,Female,60+,5,Employed
+697,West Bengal,2006,Professional_Profile,Self-employed (Business activity),Female,60+,0,Employed
+698,West Bengal,2006,Professional_Profile,Retired Person,Female,60+,46,Retired
+699,West Bengal,2006,Professional_Profile,Others (Please Specify),Female,60+,158,Unemployed
+700,West Bengal,2006,Professional_Profile,Student,Female,60+,0,Unemployed
+701,West Bengal,2006,Professional_Profile,Service (Government),Female,60+,0,Employed
+702,West Bengal,2006,Professional_Profile,House Wife,Female,60+,62,Unemployed
+703,West Bengal,2006,Professional_Profile,Professional Activity,Female,60+,0,Employed
+704,West Bengal,2006,Professional_Profile,Unemployed,Female,60+,0,Unemployed
+705,West Bengal,2006,Professional_Profile,Public Sector Undertaking,Female,60+,0,Employed
+706,West Bengal,2006,Professional_Profile,Retired Person,Male,60+,297,Retired
+707,West Bengal,2006,Professional_Profile,Public Sector Undertaking,Male,60+,0,Employed
+708,West Bengal,2006,Professional_Profile,Self-employed (Business activity),Male,60+,39,Employed
+709,West Bengal,2006,Professional_Profile,Others (Please Specify),Male,60+,25,Unemployed
+710,West Bengal,2006,Professional_Profile,Service (Private),Male,60+,0,Employed
+711,West Bengal,2006,Professional_Profile,House Wife,Male,60+,0,Unemployed
+712,West Bengal,2006,Professional_Profile,Unemployed,Male,60+,0,Unemployed
+713,West Bengal,2006,Professional_Profile,Others (Please Specify),Male,60+,113,Unemployed
+714,West Bengal,2006,Professional_Profile,Professional Activity,Male,60+,35,Employed
+715,West Bengal,2006,Professional_Profile,Student,Male,60+,0,Unemployed
+716,West Bengal,2006,Professional_Profile,Farming/Agriculture Activity,Male,60+,56,Employed
+717,West Bengal,2006,Professional_Profile,Service (Government),Male,60+,0,Employed
+718,West Bengal,2007,Professional_Profile,Farming/Agriculture Activity,Female,0-14,0,Employed
+719,West Bengal,2007,Professional_Profile,Student,Female,0-14,110,Unemployed
+720,West Bengal,2007,Professional_Profile,Others (Please Specify),Female,0-14,38,Unemployed
+721,West Bengal,2007,Professional_Profile,Others (Please Specify),Female,0-14,44,Unemployed
+722,West Bengal,2007,Professional_Profile,House Wife,Female,0-14,0,Unemployed
+723,West Bengal,2007,Professional_Profile,Service (Private),Female,0-14,0,Employed
+724,West Bengal,2007,Professional_Profile,Self-employed (Business activity),Female,0-14,0,Employed
+725,West Bengal,2007,Professional_Profile,Professional Activity,Female,0-14,0,Employed
+726,West Bengal,2007,Professional_Profile,Public Sector Undertaking,Female,0-14,0,Employed
+727,West Bengal,2007,Professional_Profile,Service (Government),Female,0-14,0,Employed
+728,West Bengal,2007,Professional_Profile,Retired Person,Female,0-14,0,Retired
+729,West Bengal,2007,Professional_Profile,Unemployed,Female,0-14,10,Unemployed
+730,West Bengal,2007,Professional_Profile,Public Sector Undertaking,Male,0-14,0,Employed
+731,West Bengal,2007,Professional_Profile,Unemployed,Male,0-14,3,Unemployed
+732,West Bengal,2007,Professional_Profile,Farming/Agriculture Activity,Male,0-14,5,Employed
+733,West Bengal,2007,Professional_Profile,Others (Please Specify),Male,0-14,36,Unemployed
+734,West Bengal,2007,Professional_Profile,Retired Person,Male,0-14,0,Retired
+735,West Bengal,2007,Professional_Profile,Service (Government),Male,0-14,0,Employed
+736,West Bengal,2007,Professional_Profile,Others (Please Specify),Male,0-14,61,Unemployed
+737,West Bengal,2007,Professional_Profile,Service (Private),Male,0-14,0,Employed
+738,West Bengal,2007,Professional_Profile,Student,Male,0-14,112,Unemployed
+739,West Bengal,2007,Professional_Profile,Self-employed (Business activity),Male,0-14,0,Employed
+740,West Bengal,2007,Professional_Profile,Professional Activity,Male,0-14,0,Employed
+741,West Bengal,2007,Professional_Profile,House Wife,Male,0-14,0,Unemployed
+742,West Bengal,2007,Professional_Profile,Others (Please Specify),Female,15-29,249,Unemployed
+743,West Bengal,2007,Professional_Profile,Student,Female,15-29,369,Unemployed
+744,West Bengal,2007,Professional_Profile,Others (Please Specify),Female,15-29,288,Unemployed
+745,West Bengal,2007,Professional_Profile,Service (Private),Female,15-29,23,Employed
+746,West Bengal,2007,Professional_Profile,Farming/Agriculture Activity,Female,15-29,68,Employed
+747,West Bengal,2007,Professional_Profile,Unemployed,Female,15-29,137,Unemployed
+748,West Bengal,2007,Professional_Profile,House Wife,Female,15-29,1541,Unemployed
+749,West Bengal,2007,Professional_Profile,Self-employed (Business activity),Female,15-29,8,Employed
+750,West Bengal,2007,Professional_Profile,Professional Activity,Female,15-29,2,Employed
+751,West Bengal,2007,Professional_Profile,Service (Government),Female,15-29,3,Employed
+752,West Bengal,2007,Professional_Profile,Public Sector Undertaking,Female,15-29,42,Employed
+753,West Bengal,2007,Professional_Profile,Retired Person,Female,15-29,0,Retired
+754,West Bengal,2007,Professional_Profile,Unemployed,Male,15-29,321,Unemployed
+755,West Bengal,2007,Professional_Profile,House Wife,Male,15-29,0,Unemployed
+756,West Bengal,2007,Professional_Profile,Self-employed (Business activity),Male,15-29,312,Employed
+757,West Bengal,2007,Professional_Profile,Public Sector Undertaking,Male,15-29,130,Employed
+758,West Bengal,2007,Professional_Profile,Service (Private),Male,15-29,136,Employed
+759,West Bengal,2007,Professional_Profile,Retired Person,Male,15-29,0,Retired
+760,West Bengal,2007,Professional_Profile,Professional Activity,Male,15-29,22,Employed
+761,West Bengal,2007,Professional_Profile,Service (Government),Male,15-29,23,Employed
+762,West Bengal,2007,Professional_Profile,Others (Please Specify),Male,15-29,420,Unemployed
+763,West Bengal,2007,Professional_Profile,Student,Male,15-29,532,Unemployed
+764,West Bengal,2007,Professional_Profile,Farming/Agriculture Activity,Male,15-29,188,Employed
+765,West Bengal,2007,Professional_Profile,Others (Please Specify),Male,15-29,562,Unemployed
+766,West Bengal,2007,Professional_Profile,Others (Please Specify),Female,30-44,289,Unemployed
+767,West Bengal,2007,Professional_Profile,Service (Private),Female,30-44,63,Employed
+768,West Bengal,2007,Professional_Profile,Service (Government),Female,30-44,8,Employed
+769,West Bengal,2007,Professional_Profile,Farming/Agriculture Activity,Female,30-44,98,Employed
+770,West Bengal,2007,Professional_Profile,Public Sector Undertaking,Female,30-44,24,Employed
+771,West Bengal,2007,Professional_Profile,Professional Activity,Female,30-44,1,Employed
+772,West Bengal,2007,Professional_Profile,Self-employed (Business activity),Female,30-44,25,Employed
+773,West Bengal,2007,Professional_Profile,Unemployed,Female,30-44,183,Unemployed
+774,West Bengal,2007,Professional_Profile,House Wife,Female,30-44,1296,Unemployed
+775,West Bengal,2007,Professional_Profile,Others (Please Specify),Female,30-44,181,Unemployed
+776,West Bengal,2007,Professional_Profile,Student,Female,30-44,10,Unemployed
+777,West Bengal,2007,Professional_Profile,Retired Person,Female,30-44,0,Retired
+778,West Bengal,2007,Professional_Profile,House Wife,Male,30-44,0,Unemployed
+779,West Bengal,2007,Professional_Profile,Public Sector Undertaking,Male,30-44,327,Employed
+780,West Bengal,2007,Professional_Profile,Service (Private),Male,30-44,225,Employed
+781,West Bengal,2007,Professional_Profile,Others (Please Specify),Male,30-44,373,Unemployed
+782,West Bengal,2007,Professional_Profile,Service (Government),Male,30-44,48,Employed
+783,West Bengal,2007,Professional_Profile,Professional Activity,Male,30-44,118,Employed
+784,West Bengal,2007,Professional_Profile,Self-employed (Business activity),Male,30-44,506,Employed
+785,West Bengal,2007,Professional_Profile,Farming/Agriculture Activity,Male,30-44,432,Employed
+786,West Bengal,2007,Professional_Profile,Student,Male,30-44,5,Unemployed
+787,West Bengal,2007,Professional_Profile,Unemployed,Male,30-44,348,Unemployed
+788,West Bengal,2007,Professional_Profile,Others (Please Specify),Male,30-44,824,Unemployed
+789,West Bengal,2007,Professional_Profile,Retired Person,Male,30-44,0,Retired
+790,West Bengal,2007,Professional_Profile,Public Sector Undertaking,Female,45-59,18,Employed
+791,West Bengal,2007,Professional_Profile,Farming/Agriculture Activity,Female,45-59,40,Employed
+792,West Bengal,2007,Professional_Profile,Professional Activity,Female,45-59,0,Employed
+793,West Bengal,2007,Professional_Profile,House Wife,Female,45-59,451,Unemployed
+794,West Bengal,2007,Professional_Profile,Service (Government),Female,45-59,13,Employed
+795,West Bengal,2007,Professional_Profile,Student,Female,45-59,0,Unemployed
+796,West Bengal,2007,Professional_Profile,Self-employed (Business activity),Female,45-59,6,Employed
+797,West Bengal,2007,Professional_Profile,Retired Person,Female,45-59,0,Retired
+798,West Bengal,2007,Professional_Profile,Service (Private),Female,45-59,17,Employed
+799,West Bengal,2007,Professional_Profile,Others (Please Specify),Female,45-59,178,Unemployed
+800,West Bengal,2007,Professional_Profile,Unemployed,Female,45-59,32,Unemployed
+801,West Bengal,2007,Professional_Profile,Others (Please Specify),Female,45-59,258,Unemployed
+802,West Bengal,2007,Professional_Profile,Others (Please Specify),Male,45-59,449,Unemployed
+803,West Bengal,2007,Professional_Profile,Self-employed (Business activity),Male,45-59,316,Employed
+804,West Bengal,2007,Professional_Profile,Farming/Agriculture Activity,Male,45-59,185,Employed
+805,West Bengal,2007,Professional_Profile,Student,Male,45-59,0,Unemployed
+806,West Bengal,2007,Professional_Profile,Unemployed,Male,45-59,129,Unemployed
+807,West Bengal,2007,Professional_Profile,House Wife,Male,45-59,0,Unemployed
+808,West Bengal,2007,Professional_Profile,Retired Person,Male,45-59,0,Retired
+809,West Bengal,2007,Professional_Profile,Service (Private),Male,45-59,207,Employed
+810,West Bengal,2007,Professional_Profile,Public Sector Undertaking,Male,45-59,192,Employed
+811,West Bengal,2007,Professional_Profile,Service (Government),Male,45-59,43,Employed
+812,West Bengal,2007,Professional_Profile,Professional Activity,Male,45-59,122,Employed
+813,West Bengal,2007,Professional_Profile,Others (Please Specify),Male,45-59,297,Unemployed
+814,West Bengal,2007,Professional_Profile,House Wife,Female,60+,74,Unemployed
+815,West Bengal,2007,Professional_Profile,Self-employed (Business activity),Female,60+,0,Employed
+816,West Bengal,2007,Professional_Profile,Retired Person,Female,60+,16,Retired
+817,West Bengal,2007,Professional_Profile,Professional Activity,Female,60+,0,Employed
+818,West Bengal,2007,Professional_Profile,Public Sector Undertaking,Female,60+,0,Employed
+819,West Bengal,2007,Professional_Profile,Service (Private),Female,60+,0,Employed
+820,West Bengal,2007,Professional_Profile,Service (Government),Female,60+,0,Employed
+821,West Bengal,2007,Professional_Profile,Unemployed,Female,60+,0,Unemployed
+822,West Bengal,2007,Professional_Profile,Farming/Agriculture Activity,Female,60+,18,Employed
+823,West Bengal,2007,Professional_Profile,Others (Please Specify),Female,60+,50,Unemployed
+824,West Bengal,2007,Professional_Profile,Others (Please Specify),Female,60+,74,Unemployed
+825,West Bengal,2007,Professional_Profile,Student,Female,60+,0,Unemployed
+826,West Bengal,2007,Professional_Profile,Farming/Agriculture Activity,Male,60+,68,Employed
+827,West Bengal,2007,Professional_Profile,Student,Male,60+,0,Unemployed
+828,West Bengal,2007,Professional_Profile,House Wife,Male,60+,0,Unemployed
+829,West Bengal,2007,Professional_Profile,Self-employed (Business activity),Male,60+,24,Employed
+830,West Bengal,2007,Professional_Profile,Professional Activity,Male,60+,1,Employed
+831,West Bengal,2007,Professional_Profile,Public Sector Undertaking,Male,60+,6,Employed
+832,West Bengal,2007,Professional_Profile,Retired Person,Male,60+,95,Retired
+833,West Bengal,2007,Professional_Profile,Others (Please Specify),Male,60+,102,Unemployed
+834,West Bengal,2007,Professional_Profile,Unemployed,Male,60+,4,Unemployed
+835,West Bengal,2007,Professional_Profile,Others (Please Specify),Male,60+,183,Unemployed
+836,West Bengal,2007,Professional_Profile,Service (Private),Male,60+,11,Employed
+837,West Bengal,2007,Professional_Profile,Service (Government),Male,60+,2,Employed
+838,West Bengal,2008,Professional_Profile,Others (Please Specify),Female,0-14,82,Unemployed
+839,West Bengal,2008,Professional_Profile,Service (Government),Female,0-14,0,Employed
+840,West Bengal,2008,Professional_Profile,Student,Female,0-14,118,Unemployed
+841,West Bengal,2008,Professional_Profile,Self-employed (Business activity),Female,0-14,0,Employed
+842,West Bengal,2008,Professional_Profile,Others (Please Specify),Female,0-14,25,Unemployed
+843,West Bengal,2008,Professional_Profile,Public Sector Undertaking,Female,0-14,1,Employed
+844,West Bengal,2008,Professional_Profile,Professional Activity,Female,0-14,0,Employed
+845,West Bengal,2008,Professional_Profile,Farming/Agriculture Activity,Female,0-14,0,Employed
+846,West Bengal,2008,Professional_Profile,Retired Person,Female,0-14,0,Retired
+847,West Bengal,2008,Professional_Profile,House Wife,Female,0-14,0,Unemployed
+848,West Bengal,2008,Professional_Profile,Unemployed,Female,0-14,15,Unemployed
+849,West Bengal,2008,Professional_Profile,Service (Private),Female,0-14,0,Employed
+850,West Bengal,2008,Professional_Profile,Farming/Agriculture Activity,Male,0-14,0,Employed
+851,West Bengal,2008,Professional_Profile,Professional Activity,Male,0-14,0,Employed
+852,West Bengal,2008,Professional_Profile,Self-employed (Business activity),Male,0-14,0,Employed
+853,West Bengal,2008,Professional_Profile,Public Sector Undertaking,Male,0-14,0,Employed
+854,West Bengal,2008,Professional_Profile,Service (Government),Male,0-14,0,Employed
+855,West Bengal,2008,Professional_Profile,Student,Male,0-14,112,Unemployed
+856,West Bengal,2008,Professional_Profile,Retired Person,Male,0-14,0,Retired
+857,West Bengal,2008,Professional_Profile,Others (Please Specify),Male,0-14,63,Unemployed
+858,West Bengal,2008,Professional_Profile,Service (Private),Male,0-14,2,Employed
+859,West Bengal,2008,Professional_Profile,House Wife,Male,0-14,0,Unemployed
+860,West Bengal,2008,Professional_Profile,Unemployed,Male,0-14,9,Unemployed
+861,West Bengal,2008,Professional_Profile,Others (Please Specify),Male,0-14,89,Unemployed
+862,West Bengal,2008,Professional_Profile,Others (Please Specify),Female,15-29,549,Unemployed
+863,West Bengal,2008,Professional_Profile,Public Sector Undertaking,Female,15-29,19,Employed
+864,West Bengal,2008,Professional_Profile,House Wife,Female,15-29,1607,Unemployed
+865,West Bengal,2008,Professional_Profile,Farming/Agriculture Activity,Female,15-29,33,Employed
+866,West Bengal,2008,Professional_Profile,Professional Activity,Female,15-29,9,Employed
+867,West Bengal,2008,Professional_Profile,Retired Person,Female,15-29,0,Retired
+868,West Bengal,2008,Professional_Profile,Others (Please Specify),Female,15-29,324,Unemployed
+869,West Bengal,2008,Professional_Profile,Unemployed,Female,15-29,152,Unemployed
+870,West Bengal,2008,Professional_Profile,Self-employed (Business activity),Female,15-29,16,Employed
+871,West Bengal,2008,Professional_Profile,Service (Government),Female,15-29,4,Employed
+872,West Bengal,2008,Professional_Profile,Service (Private),Female,15-29,29,Employed
+873,West Bengal,2008,Professional_Profile,Student,Female,15-29,262,Unemployed
+874,West Bengal,2008,Professional_Profile,Professional Activity,Male,15-29,34,Employed
+875,West Bengal,2008,Professional_Profile,Others (Please Specify),Male,15-29,665,Unemployed
+876,West Bengal,2008,Professional_Profile,Self-employed (Business activity),Male,15-29,242,Employed
+877,West Bengal,2008,Professional_Profile,Others (Please Specify),Male,15-29,617,Unemployed
+878,West Bengal,2008,Professional_Profile,Unemployed,Male,15-29,460,Unemployed
+879,West Bengal,2008,Professional_Profile,Public Sector Undertaking,Male,15-29,58,Employed
+880,West Bengal,2008,Professional_Profile,Farming/Agriculture Activity,Male,15-29,161,Employed
+881,West Bengal,2008,Professional_Profile,Service (Government),Male,15-29,17,Employed
+882,West Bengal,2008,Professional_Profile,Service (Private),Male,15-29,122,Employed
+883,West Bengal,2008,Professional_Profile,House Wife,Male,15-29,0,Unemployed
+884,West Bengal,2008,Professional_Profile,Retired Person,Male,15-29,0,Retired
+885,West Bengal,2008,Professional_Profile,Student,Male,15-29,430,Unemployed
+886,West Bengal,2008,Professional_Profile,Professional Activity,Female,30-44,4,Employed
+887,West Bengal,2008,Professional_Profile,Student,Female,30-44,5,Unemployed
+888,West Bengal,2008,Professional_Profile,Service (Private),Female,30-44,38,Employed
+889,West Bengal,2008,Professional_Profile,House Wife,Female,30-44,1172,Unemployed
+890,West Bengal,2008,Professional_Profile,Public Sector Undertaking,Female,30-44,43,Employed
+891,West Bengal,2008,Professional_Profile,Service (Government),Female,30-44,7,Employed
+892,West Bengal,2008,Professional_Profile,Retired Person,Female,30-44,0,Retired
+893,West Bengal,2008,Professional_Profile,Self-employed (Business activity),Female,30-44,30,Employed
+894,West Bengal,2008,Professional_Profile,Others (Please Specify),Female,30-44,432,Unemployed
+895,West Bengal,2008,Professional_Profile,Others (Please Specify),Female,30-44,167,Unemployed
+896,West Bengal,2008,Professional_Profile,Unemployed,Female,30-44,212,Unemployed
+897,West Bengal,2008,Professional_Profile,Farming/Agriculture Activity,Female,30-44,50,Employed
+898,West Bengal,2008,Professional_Profile,Farming/Agriculture Activity,Male,30-44,311,Employed
+899,West Bengal,2008,Professional_Profile,Retired Person,Male,30-44,0,Retired
+900,West Bengal,2008,Professional_Profile,Public Sector Undertaking,Male,30-44,275,Employed
+901,West Bengal,2008,Professional_Profile,Service (Government),Male,30-44,62,Employed
+902,West Bengal,2008,Professional_Profile,Service (Private),Male,30-44,214,Employed
+903,West Bengal,2008,Professional_Profile,Student,Male,30-44,13,Unemployed
+904,West Bengal,2008,Professional_Profile,Unemployed,Male,30-44,471,Unemployed
+905,West Bengal,2008,Professional_Profile,Professional Activity,Male,30-44,124,Employed
+906,West Bengal,2008,Professional_Profile,Self-employed (Business activity),Male,30-44,403,Employed
+907,West Bengal,2008,Professional_Profile,Others (Please Specify),Male,30-44,929,Unemployed
+908,West Bengal,2008,Professional_Profile,Others (Please Specify),Male,30-44,525,Unemployed
+909,West Bengal,2008,Professional_Profile,House Wife,Male,30-44,0,Unemployed
+910,West Bengal,2008,Professional_Profile,House Wife,Female,45-59,406,Unemployed
+911,West Bengal,2008,Professional_Profile,Farming/Agriculture Activity,Female,45-59,12,Employed
+912,West Bengal,2008,Professional_Profile,Service (Government),Female,45-59,14,Employed
+913,West Bengal,2008,Professional_Profile,Student,Female,45-59,0,Unemployed
+914,West Bengal,2008,Professional_Profile,Self-employed (Business activity),Female,45-59,6,Employed
+915,West Bengal,2008,Professional_Profile,Unemployed,Female,45-59,66,Unemployed
+916,West Bengal,2008,Professional_Profile,Others (Please Specify),Female,45-59,254,Unemployed
+917,West Bengal,2008,Professional_Profile,Others (Please Specify),Female,45-59,106,Unemployed
+918,West Bengal,2008,Professional_Profile,Public Sector Undertaking,Female,45-59,22,Employed
+919,West Bengal,2008,Professional_Profile,Professional Activity,Female,45-59,0,Employed
+920,West Bengal,2008,Professional_Profile,Service (Private),Female,45-59,16,Employed
+921,West Bengal,2008,Professional_Profile,Retired Person,Female,45-59,0,Retired
+922,West Bengal,2008,Professional_Profile,Service (Private),Male,45-59,190,Employed
+923,West Bengal,2008,Professional_Profile,House Wife,Male,45-59,0,Unemployed
+924,West Bengal,2008,Professional_Profile,Public Sector Undertaking,Male,45-59,201,Employed
+925,West Bengal,2008,Professional_Profile,Professional Activity,Male,45-59,74,Employed
+926,West Bengal,2008,Professional_Profile,Student,Male,45-59,0,Unemployed
+927,West Bengal,2008,Professional_Profile,Unemployed,Male,45-59,166,Unemployed
+928,West Bengal,2008,Professional_Profile,Others (Please Specify),Male,45-59,188,Unemployed
+929,West Bengal,2008,Professional_Profile,Others (Please Specify),Male,45-59,364,Unemployed
+930,West Bengal,2008,Professional_Profile,Retired Person,Male,45-59,0,Retired
+931,West Bengal,2008,Professional_Profile,Farming/Agriculture Activity,Male,45-59,159,Employed
+932,West Bengal,2008,Professional_Profile,Self-employed (Business activity),Male,45-59,210,Employed
+933,West Bengal,2008,Professional_Profile,Service (Government),Male,45-59,41,Employed
+934,West Bengal,2008,Professional_Profile,Retired Person,Female,60+,10,Retired
+935,West Bengal,2008,Professional_Profile,Student,Female,60+,0,Unemployed
+936,West Bengal,2008,Professional_Profile,Service (Government),Female,60+,0,Employed
+937,West Bengal,2008,Professional_Profile,House Wife,Female,60+,59,Unemployed
+938,West Bengal,2008,Professional_Profile,Others (Please Specify),Female,60+,72,Unemployed
+939,West Bengal,2008,Professional_Profile,Service (Private),Female,60+,0,Employed
+940,West Bengal,2008,Professional_Profile,Self-employed (Business activity),Female,60+,0,Employed
+941,West Bengal,2008,Professional_Profile,Farming/Agriculture Activity,Female,60+,4,Employed
+942,West Bengal,2008,Professional_Profile,Professional Activity,Female,60+,0,Employed
+943,West Bengal,2008,Professional_Profile,Public Sector Undertaking,Female,60+,0,Employed
+944,West Bengal,2008,Professional_Profile,Unemployed,Female,60+,1,Unemployed
+945,West Bengal,2008,Professional_Profile,Others (Please Specify),Female,60+,30,Unemployed
+946,West Bengal,2008,Professional_Profile,House Wife,Male,60+,0,Unemployed
+947,West Bengal,2008,Professional_Profile,Retired Person,Male,60+,63,Retired
+948,West Bengal,2008,Professional_Profile,Farming/Agriculture Activity,Male,60+,29,Employed
+949,West Bengal,2008,Professional_Profile,Self-employed (Business activity),Male,60+,27,Employed
+950,West Bengal,2008,Professional_Profile,Others (Please Specify),Male,60+,98,Unemployed
+951,West Bengal,2008,Professional_Profile,Unemployed,Male,60+,5,Unemployed
+952,West Bengal,2008,Professional_Profile,Public Sector Undertaking,Male,60+,3,Employed
+953,West Bengal,2008,Professional_Profile,Student,Male,60+,0,Unemployed
+954,West Bengal,2008,Professional_Profile,Professional Activity,Male,60+,2,Employed
+955,West Bengal,2008,Professional_Profile,Service (Government),Male,60+,0,Employed
+956,West Bengal,2008,Professional_Profile,Others (Please Specify),Male,60+,134,Unemployed
+957,West Bengal,2008,Professional_Profile,Service (Private),Male,60+,7,Employed
+958,West Bengal,2009,Professional_Profile,Others (Please Specify),Female,0-14,75,Unemployed
+959,West Bengal,2009,Professional_Profile,Professional Activity,Female,0-14,0,Employed
+960,West Bengal,2009,Professional_Profile,Farming/Agriculture Activity,Female,0-14,4,Employed
+961,West Bengal,2009,Professional_Profile,Unemployed,Female,0-14,1,Unemployed
+962,West Bengal,2009,Professional_Profile,Student,Female,0-14,120,Unemployed
+963,West Bengal,2009,Professional_Profile,Service (Private),Female,0-14,0,Employed
+964,West Bengal,2009,Professional_Profile,Retired Person,Female,0-14,0,Retired
+965,West Bengal,2009,Professional_Profile,Public Sector Undertaking,Female,0-14,0,Employed
+966,West Bengal,2009,Professional_Profile,Others (Please Specify),Female,0-14,18,Unemployed
+967,West Bengal,2009,Professional_Profile,House Wife,Female,0-14,0,Unemployed
+968,West Bengal,2009,Professional_Profile,Service (Government),Female,0-14,0,Employed
+969,West Bengal,2009,Professional_Profile,Self-employed (Business activity),Female,0-14,0,Employed
+970,West Bengal,2009,Professional_Profile,House Wife,Male,0-14,0,Unemployed
+971,West Bengal,2009,Professional_Profile,Service (Government),Male,0-14,0,Employed
+972,West Bengal,2009,Professional_Profile,Retired Person,Male,0-14,0,Retired
+973,West Bengal,2009,Professional_Profile,Others (Please Specify),Male,0-14,72,Unemployed
+974,West Bengal,2009,Professional_Profile,Service (Private),Male,0-14,0,Employed
+975,West Bengal,2009,Professional_Profile,Unemployed,Male,0-14,1,Unemployed
+976,West Bengal,2009,Professional_Profile,Student,Male,0-14,117,Unemployed
+977,West Bengal,2009,Professional_Profile,Professional Activity,Male,0-14,0,Employed
+978,West Bengal,2009,Professional_Profile,Public Sector Undertaking,Male,0-14,0,Employed
+979,West Bengal,2009,Professional_Profile,Others (Please Specify),Male,0-14,44,Unemployed
+980,West Bengal,2009,Professional_Profile,Farming/Agriculture Activity,Male,0-14,1,Employed
+981,West Bengal,2009,Professional_Profile,Self-employed (Business activity),Male,0-14,0,Employed
+982,West Bengal,2009,Professional_Profile,House Wife,Female,15-29,1495,Unemployed
+983,West Bengal,2009,Professional_Profile,Public Sector Undertaking,Female,15-29,33,Employed
+984,West Bengal,2009,Professional_Profile,Self-employed (Business activity),Female,15-29,69,Employed
+985,West Bengal,2009,Professional_Profile,Student,Female,15-29,279,Unemployed
+986,West Bengal,2009,Professional_Profile,Others (Please Specify),Female,15-29,412,Unemployed
+987,West Bengal,2009,Professional_Profile,Retired Person,Female,15-29,0,Retired
+988,West Bengal,2009,Professional_Profile,Unemployed,Female,15-29,86,Unemployed
+989,West Bengal,2009,Professional_Profile,Professional Activity,Female,15-29,15,Employed
+990,West Bengal,2009,Professional_Profile,Farming/Agriculture Activity,Female,15-29,49,Employed
+991,West Bengal,2009,Professional_Profile,Service (Government),Female,15-29,19,Employed
+992,West Bengal,2009,Professional_Profile,Service (Private),Female,15-29,64,Employed
+993,West Bengal,2009,Professional_Profile,Others (Please Specify),Female,15-29,204,Unemployed
+994,West Bengal,2009,Professional_Profile,Farming/Agriculture Activity,Male,15-29,256,Employed
+995,West Bengal,2009,Professional_Profile,Others (Please Specify),Male,15-29,506,Unemployed
+996,West Bengal,2009,Professional_Profile,Service (Government),Male,15-29,32,Employed
+997,West Bengal,2009,Professional_Profile,Professional Activity,Male,15-29,23,Employed
+998,West Bengal,2009,Professional_Profile,Service (Private),Male,15-29,143,Employed
+999,West Bengal,2009,Professional_Profile,Self-employed (Business activity),Male,15-29,290,Employed
+1000,West Bengal,2009,Professional_Profile,Others (Please Specify),Male,15-29,329,Unemployed
+1001,West Bengal,2009,Professional_Profile,Public Sector Undertaking,Male,15-29,67,Employed
+1002,West Bengal,2009,Professional_Profile,Retired Person,Male,15-29,0,Retired
+1003,West Bengal,2009,Professional_Profile,Unemployed,Male,15-29,448,Unemployed
+1004,West Bengal,2009,Professional_Profile,Student,Male,15-29,313,Unemployed
+1005,West Bengal,2009,Professional_Profile,House Wife,Male,15-29,0,Unemployed
+1006,West Bengal,2009,Professional_Profile,Retired Person,Female,30-44,0,Retired
+1007,West Bengal,2009,Professional_Profile,Unemployed,Female,30-44,88,Unemployed
+1008,West Bengal,2009,Professional_Profile,Others (Please Specify),Female,30-44,168,Unemployed
+1009,West Bengal,2009,Professional_Profile,Professional Activity,Female,30-44,13,Employed
+1010,West Bengal,2009,Professional_Profile,Service (Private),Female,30-44,80,Employed
+1011,West Bengal,2009,Professional_Profile,Student,Female,30-44,18,Unemployed
+1012,West Bengal,2009,Professional_Profile,Self-employed (Business activity),Female,30-44,83,Employed
+1013,West Bengal,2009,Professional_Profile,Others (Please Specify),Female,30-44,310,Unemployed
+1014,West Bengal,2009,Professional_Profile,Public Sector Undertaking,Female,30-44,37,Employed
+1015,West Bengal,2009,Professional_Profile,House Wife,Female,30-44,1256,Unemployed
+1016,West Bengal,2009,Professional_Profile,Service (Government),Female,30-44,26,Employed
+1017,West Bengal,2009,Professional_Profile,Farming/Agriculture Activity,Female,30-44,52,Employed
+1018,West Bengal,2009,Professional_Profile,Student,Male,30-44,23,Unemployed
+1019,West Bengal,2009,Professional_Profile,Unemployed,Male,30-44,591,Unemployed
+1020,West Bengal,2009,Professional_Profile,Self-employed (Business activity),Male,30-44,471,Employed
+1021,West Bengal,2009,Professional_Profile,Farming/Agriculture Activity,Male,30-44,402,Employed
+1022,West Bengal,2009,Professional_Profile,Retired Person,Male,30-44,0,Retired
+1023,West Bengal,2009,Professional_Profile,Others (Please Specify),Male,30-44,539,Unemployed
+1024,West Bengal,2009,Professional_Profile,Professional Activity,Male,30-44,96,Employed
+1025,West Bengal,2009,Professional_Profile,Public Sector Undertaking,Male,30-44,228,Employed
+1026,West Bengal,2009,Professional_Profile,House Wife,Male,30-44,0,Unemployed
+1027,West Bengal,2009,Professional_Profile,Others (Please Specify),Male,30-44,724,Unemployed
+1028,West Bengal,2009,Professional_Profile,Service (Government),Male,30-44,94,Employed
+1029,West Bengal,2009,Professional_Profile,Service (Private),Male,30-44,241,Employed
+1030,West Bengal,2009,Professional_Profile,House Wife,Female,45-59,488,Unemployed
+1031,West Bengal,2009,Professional_Profile,Others (Please Specify),Female,45-59,163,Unemployed
+1032,West Bengal,2009,Professional_Profile,Retired Person,Female,45-59,0,Retired
+1033,West Bengal,2009,Professional_Profile,Unemployed,Female,45-59,29,Unemployed
+1034,West Bengal,2009,Professional_Profile,Service (Government),Female,45-59,14,Employed
+1035,West Bengal,2009,Professional_Profile,Self-employed (Business activity),Female,45-59,44,Employed
+1036,West Bengal,2009,Professional_Profile,Farming/Agriculture Activity,Female,45-59,18,Employed
+1037,West Bengal,2009,Professional_Profile,Public Sector Undertaking,Female,45-59,23,Employed
+1038,West Bengal,2009,Professional_Profile,Student,Female,45-59,0,Unemployed
+1039,West Bengal,2009,Professional_Profile,Others (Please Specify),Female,45-59,90,Unemployed
+1040,West Bengal,2009,Professional_Profile,Service (Private),Female,45-59,15,Employed
+1041,West Bengal,2009,Professional_Profile,Professional Activity,Female,45-59,0,Employed
+1042,West Bengal,2009,Professional_Profile,Others (Please Specify),Male,45-59,417,Unemployed
+1043,West Bengal,2009,Professional_Profile,Self-employed (Business activity),Male,45-59,333,Employed
+1044,West Bengal,2009,Professional_Profile,Professional Activity,Male,45-59,59,Employed
+1045,West Bengal,2009,Professional_Profile,Retired Person,Male,45-59,0,Retired
+1046,West Bengal,2009,Professional_Profile,Service (Private),Male,45-59,266,Employed
+1047,West Bengal,2009,Professional_Profile,Public Sector Undertaking,Male,45-59,215,Employed
+1048,West Bengal,2009,Professional_Profile,Student,Male,45-59,0,Unemployed
+1049,West Bengal,2009,Professional_Profile,House Wife,Male,45-59,0,Unemployed
+1050,West Bengal,2009,Professional_Profile,Others (Please Specify),Male,45-59,312,Unemployed
+1051,West Bengal,2009,Professional_Profile,Service (Government),Male,45-59,53,Employed
+1052,West Bengal,2009,Professional_Profile,Unemployed,Male,45-59,108,Unemployed
+1053,West Bengal,2009,Professional_Profile,Farming/Agriculture Activity,Male,45-59,217,Employed
+1054,West Bengal,2009,Professional_Profile,House Wife,Female,60+,66,Unemployed
+1055,West Bengal,2009,Professional_Profile,Service (Private),Female,60+,1,Employed
+1056,West Bengal,2009,Professional_Profile,Others (Please Specify),Female,60+,26,Unemployed
+1057,West Bengal,2009,Professional_Profile,Self-employed (Business activity),Female,60+,4,Employed
+1058,West Bengal,2009,Professional_Profile,Farming/Agriculture Activity,Female,60+,2,Employed
+1059,West Bengal,2009,Professional_Profile,Service (Government),Female,60+,1,Employed
+1060,West Bengal,2009,Professional_Profile,Retired Person,Female,60+,30,Retired
+1061,West Bengal,2009,Professional_Profile,Student,Female,60+,0,Unemployed
+1062,West Bengal,2009,Professional_Profile,Public Sector Undertaking,Female,60+,0,Employed
+1063,West Bengal,2009,Professional_Profile,Professional Activity,Female,60+,0,Employed
+1064,West Bengal,2009,Professional_Profile,Others (Please Specify),Female,60+,66,Unemployed
+1065,West Bengal,2009,Professional_Profile,Unemployed,Female,60+,0,Unemployed
+1066,West Bengal,2009,Professional_Profile,Self-employed (Business activity),Male,60+,44,Employed
+1067,West Bengal,2009,Professional_Profile,Others (Please Specify),Male,60+,67,Unemployed
+1068,West Bengal,2009,Professional_Profile,House Wife,Male,60+,0,Unemployed
+1069,West Bengal,2009,Professional_Profile,Others (Please Specify),Male,60+,226,Unemployed
+1070,West Bengal,2009,Professional_Profile,Unemployed,Male,60+,3,Unemployed
+1071,West Bengal,2009,Professional_Profile,Retired Person,Male,60+,58,Retired
+1072,West Bengal,2009,Professional_Profile,Student,Male,60+,0,Unemployed
+1073,West Bengal,2009,Professional_Profile,Professional Activity,Male,60+,2,Employed
+1074,West Bengal,2009,Professional_Profile,Public Sector Undertaking,Male,60+,4,Employed
+1075,West Bengal,2009,Professional_Profile,Farming/Agriculture Activity,Male,60+,53,Employed
+1076,West Bengal,2009,Professional_Profile,Service (Private),Male,60+,6,Employed
+1077,West Bengal,2009,Professional_Profile,Service (Government),Male,60+,0,Employed
+1078,West Bengal,2010,Professional_Profile,Others (Please Specify),Female,0-14,33,Unemployed
+1079,West Bengal,2010,Professional_Profile,Farming/Agriculture Activity,Female,0-14,0,Employed
+1080,West Bengal,2010,Professional_Profile,House Wife,Female,0-14,0,Unemployed
+1081,West Bengal,2010,Professional_Profile,Unemployed,Female,0-14,0,Unemployed
+1082,West Bengal,2010,Professional_Profile,Service (Private),Female,0-14,0,Employed
+1083,West Bengal,2010,Professional_Profile,Student,Female,0-14,97,Unemployed
+1084,West Bengal,2010,Professional_Profile,Self-employed (Business activity),Female,0-14,0,Employed
+1085,West Bengal,2010,Professional_Profile,Professional Activity,Female,0-14,0,Employed
+1086,West Bengal,2010,Professional_Profile,Public Sector Undertaking,Female,0-14,0,Employed
+1087,West Bengal,2010,Professional_Profile,Others (Please Specify),Female,0-14,82,Unemployed
+1088,West Bengal,2010,Professional_Profile,Service (Government),Female,0-14,0,Employed
+1089,West Bengal,2010,Professional_Profile,Retired Person,Female,0-14,0,Retired
+1090,West Bengal,2010,Professional_Profile,Public Sector Undertaking,Male,0-14,0,Employed
+1091,West Bengal,2010,Professional_Profile,Unemployed,Male,0-14,0,Unemployed
+1092,West Bengal,2010,Professional_Profile,Farming/Agriculture Activity,Male,0-14,2,Employed
+1093,West Bengal,2010,Professional_Profile,Retired Person,Male,0-14,0,Retired
+1094,West Bengal,2010,Professional_Profile,Others (Please Specify),Male,0-14,70,Unemployed
+1095,West Bengal,2010,Professional_Profile,Others (Please Specify),Male,0-14,88,Unemployed
+1096,West Bengal,2010,Professional_Profile,Self-employed (Business activity),Male,0-14,0,Employed
+1097,West Bengal,2010,Professional_Profile,Student,Male,0-14,108,Unemployed
+1098,West Bengal,2010,Professional_Profile,Service (Private),Male,0-14,0,Employed
+1099,West Bengal,2010,Professional_Profile,Professional Activity,Male,0-14,0,Employed
+1100,West Bengal,2010,Professional_Profile,House Wife,Male,0-14,0,Unemployed
+1101,West Bengal,2010,Professional_Profile,Service (Government),Male,0-14,0,Employed
+1102,West Bengal,2010,Professional_Profile,House Wife,Female,15-29,1271,Unemployed
+1103,West Bengal,2010,Professional_Profile,Unemployed,Female,15-29,114,Unemployed
+1104,West Bengal,2010,Professional_Profile,Service (Private),Female,15-29,64,Employed
+1105,West Bengal,2010,Professional_Profile,Others (Please Specify),Female,15-29,416,Unemployed
+1106,West Bengal,2010,Professional_Profile,Student,Female,15-29,280,Unemployed
+1107,West Bengal,2010,Professional_Profile,Professional Activity,Female,15-29,31,Employed
+1108,West Bengal,2010,Professional_Profile,Service (Government),Female,15-29,4,Employed
+1109,West Bengal,2010,Professional_Profile,Farming/Agriculture Activity,Female,15-29,63,Employed
+1110,West Bengal,2010,Professional_Profile,Self-employed (Business activity),Female,15-29,7,Employed
+1111,West Bengal,2010,Professional_Profile,Others (Please Specify),Female,15-29,319,Unemployed
+1112,West Bengal,2010,Professional_Profile,Retired Person,Female,15-29,0,Retired
+1113,West Bengal,2010,Professional_Profile,Public Sector Undertaking,Female,15-29,57,Employed
+1114,West Bengal,2010,Professional_Profile,House Wife,Male,15-29,0,Unemployed
+1115,West Bengal,2010,Professional_Profile,Others (Please Specify),Male,15-29,582,Unemployed
+1116,West Bengal,2010,Professional_Profile,Retired Person,Male,15-29,0,Retired
+1117,West Bengal,2010,Professional_Profile,Public Sector Undertaking,Male,15-29,83,Employed
+1118,West Bengal,2010,Professional_Profile,Service (Government),Male,15-29,17,Employed
+1119,West Bengal,2010,Professional_Profile,Farming/Agriculture Activity,Male,15-29,218,Employed
+1120,West Bengal,2010,Professional_Profile,Professional Activity,Male,15-29,56,Employed
+1121,West Bengal,2010,Professional_Profile,Unemployed,Male,15-29,304,Unemployed
+1122,West Bengal,2010,Professional_Profile,Student,Male,15-29,398,Unemployed
+1123,West Bengal,2010,Professional_Profile,Self-employed (Business activity),Male,15-29,241,Employed
+1124,West Bengal,2010,Professional_Profile,Others (Please Specify),Male,15-29,634,Unemployed
+1125,West Bengal,2010,Professional_Profile,Service (Private),Male,15-29,143,Employed
+1126,West Bengal,2010,Professional_Profile,Public Sector Undertaking,Female,30-44,44,Employed
+1127,West Bengal,2010,Professional_Profile,Self-employed (Business activity),Female,30-44,24,Employed
+1128,West Bengal,2010,Professional_Profile,Others (Please Specify),Female,30-44,346,Unemployed
+1129,West Bengal,2010,Professional_Profile,House Wife,Female,30-44,1123,Unemployed
+1130,West Bengal,2010,Professional_Profile,Others (Please Specify),Female,30-44,508,Unemployed
+1131,West Bengal,2010,Professional_Profile,Farming/Agriculture Activity,Female,30-44,53,Employed
+1132,West Bengal,2010,Professional_Profile,Student,Female,30-44,23,Unemployed
+1133,West Bengal,2010,Professional_Profile,Unemployed,Female,30-44,127,Unemployed
+1134,West Bengal,2010,Professional_Profile,Service (Government),Female,30-44,7,Employed
+1135,West Bengal,2010,Professional_Profile,Professional Activity,Female,30-44,53,Employed
+1136,West Bengal,2010,Professional_Profile,Retired Person,Female,30-44,0,Retired
+1137,West Bengal,2010,Professional_Profile,Service (Private),Female,30-44,69,Employed
+1138,West Bengal,2010,Professional_Profile,House Wife,Male,30-44,0,Unemployed
+1139,West Bengal,2010,Professional_Profile,Others (Please Specify),Male,30-44,932,Unemployed
+1140,West Bengal,2010,Professional_Profile,Public Sector Undertaking,Male,30-44,264,Employed
+1141,West Bengal,2010,Professional_Profile,Service (Government),Male,30-44,84,Employed
+1142,West Bengal,2010,Professional_Profile,Others (Please Specify),Male,30-44,605,Unemployed
+1143,West Bengal,2010,Professional_Profile,Farming/Agriculture Activity,Male,30-44,389,Employed
+1144,West Bengal,2010,Professional_Profile,Service (Private),Male,30-44,243,Employed
+1145,West Bengal,2010,Professional_Profile,Self-employed (Business activity),Male,30-44,329,Employed
+1146,West Bengal,2010,Professional_Profile,Student,Male,30-44,35,Unemployed
+1147,West Bengal,2010,Professional_Profile,Professional Activity,Male,30-44,232,Employed
+1148,West Bengal,2010,Professional_Profile,Retired Person,Male,30-44,0,Retired
+1149,West Bengal,2010,Professional_Profile,Unemployed,Male,30-44,382,Unemployed
+1150,West Bengal,2010,Professional_Profile,Public Sector Undertaking,Female,45-59,12,Employed
+1151,West Bengal,2010,Professional_Profile,Self-employed (Business activity),Female,45-59,6,Employed
+1152,West Bengal,2010,Professional_Profile,Service (Private),Female,45-59,19,Employed
+1153,West Bengal,2010,Professional_Profile,Farming/Agriculture Activity,Female,45-59,57,Employed
+1154,West Bengal,2010,Professional_Profile,Others (Please Specify),Female,45-59,311,Unemployed
+1155,West Bengal,2010,Professional_Profile,Others (Please Specify),Female,45-59,321,Unemployed
+1156,West Bengal,2010,Professional_Profile,Professional Activity,Female,45-59,10,Employed
+1157,West Bengal,2010,Professional_Profile,Student,Female,45-59,5,Unemployed
+1158,West Bengal,2010,Professional_Profile,House Wife,Female,45-59,459,Unemployed
+1159,West Bengal,2010,Professional_Profile,Retired Person,Female,45-59,0,Retired
+1160,West Bengal,2010,Professional_Profile,Service (Government),Female,45-59,8,Employed
+1161,West Bengal,2010,Professional_Profile,Unemployed,Female,45-59,23,Unemployed
+1162,West Bengal,2010,Professional_Profile,Self-employed (Business activity),Male,45-59,260,Employed
+1163,West Bengal,2010,Professional_Profile,Others (Please Specify),Male,45-59,586,Unemployed
+1164,West Bengal,2010,Professional_Profile,Farming/Agriculture Activity,Male,45-59,164,Employed
+1165,West Bengal,2010,Professional_Profile,Service (Private),Male,45-59,253,Employed
+1166,West Bengal,2010,Professional_Profile,Student,Male,45-59,3,Unemployed
+1167,West Bengal,2010,Professional_Profile,House Wife,Male,45-59,0,Unemployed
+1168,West Bengal,2010,Professional_Profile,Retired Person,Male,45-59,0,Retired
+1169,West Bengal,2010,Professional_Profile,Unemployed,Male,45-59,75,Unemployed
+1170,West Bengal,2010,Professional_Profile,Professional Activity,Male,45-59,102,Employed
+1171,West Bengal,2010,Professional_Profile,Others (Please Specify),Male,45-59,627,Unemployed
+1172,West Bengal,2010,Professional_Profile,Public Sector Undertaking,Male,45-59,195,Employed
+1173,West Bengal,2010,Professional_Profile,Service (Government),Male,45-59,39,Employed
+1174,West Bengal,2010,Professional_Profile,Professional Activity,Female,60+,6,Employed
+1175,West Bengal,2010,Professional_Profile,Retired Person,Female,60+,11,Retired
+1176,West Bengal,2010,Professional_Profile,Self-employed (Business activity),Female,60+,0,Employed
+1177,West Bengal,2010,Professional_Profile,Service (Private),Female,60+,5,Employed
+1178,West Bengal,2010,Professional_Profile,House Wife,Female,60+,75,Unemployed
+1179,West Bengal,2010,Professional_Profile,Others (Please Specify),Female,60+,87,Unemployed
+1180,West Bengal,2010,Professional_Profile,Service (Government),Female,60+,0,Employed
+1181,West Bengal,2010,Professional_Profile,Others (Please Specify),Female,60+,74,Unemployed
+1182,West Bengal,2010,Professional_Profile,Farming/Agriculture Activity,Female,60+,20,Employed
+1183,West Bengal,2010,Professional_Profile,Public Sector Undertaking,Female,60+,11,Employed
+1184,West Bengal,2010,Professional_Profile,Student,Female,60+,0,Unemployed
+1185,West Bengal,2010,Professional_Profile,Unemployed,Female,60+,1,Unemployed
+1186,West Bengal,2010,Professional_Profile,Student,Male,60+,0,Unemployed
+1187,West Bengal,2010,Professional_Profile,Retired Person,Male,60+,55,Retired
+1188,West Bengal,2010,Professional_Profile,Public Sector Undertaking,Male,60+,2,Employed
+1189,West Bengal,2010,Professional_Profile,Farming/Agriculture Activity,Male,60+,27,Employed
+1190,West Bengal,2010,Professional_Profile,House Wife,Male,60+,0,Unemployed
+1191,West Bengal,2010,Professional_Profile,Others (Please Specify),Male,60+,217,Unemployed
+1192,West Bengal,2010,Professional_Profile,Unemployed,Male,60+,3,Unemployed
+1193,West Bengal,2010,Professional_Profile,Others (Please Specify),Male,60+,214,Unemployed
+1194,West Bengal,2010,Professional_Profile,Self-employed (Business activity),Male,60+,21,Employed
+1195,West Bengal,2010,Professional_Profile,Service (Government),Male,60+,1,Employed
+1196,West Bengal,2010,Professional_Profile,Service (Private),Male,60+,7,Employed
+1197,West Bengal,2010,Professional_Profile,Professional Activity,Male,60+,11,Employed
+1198,West Bengal,2011,Professional_Profile,Public Sector Undertaking,Female,0-14,0,Employed
+1199,West Bengal,2011,Professional_Profile,Service (Government),Female,0-14,0,Employed
+1200,West Bengal,2011,Professional_Profile,Self-employed (Business activity),Female,0-14,15,Employed
+1201,West Bengal,2011,Professional_Profile,Student,Female,0-14,96,Unemployed
+1202,West Bengal,2011,Professional_Profile,Others (Please Specify),Female,0-14,36,Unemployed
+1203,West Bengal,2011,Professional_Profile,Service (Private),Female,0-14,0,Employed
+1204,West Bengal,2011,Professional_Profile,Professional Activity,Female,0-14,0,Employed
+1205,West Bengal,2011,Professional_Profile,Farming/Agriculture Activity,Female,0-14,0,Employed
+1206,West Bengal,2011,Professional_Profile,Retired Person,Female,0-14,0,Retired
+1207,West Bengal,2011,Professional_Profile,House Wife,Female,0-14,1,Unemployed
+1208,West Bengal,2011,Professional_Profile,Others (Please Specify),Female,0-14,110,Unemployed
+1209,West Bengal,2011,Professional_Profile,Unemployed,Female,0-14,0,Unemployed
+1210,West Bengal,2011,Professional_Profile,Professional Activity,Male,0-14,0,Employed
+1211,West Bengal,2011,Professional_Profile,Service (Private),Male,0-14,0,Employed
+1212,West Bengal,2011,Professional_Profile,Farming/Agriculture Activity,Male,0-14,0,Employed
+1213,West Bengal,2011,Professional_Profile,Public Sector Undertaking,Male,0-14,0,Employed
+1214,West Bengal,2011,Professional_Profile,Self-employed (Business activity),Male,0-14,0,Employed
+1215,West Bengal,2011,Professional_Profile,Service (Government),Male,0-14,0,Employed
+1216,West Bengal,2011,Professional_Profile,House Wife,Male,0-14,0,Unemployed
+1217,West Bengal,2011,Professional_Profile,Unemployed,Male,0-14,0,Unemployed
+1218,West Bengal,2011,Professional_Profile,Others (Please Specify),Male,0-14,31,Unemployed
+1219,West Bengal,2011,Professional_Profile,Retired Person,Male,0-14,0,Retired
+1220,West Bengal,2011,Professional_Profile,Others (Please Specify),Male,0-14,161,Unemployed
+1221,West Bengal,2011,Professional_Profile,Student,Male,0-14,92,Unemployed
+1222,West Bengal,2011,Professional_Profile,Public Sector Undertaking,Female,15-29,90,Employed
+1223,West Bengal,2011,Professional_Profile,Service (Private),Female,15-29,78,Employed
+1224,West Bengal,2011,Professional_Profile,Student,Female,15-29,404,Unemployed
+1225,West Bengal,2011,Professional_Profile,Others (Please Specify),Female,15-29,364,Unemployed
+1226,West Bengal,2011,Professional_Profile,Retired Person,Female,15-29,0,Retired
+1227,West Bengal,2011,Professional_Profile,Farming/Agriculture Activity,Female,15-29,39,Employed
+1228,West Bengal,2011,Professional_Profile,Self-employed (Business activity),Female,15-29,15,Employed
+1229,West Bengal,2011,Professional_Profile,House Wife,Female,15-29,1218,Unemployed
+1230,West Bengal,2011,Professional_Profile,Professional Activity,Female,15-29,16,Employed
+1231,West Bengal,2011,Professional_Profile,Others (Please Specify),Female,15-29,344,Unemployed
+1232,West Bengal,2011,Professional_Profile,Service (Government),Female,15-29,7,Employed
+1233,West Bengal,2011,Professional_Profile,Unemployed,Female,15-29,138,Unemployed
+1234,West Bengal,2011,Professional_Profile,Others (Please Specify),Male,15-29,302,Unemployed
+1235,West Bengal,2011,Professional_Profile,Unemployed,Male,15-29,394,Unemployed
+1236,West Bengal,2011,Professional_Profile,Farming/Agriculture Activity,Male,15-29,132,Employed
+1237,West Bengal,2011,Professional_Profile,Service (Private),Male,15-29,114,Employed
+1238,West Bengal,2011,Professional_Profile,Public Sector Undertaking,Male,15-29,73,Employed
+1239,West Bengal,2011,Professional_Profile,Others (Please Specify),Male,15-29,670,Unemployed
+1240,West Bengal,2011,Professional_Profile,Service (Government),Male,15-29,14,Employed
+1241,West Bengal,2011,Professional_Profile,Self-employed (Business activity),Male,15-29,353,Employed
+1242,West Bengal,2011,Professional_Profile,Student,Male,15-29,426,Unemployed
+1243,West Bengal,2011,Professional_Profile,House Wife,Male,15-29,0,Unemployed
+1244,West Bengal,2011,Professional_Profile,Professional Activity,Male,15-29,43,Employed
+1245,West Bengal,2011,Professional_Profile,Retired Person,Male,15-29,0,Retired
+1246,West Bengal,2011,Professional_Profile,Service (Government),Female,30-44,5,Employed
+1247,West Bengal,2011,Professional_Profile,Others (Please Specify),Female,30-44,431,Unemployed
+1248,West Bengal,2011,Professional_Profile,Unemployed,Female,30-44,163,Unemployed
+1249,West Bengal,2011,Professional_Profile,Retired Person,Female,30-44,0,Retired
+1250,West Bengal,2011,Professional_Profile,Student,Female,30-44,7,Unemployed
+1251,West Bengal,2011,Professional_Profile,Farming/Agriculture Activity,Female,30-44,69,Employed
+1252,West Bengal,2011,Professional_Profile,Others (Please Specify),Female,30-44,296,Unemployed
+1253,West Bengal,2011,Professional_Profile,Professional Activity,Female,30-44,18,Employed
+1254,West Bengal,2011,Professional_Profile,Service (Private),Female,30-44,66,Employed
+1255,West Bengal,2011,Professional_Profile,House Wife,Female,30-44,1171,Unemployed
+1256,West Bengal,2011,Professional_Profile,Self-employed (Business activity),Female,30-44,39,Employed
+1257,West Bengal,2011,Professional_Profile,Public Sector Undertaking,Female,30-44,61,Employed
+1258,West Bengal,2011,Professional_Profile,Student,Male,30-44,9,Unemployed
+1259,West Bengal,2011,Professional_Profile,Others (Please Specify),Male,30-44,987,Unemployed
+1260,West Bengal,2011,Professional_Profile,Retired Person,Male,30-44,0,Retired
+1261,West Bengal,2011,Professional_Profile,Farming/Agriculture Activity,Male,30-44,293,Employed
+1262,West Bengal,2011,Professional_Profile,Others (Please Specify),Male,30-44,727,Unemployed
+1263,West Bengal,2011,Professional_Profile,Unemployed,Male,30-44,638,Unemployed
+1264,West Bengal,2011,Professional_Profile,Self-employed (Business activity),Male,30-44,427,Employed
+1265,West Bengal,2011,Professional_Profile,Service (Private),Male,30-44,235,Employed
+1266,West Bengal,2011,Professional_Profile,House Wife,Male,30-44,0,Unemployed
+1267,West Bengal,2011,Professional_Profile,Professional Activity,Male,30-44,165,Employed
+1268,West Bengal,2011,Professional_Profile,Service (Government),Male,30-44,66,Employed
+1269,West Bengal,2011,Professional_Profile,Public Sector Undertaking,Male,30-44,245,Employed
+1270,West Bengal,2011,Professional_Profile,Student,Female,45-59,0,Unemployed
+1271,West Bengal,2011,Professional_Profile,Retired Person,Female,45-59,0,Retired
+1272,West Bengal,2011,Professional_Profile,Others (Please Specify),Female,45-59,277,Unemployed
+1273,West Bengal,2011,Professional_Profile,Self-employed (Business activity),Female,45-59,18,Employed
+1274,West Bengal,2011,Professional_Profile,Others (Please Specify),Female,45-59,199,Unemployed
+1275,West Bengal,2011,Professional_Profile,Service (Government),Female,45-59,5,Employed
+1276,West Bengal,2011,Professional_Profile,House Wife,Female,45-59,474,Unemployed
+1277,West Bengal,2011,Professional_Profile,Public Sector Undertaking,Female,45-59,30,Employed
+1278,West Bengal,2011,Professional_Profile,Unemployed,Female,45-59,76,Unemployed
+1279,West Bengal,2011,Professional_Profile,Professional Activity,Female,45-59,13,Employed
+1280,West Bengal,2011,Professional_Profile,Service (Private),Female,45-59,32,Employed
+1281,West Bengal,2011,Professional_Profile,Farming/Agriculture Activity,Female,45-59,37,Employed
+1282,West Bengal,2011,Professional_Profile,Service (Government),Male,45-59,25,Employed
+1283,West Bengal,2011,Professional_Profile,Service (Private),Male,45-59,222,Employed
+1284,West Bengal,2011,Professional_Profile,House Wife,Male,45-59,0,Unemployed
+1285,West Bengal,2011,Professional_Profile,Student,Male,45-59,0,Unemployed
+1286,West Bengal,2011,Professional_Profile,Unemployed,Male,45-59,139,Unemployed
+1287,West Bengal,2011,Professional_Profile,Retired Person,Male,45-59,0,Retired
+1288,West Bengal,2011,Professional_Profile,Self-employed (Business activity),Male,45-59,257,Employed
+1289,West Bengal,2011,Professional_Profile,Professional Activity,Male,45-59,151,Employed
+1290,West Bengal,2011,Professional_Profile,Farming/Agriculture Activity,Male,45-59,182,Employed
+1291,West Bengal,2011,Professional_Profile,Public Sector Undertaking,Male,45-59,191,Employed
+1292,West Bengal,2011,Professional_Profile,Others (Please Specify),Male,45-59,601,Unemployed
+1293,West Bengal,2011,Professional_Profile,Others (Please Specify),Male,45-59,528,Unemployed
+1294,West Bengal,2011,Professional_Profile,Student,Female,60+,0,Unemployed
+1295,West Bengal,2011,Professional_Profile,House Wife,Female,60+,91,Unemployed
+1296,West Bengal,2011,Professional_Profile,Service (Government),Female,60+,0,Employed
+1297,West Bengal,2011,Professional_Profile,Farming/Agriculture Activity,Female,60+,0,Employed
+1298,West Bengal,2011,Professional_Profile,Public Sector Undertaking,Female,60+,2,Employed
+1299,West Bengal,2011,Professional_Profile,Retired Person,Female,60+,11,Retired
+1300,West Bengal,2011,Professional_Profile,Others (Please Specify),Female,60+,58,Unemployed
+1301,West Bengal,2011,Professional_Profile,Professional Activity,Female,60+,0,Employed
+1302,West Bengal,2011,Professional_Profile,Self-employed (Business activity),Female,60+,0,Employed
+1303,West Bengal,2011,Professional_Profile,Others (Please Specify),Female,60+,242,Unemployed
+1304,West Bengal,2011,Professional_Profile,Service (Private),Female,60+,0,Employed
+1305,West Bengal,2011,Professional_Profile,Unemployed,Female,60+,6,Unemployed
+1306,West Bengal,2011,Professional_Profile,House Wife,Male,60+,0,Unemployed
+1307,West Bengal,2011,Professional_Profile,Retired Person,Male,60+,61,Retired
+1308,West Bengal,2011,Professional_Profile,Farming/Agriculture Activity,Male,60+,55,Employed
+1309,West Bengal,2011,Professional_Profile,Public Sector Undertaking,Male,60+,0,Employed
+1310,West Bengal,2011,Professional_Profile,Unemployed,Male,60+,24,Unemployed
+1311,West Bengal,2011,Professional_Profile,Professional Activity,Male,60+,8,Employed
+1312,West Bengal,2011,Professional_Profile,Student,Male,60+,0,Unemployed
+1313,West Bengal,2011,Professional_Profile,Others (Please Specify),Male,60+,354,Unemployed
+1314,West Bengal,2011,Professional_Profile,Self-employed (Business activity),Male,60+,32,Employed
+1315,West Bengal,2011,Professional_Profile,Service (Private),Male,60+,1,Employed
+1316,West Bengal,2011,Professional_Profile,Others (Please Specify),Male,60+,195,Unemployed
+1317,West Bengal,2011,Professional_Profile,Service (Government),Male,60+,1,Employed
+1318,West Bengal,2012,Professional_Profile,Professional Activity,Female,0-14,0,Employed
+1319,West Bengal,2012,Professional_Profile,Student,Female,0-14,0,Unemployed
+1320,West Bengal,2012,Professional_Profile,Unemployed,Female,0-14,0,Unemployed
+1321,West Bengal,2012,Professional_Profile,Farming/Agriculture Activity,Female,0-14,0,Employed
+1322,West Bengal,2012,Professional_Profile,Others (Please Specify),Female,0-14,0,Unemployed
+1323,West Bengal,2012,Professional_Profile,Retired Person,Female,0-14,0,Retired
+1324,West Bengal,2012,Professional_Profile,Service (Private),Female,0-14,0,Employed
+1325,West Bengal,2012,Professional_Profile,Public Sector Undertaking,Female,0-14,0,Employed
+1326,West Bengal,2012,Professional_Profile,House Wife,Female,0-14,0,Unemployed
+1327,West Bengal,2012,Professional_Profile,Service (Government),Female,0-14,0,Employed
+1328,West Bengal,2012,Professional_Profile,Self-employed (Business activity),Female,0-14,0,Employed
+1329,West Bengal,2012,Professional_Profile,House Wife,Male,0-14,0,Unemployed
+1330,West Bengal,2012,Professional_Profile,Service (Government),Male,0-14,0,Employed
+1331,West Bengal,2012,Professional_Profile,Retired Person,Male,0-14,0,Retired
+1332,West Bengal,2012,Professional_Profile,Service (Private),Male,0-14,0,Employed
+1333,West Bengal,2012,Professional_Profile,Farming/Agriculture Activity,Male,0-14,0,Employed
+1334,West Bengal,2012,Professional_Profile,Others (Please Specify),Male,0-14,0,Unemployed
+1335,West Bengal,2012,Professional_Profile,Public Sector Undertaking,Male,0-14,0,Employed
+1336,West Bengal,2012,Professional_Profile,Unemployed,Male,0-14,0,Unemployed
+1337,West Bengal,2012,Professional_Profile,Student,Male,0-14,0,Unemployed
+1338,West Bengal,2012,Professional_Profile,Professional Activity,Male,0-14,0,Employed
+1339,West Bengal,2012,Professional_Profile,Self-employed (Business activity),Male,0-14,0,Employed
+1340,West Bengal,2012,Professional_Profile,Public Sector Undertaking,Female,15-29,0,Employed
+1341,West Bengal,2012,Professional_Profile,Service (Private),Female,15-29,0,Employed
+1342,West Bengal,2012,Professional_Profile,Others (Please Specify),Female,15-29,0,Unemployed
+1343,West Bengal,2012,Professional_Profile,Farming/Agriculture Activity,Female,15-29,0,Employed
+1344,West Bengal,2012,Professional_Profile,Retired Person,Female,15-29,0,Retired
+1345,West Bengal,2012,Professional_Profile,Professional Activity,Female,15-29,0,Employed
+1346,West Bengal,2012,Professional_Profile,Unemployed,Female,15-29,0,Unemployed
+1347,West Bengal,2012,Professional_Profile,Self-employed (Business activity),Female,15-29,0,Employed
+1348,West Bengal,2012,Professional_Profile,Student,Female,15-29,0,Unemployed
+1349,West Bengal,2012,Professional_Profile,House Wife,Female,15-29,0,Unemployed
+1350,West Bengal,2012,Professional_Profile,Service (Government),Female,15-29,0,Employed
+1351,West Bengal,2012,Professional_Profile,House Wife,Male,15-29,0,Unemployed
+1352,West Bengal,2012,Professional_Profile,Self-employed (Business activity),Male,15-29,0,Employed
+1353,West Bengal,2012,Professional_Profile,Public Sector Undertaking,Male,15-29,0,Employed
+1354,West Bengal,2012,Professional_Profile,Unemployed,Male,15-29,0,Unemployed
+1355,West Bengal,2012,Professional_Profile,Farming/Agriculture Activity,Male,15-29,0,Employed
+1356,West Bengal,2012,Professional_Profile,Others (Please Specify),Male,15-29,0,Unemployed
+1357,West Bengal,2012,Professional_Profile,Service (Private),Male,15-29,0,Employed
+1358,West Bengal,2012,Professional_Profile,Student,Male,15-29,0,Unemployed
+1359,West Bengal,2012,Professional_Profile,Retired Person,Male,15-29,0,Retired
+1360,West Bengal,2012,Professional_Profile,Professional Activity,Male,15-29,0,Employed
+1361,West Bengal,2012,Professional_Profile,Service (Government),Male,15-29,0,Employed
+1362,West Bengal,2012,Professional_Profile,Professional Activity,Female,30-44,0,Employed
+1363,West Bengal,2012,Professional_Profile,Public Sector Undertaking,Female,30-44,0,Employed
+1364,West Bengal,2012,Professional_Profile,Service (Government),Female,30-44,0,Employed
+1365,West Bengal,2012,Professional_Profile,Retired Person,Female,30-44,0,Retired
+1366,West Bengal,2012,Professional_Profile,House Wife,Female,30-44,0,Unemployed
+1367,West Bengal,2012,Professional_Profile,Student,Female,30-44,0,Unemployed
+1368,West Bengal,2012,Professional_Profile,Unemployed,Female,30-44,0,Unemployed
+1369,West Bengal,2012,Professional_Profile,Others (Please Specify),Female,30-44,0,Unemployed
+1370,West Bengal,2012,Professional_Profile,Self-employed (Business activity),Female,30-44,0,Employed
+1371,West Bengal,2012,Professional_Profile,Service (Private),Female,30-44,0,Employed
+1372,West Bengal,2012,Professional_Profile,Farming/Agriculture Activity,Female,30-44,0,Employed
+1373,West Bengal,2012,Professional_Profile,Farming/Agriculture Activity,Male,30-44,0,Employed
+1374,West Bengal,2012,Professional_Profile,Public Sector Undertaking,Male,30-44,0,Employed
+1375,West Bengal,2012,Professional_Profile,Professional Activity,Male,30-44,0,Employed
+1376,West Bengal,2012,Professional_Profile,Retired Person,Male,30-44,0,Retired
+1377,West Bengal,2012,Professional_Profile,Service (Private),Male,30-44,0,Employed
+1378,West Bengal,2012,Professional_Profile,Self-employed (Business activity),Male,30-44,0,Employed
+1379,West Bengal,2012,Professional_Profile,Service (Government),Male,30-44,0,Employed
+1380,West Bengal,2012,Professional_Profile,Unemployed,Male,30-44,0,Unemployed
+1381,West Bengal,2012,Professional_Profile,Student,Male,30-44,0,Unemployed
+1382,West Bengal,2012,Professional_Profile,House Wife,Male,30-44,0,Unemployed
+1383,West Bengal,2012,Professional_Profile,Others (Please Specify),Male,30-44,0,Unemployed
+1384,West Bengal,2012,Professional_Profile,House Wife,Female,45-59,0,Unemployed
+1385,West Bengal,2012,Professional_Profile,Retired Person,Female,45-59,0,Retired
+1386,West Bengal,2012,Professional_Profile,Others (Please Specify),Female,45-59,0,Unemployed
+1387,West Bengal,2012,Professional_Profile,Farming/Agriculture Activity,Female,45-59,0,Employed
+1388,West Bengal,2012,Professional_Profile,Student,Female,45-59,0,Unemployed
+1389,West Bengal,2012,Professional_Profile,Unemployed,Female,45-59,0,Unemployed
+1390,West Bengal,2012,Professional_Profile,Service (Government),Female,45-59,0,Employed
+1391,West Bengal,2012,Professional_Profile,Service (Private),Female,45-59,0,Employed
+1392,West Bengal,2012,Professional_Profile,Professional Activity,Female,45-59,0,Employed
+1393,West Bengal,2012,Professional_Profile,Public Sector Undertaking,Female,45-59,0,Employed
+1394,West Bengal,2012,Professional_Profile,Self-employed (Business activity),Female,45-59,0,Employed
+1395,West Bengal,2012,Professional_Profile,Self-employed (Business activity),Male,45-59,0,Employed
+1396,West Bengal,2012,Professional_Profile,Unemployed,Male,45-59,0,Unemployed
+1397,West Bengal,2012,Professional_Profile,Retired Person,Male,45-59,0,Retired
+1398,West Bengal,2012,Professional_Profile,Service (Government),Male,45-59,0,Employed
+1399,West Bengal,2012,Professional_Profile,Professional Activity,Male,45-59,0,Employed
+1400,West Bengal,2012,Professional_Profile,Others (Please Specify),Male,45-59,0,Unemployed
+1401,West Bengal,2012,Professional_Profile,Public Sector Undertaking,Male,45-59,0,Employed
+1402,West Bengal,2012,Professional_Profile,House Wife,Male,45-59,0,Unemployed
+1403,West Bengal,2012,Professional_Profile,Farming/Agriculture Activity,Male,45-59,0,Employed
+1404,West Bengal,2012,Professional_Profile,Service (Private),Male,45-59,0,Employed
+1405,West Bengal,2012,Professional_Profile,Student,Male,45-59,0,Unemployed
+1406,West Bengal,2012,Professional_Profile,Service (Private),Female,60+,0,Employed
+1407,West Bengal,2012,Professional_Profile,Retired Person,Female,60+,0,Retired
+1408,West Bengal,2012,Professional_Profile,Self-employed (Business activity),Female,60+,0,Employed
+1409,West Bengal,2012,Professional_Profile,Farming/Agriculture Activity,Female,60+,0,Employed
+1410,West Bengal,2012,Professional_Profile,House Wife,Female,60+,0,Unemployed
+1411,West Bengal,2012,Professional_Profile,Professional Activity,Female,60+,0,Employed
+1412,West Bengal,2012,Professional_Profile,Others (Please Specify),Female,60+,0,Unemployed
+1413,West Bengal,2012,Professional_Profile,Public Sector Undertaking,Female,60+,0,Employed
+1414,West Bengal,2012,Professional_Profile,Unemployed,Female,60+,0,Unemployed
+1415,West Bengal,2012,Professional_Profile,Student,Female,60+,0,Unemployed
+1416,West Bengal,2012,Professional_Profile,Service (Government),Female,60+,0,Employed
+1417,West Bengal,2012,Professional_Profile,Public Sector Undertaking,Male,60+,0,Employed
+1418,West Bengal,2012,Professional_Profile,Self-employed (Business activity),Male,60+,0,Employed
+1419,West Bengal,2012,Professional_Profile,Retired Person,Male,60+,0,Retired
+1420,West Bengal,2012,Professional_Profile,Unemployed,Male,60+,0,Unemployed
+1421,West Bengal,2012,Professional_Profile,House Wife,Male,60+,0,Unemployed
+1422,West Bengal,2012,Professional_Profile,Others (Please Specify),Male,60+,0,Unemployed
+1423,West Bengal,2012,Professional_Profile,Farming/Agriculture Activity,Male,60+,0,Employed
+1424,West Bengal,2012,Professional_Profile,Student,Male,60+,0,Unemployed
+1425,West Bengal,2012,Professional_Profile,Service (Private),Male,60+,0,Employed
+1426,West Bengal,2012,Professional_Profile,Professional Activity,Male,60+,0,Employed
+1427,West Bengal,2012,Professional_Profile,Service (Government),Male,60+,0,Employed
