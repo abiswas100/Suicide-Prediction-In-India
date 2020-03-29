@@ -58,5 +58,6 @@ def main():
     print("Gaussian Naive Bayes model accuracy(in %):", metrics.accuracy_score(y_test, y_pred)*100)
     print("Finished.....")
 
+
 if __name__ == "__main__":
     main()
