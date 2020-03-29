@@ -12,7 +12,6 @@ import os
 '''
 education level encoding
 '''
-
 def lvl_encoding(x):
     if(x == 'No Education'):
         return 0
@@ -33,30 +32,31 @@ def lvl_encoding(x):
     else: return 8
 
 
-df = pd.read_csv("Education_Status.csv")
+def main():
+    df = pd.read_csv("Education_Status.csv")
 
-cataegory = pd.Series([]) 
-for ind,row in df.iterrows():
-    df.loc[ind,"Cataegory"] = lvl_encoding(df.loc[ind,"Type"])
-df = df.astype({"Cataegory": int})
+    cataegory = pd.Series([]) 
+    for ind,row in df.iterrows():
+        df.loc[ind,"Cataegory"] = lvl_encoding(df.loc[ind,"Type"])
+    df = df.astype({"Cataegory": int})
 
-df = df.drop(['State','Year','Type_code','Type','Age_group'],axis='columns')
-df = df[['Cataegory','Total','Gender']]
+    df = df.drop(['State','Year','Type_code','Type','Age_group'],axis='columns')
+    df = df[['Cataegory','Total','Gender']]
 
 
-X = df.drop(['Gender'],axis='columns')
-Y = df.Gender
+    X = df.drop(['Gender'],axis='columns')
+    Y = df.Gender
 
-#Performing Naive bayes
+    #Performing Naive bayes
 
-x_train, x_test, y_train, y_test = train_test_split(X,Y,test_size=0.1)
-training_data = [x_train,x_test]
-tseting_data = [y_train,y_test]
+    x_train, x_test, y_train, y_test = train_test_split(X,Y,test_size=0.1,random_state = 3)
 
-gnb = GaussianNB() 
-gnb.fit(x_train, y_train) 
+    gnb = GaussianNB() 
+    gnb.fit(x_train, y_train) 
 
-y_pred = gnb.predict(x_test)
-print("Gaussian Naive Bayes model accuracy(in %):", metrics.accuracy_score(y_test, y_pred)*100)
-print("Finished.....")
+    y_pred = gnb.predict(x_test)
+    print("Gaussian Naive Bayes model accuracy(in %):", metrics.accuracy_score(y_test, y_pred)*100)
+    print("Finished.....")
 
+if __name__ == "__main__":
+    main()
