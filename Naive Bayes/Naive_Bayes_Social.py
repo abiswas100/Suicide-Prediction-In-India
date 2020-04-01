@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import GaussianNB
+from sklearn.preprocessing import OneHotEncoder
 from sklearn import metrics  
 import os
 
@@ -22,22 +23,27 @@ def encoding(x):
     elif (x == 'Widowed/Widower'):
         return 4
 
+def gender_encoding(x):
+    if (x == 'Female'):return 1
+    else : return 0
+
 def main():
     df = pd.read_csv("Social_Status.csv")
 
-    cataegory = pd.Series([]) 
     for ind,row in df.iterrows():
         df.loc[ind,"Cataegory"] = encoding(df.loc[ind,"Type"])
     df = df.astype({"Cataegory": int})
 
+    for ind,row in df.iterrows():
+        df.loc[ind,"Coded_Gender"] = gender_encoding(df.loc[ind,"Gender"])
+    df = df.astype({"Coded_Gender": int})
+     
+    df = df[['Cataegory','Total','Coded_Gender']]
 
-    df = df.drop(['State','Year','Type_code','Type','Age_group'],axis='columns')
-    df = df[['Cataegory','Total','Gender']]
-
-
-    X = df.drop(['Gender'],axis = 'columns')
-    Y = df.Gender
-
+    print(df.head)
+    X = df.drop(['Coded_Gender'],axis = 'columns')
+    Y = df.Coded_Gender
+    
     #Performing Naive Bayes
 
     X_train1, X_test1, Y_train1, Y_test1 = train_test_split(X, Y, test_size=0.1,random_state = 25) 
@@ -46,7 +52,11 @@ def main():
     gnb.fit(X_train1,Y_train1)
 
     y_pred = gnb.predict(X_test1)
+    print(y_pred)
     print("Gaussian Naive Bayes model accuracy(in %):", metrics.accuracy_score(Y_test1, y_pred)*100)
+
+    probabilities = gnb.predict_proba(X_test1)
+    print(probabilities)
     print("Finished ......")
 
 

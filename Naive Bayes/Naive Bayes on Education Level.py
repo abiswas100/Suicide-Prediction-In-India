@@ -31,19 +31,22 @@ def lvl_encoding(x):
         return 7
     else: return 8
 
+def gender_encoding(x):
+    if (x == 'Female'):return 1
+    else : return 0
 
 def main():
     df = pd.read_csv("Education_Status.csv")
 
-    cataegory = pd.Series([]) 
     for ind,row in df.iterrows():
         df.loc[ind,"Cataegory"] = lvl_encoding(df.loc[ind,"Type"])
     df = df.astype({"Cataegory": int})
 
-    df = df.drop(['State','Year','Type_code','Type','Age_group'],axis='columns')
+    for ind,row in df.iterrows():
+        df.loc[ind,"Coded_Gender"] = gender_encoding(df.loc[ind,"Gender"])
+    df = df.astype({"Coded_Gender": int})
+    
     df = df[['Cataegory','Total','Gender']]
-
-
     X = df.drop(['Gender'],axis='columns')
     Y = df.Gender
 
@@ -56,8 +59,13 @@ def main():
 
     y_pred = gnb.predict(x_test)
     print("Gaussian Naive Bayes model accuracy(in %):", metrics.accuracy_score(y_test, y_pred)*100)
+    
+    probabilities = gnb.predict_proba(X_test1)
+    print(probabilities)
+    print("Finished ......")
+    
+    
     print("Finished.....")
-
 
 if __name__ == "__main__":
     main()
