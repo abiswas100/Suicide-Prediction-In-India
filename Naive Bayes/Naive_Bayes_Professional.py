@@ -51,8 +51,8 @@ def main():
     #print(y_pred)
     print("Gaussian Naive Bayes model accuracy(in %):", metrics.accuracy_score(Y_test1, y_pred)*100)
 
-    # probabilities = gnb.predict_proba(X_test1)
-    # print(probabilities)
+    probabilities = gnb.predict_proba(X_test1)
+    print(probabilities)
     print("Finished ......")
 
 
