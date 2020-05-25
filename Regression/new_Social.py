@@ -16,6 +16,9 @@ def encoding(x):
     elif (x == 'Widowed/Widower'):
         return 4
 
+def find_indivitual_avg():
+    pass
+
 
 df = pd.read_csv("Social_Status.csv")
 
@@ -34,7 +37,13 @@ for ind,row in df.iterrows():
     df.loc[ind,"Cataegory"] = encoding(df.loc[ind,"Type"])
 df = df.astype({"Cataegory": int})
 
+df = df.drop(['Type','Gender'],axis='columns')
 # Getting the Averages for each social types
 social_total = []
-social_types = []
-print(df)
+social_types_total = []
+counter = 0
+for ind, row in df.iterrows():
+    if counter == 0:
+        print(row)
+        counter +=1
+# print(df)
