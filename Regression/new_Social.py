@@ -16,8 +16,12 @@ def encoding(x):
     elif (x == 'Widowed/Widower'):
         return 4
 
-def find_indivitual_avg():
-    pass
+def find_indivitual_probability(df):
+    # total_per_cataegory = []
+    for i, j in df.iterrows(): 
+        print(i, j)
+     
+    return 1
 
 
 df = pd.read_csv("Social_Status.csv")
@@ -46,4 +50,6 @@ for ind, row in df.iterrows():
     if counter == 0:
         print(row)
         counter +=1
+        
+find_indivitual_probability(df)
 # print(df)
