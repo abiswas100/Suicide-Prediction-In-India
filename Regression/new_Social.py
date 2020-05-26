@@ -68,7 +68,17 @@ def main():
         
     # print(df)
     
+    model = LinearRegression()
+    X = total_per_cataegory
+    Y =  [0,1,2,3,4]
+    x_train, x_test, y_train, y_test = train_test_split(X,Y,test_size=1/3)
+    
+    model.fit(x_train,y_train)
+    
+    LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None, normalize=False)
 
+    plt.scatter(x_train,y_train,color = 'yellow')
+    plt.plot(x_train,model.predict(x_train),color='green')
 
 
 if __name__ == "__main__":
