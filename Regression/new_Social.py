@@ -17,39 +17,64 @@ def encoding(x):
         return 4
 
 def find_indivitual_probability(df):
-    # total_per_cataegory = []
+    a,b,c,d,e = 0,0,0,0,0
     for i, j in df.iterrows(): 
-        print(i, j)
-     
-    return 1
+        if   j[1] ==  0: a = a + j[0]
+        elif j[1] ==  1: b = b + j[0]
+        elif j[1] ==  2: c = c + j[0]
+        elif j[1] ==  3: d = d + j[0]
+        elif j[1] ==  4: e = e + j[0]
+    print(a,b,c,d,e)
+    total = a+b+c+d+e
+    
+    prob_a = a/total
+    prob_b = b/total
+    prob_c = c/total
+    prob_d = d/total
+    prob_e = e/total
+    
+    print(prob_a,prob_b,prob_c,prob_d,prob_e)
+
+    return prob_a,prob_b,prob_e,prob_d,prob_e    
+    
+def main():
+    df = pd.read_csv("Social_Status.csv")
 
 
-df = pd.read_csv("Social_Status.csv")
+    df = df.drop(['State','Year','Type_code','Age_group'],axis='columns')
 
 
-df = df.drop(['State','Year','Type_code','Age_group'],axis='columns')
+    social_types = df['Type'].unique()
 
+    # print(type(social_types[0]))
 
-social_types = df['Type'].unique()
+    '''
+    Adding Encoding to Education and Gender 
+    '''
+    for ind,row in df.iterrows():
+        df.loc[ind,"Cataegory"] = encoding(df.loc[ind,"Type"])
+    df = df.astype({"Cataegory": int})
 
-# print(type(social_types[0]))
-
-'''
-Adding Encoding to Education and Gender 
-'''
-for ind,row in df.iterrows():
-    df.loc[ind,"Cataegory"] = encoding(df.loc[ind,"Type"])
-df = df.astype({"Cataegory": int})
-
-df = df.drop(['Type','Gender'],axis='columns')
-# Getting the Averages for each social types
-social_total = []
-social_types_total = []
-counter = 0
-for ind, row in df.iterrows():
-    if counter == 0:
-        print(row)
-        counter +=1
+    df = df.drop(['Type','Gender'],axis='columns')
+    # Getting the Averages for each social types
+            
+    prob_a,prob_b,prob_c,prob_d,prob_e =  find_indivitual_probability(df)
+    total_per_cataegory = []
+    total_per_cataegory.append(prob_a)
+    total_per_cataegory.append(prob_b)
+    total_per_cataegory.append(prob_c)
+    total_per_cataegory.append(prob_d)
+    total_per_cataegory.append(prob_e)
         
-find_indivitual_probability(df)
-# print(df)
+    # print(df)
+    
+
+
+
+if __name__ == "__main__":
+    main()
+
+
+
+
+    
