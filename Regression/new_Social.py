@@ -12,7 +12,7 @@ def encoding(x):
     elif(x == 'Seperated'):
         return 2
     elif(x == 'Divorcee'):
-        return 3
+                return 3
     elif (x == 'Widowed/Widower'):
         return 4
 
