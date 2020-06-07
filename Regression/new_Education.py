@@ -4,6 +4,24 @@ import numpy as np
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 
+def lvl_encoding(x):
+    if(x == 'No Education'):
+        return 0
+    elif(x == 'Primary'):
+        return 1
+    elif(x == 'Middle'):
+        return 2
+    elif(x == 'Matriculate/Secondary'):
+        return 3
+    elif(x == 'Hr. Secondary/Intermediate/Pre-Universit'):
+        return 4
+    elif(x == 'Diploma'):
+        return 5
+    elif(x == 'Graduate'):
+        return 6
+    elif(x == 'Post Graduate and Above'):
+        return 7
+    else: return 8
 
 
 def find_indivitual_probability(df):
@@ -25,12 +43,21 @@ def find_indivitual_probability(df):
     
     print(prob_a,prob_b,prob_c,prob_d,prob_e)
     
-    
-    
+        
 def main():
     df = pd.read_csv("Education_Status.csv")
     
     df = df.drop(['State','Year','Type_code','Age_group'],axis = 'columns')
     
-    
-    pass
+    '''
+    Adding Encoding to Education and Gender 
+    '''
+    for ind,row in df.iterrows():
+        df.loc[ind,"Cataegory"] = lvl_encoding(df.loc[ind,"Type"])
+    df = df.astype({"Cataegory": int})
+
+
+
+
+if __name__ == "__main__":
+    main()

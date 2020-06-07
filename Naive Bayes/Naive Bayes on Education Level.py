@@ -35,13 +35,14 @@ def gender_encoding(x):
 
 def main():
     df = pd.read_csv("Education_Status.csv")
+    
     '''
     Adding Encoding to Education and Gender 
     '''
     for ind,row in df.iterrows():
         df.loc[ind,"Cataegory"] = lvl_encoding(df.loc[ind,"Type"])
     df = df.astype({"Cataegory": int})
-
+ 
     for ind,row in df.iterrows():
         df.loc[ind,"Coded_Gender"] = gender_encoding(df.loc[ind,"Gender"])
     df = df.astype({"Coded_Gender": int})
