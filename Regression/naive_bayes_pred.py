@@ -7,6 +7,12 @@ from sklearn.preprocessing import OneHotEncoder
 from sklearn import metrics  
 import os
 import csv
+import streamlit
+
+import new_Education as edu
+import new_Professional as prof
+import new_Social as social
+
 
 
 

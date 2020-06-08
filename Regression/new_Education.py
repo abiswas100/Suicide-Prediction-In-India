@@ -33,10 +33,10 @@ def find_indivitual_probability(df):
         elif j[1] ==  3: d = d + j[0]
         elif j[1] ==  4: e = e + j[0]
         elif j[1] ==  5: f = f + j[0]
-        elif j[1] ==  6: g = g + j[0]
+        elif j[1] ==  6: g = g + j[0] 
         else j[1] ==  7: h = h + j[0]
     print(a,b,c,d,e,f,g,h)
-    total = a+b+c+d+e,f,g,h
+    total = a+b+c+d+e+f+g+h
     
     prob_a = a/total
     prob_b = b/total
