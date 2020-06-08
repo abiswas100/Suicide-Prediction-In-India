@@ -78,7 +78,7 @@ def main():
     LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None, normalize=False)
 
     plt.scatter(x_train,y_train,color = 'yellow')
-    plt.plot(x_train,model.predict(x_train),color='green')
+    plt.plot(x_train,model.predict(x_train),color='green') 
 
 
 if __name__ == "__main__":
