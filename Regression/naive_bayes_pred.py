@@ -15,8 +15,8 @@ import new_Social as social
 
 
 def main():
-    st.title("Suicide Prediction Model")
-    st.markdown("Lets use different models to predict Suicides in India")
+    # st.title("Suicide Prediction Model")
+    # st.markdown("Lets use different models to predict Suicides in India")
     
     
     
