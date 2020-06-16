@@ -30,7 +30,7 @@ def find_indivitual_probability(df):
     return prob_a,prob_b,prob_c    
 
 def main():
-    df = pd.read_csv("Education_Status.csv")
+    df = pd.read_csv("Professional.csv")
     
     df = df.drop(['State','Year','Type_code','Age-group'],axis = 'columns')
     

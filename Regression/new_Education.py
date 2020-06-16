@@ -51,7 +51,7 @@ def find_indivitual_probability(df):
     
     return prob_a,prob_b,prob_c,prob_d,prob_e,prob_f,prob_g,prob_h
 def main():
-    df = pd.read_csv("Education_Status.csv")
+    df = pd.read_csv("Education.csv")
     
     df = df.drop(['State','Year','Type_code','Age_group'],axis = 'columns')
     
