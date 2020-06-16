@@ -20,6 +20,7 @@ def main():
     
     st.sidebar.selectbox("Regression","Naive-Bayes")
     
+    
 if __name__ == "__main__":
     main() 
     
