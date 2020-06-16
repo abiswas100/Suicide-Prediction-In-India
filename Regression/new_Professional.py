@@ -34,14 +34,18 @@ def main():
     
     df = df.drop(['State','Year','Type_code','Age-group'],axis = 'columns')
     
+    Professional_train = df.loc[(df['Year'] >= 2001) & (df['Year'] <= 2010)]
+    Professional_test = df.loc[(df['Year'] >= 2011) & (df['Year'] <= 2012)]
+    
+    
     '''
     Adding Encoding to Education and Gender 
     '''
-    for ind,row in df.iterrows():
-        df.loc[ind,"Cataegory"] = encoding(df.loc[ind,"Type"])
-    df = df.astype({"Cataegory": int})
+    for ind,row in Professional_train.iterrows():
+        Professional_train.loc[ind,"Cataegory"] = encoding(df.loc[ind,"Type"])
+    Professional_train = Professional_train.astype({"Cataegory": int})
 
-    df = df.drop(['Type','Gender'],axis='columns')
+    Professional_train = Professional_train.drop(['Type','Gender'],axis='columns')
     # Getting the Averages for each social types
             
     prob_a,prob_b,prob_c =  find_indivitual_probability(df)
