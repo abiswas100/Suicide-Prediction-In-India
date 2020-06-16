@@ -43,19 +43,19 @@ def main():
 
     df = df.drop(['State','Year','Type_code','Age_group'],axis='columns')
 
+          
+    Social_train = df.loc[(df['Year'] >= 2001) & (df['Year'] <= 2010)]
+    Social_test = df.loc[(df['Year'] >= 2011) & (df['Year'] <= 2012)]
 
-    social_types = df['Type'].unique()
-
-    # print(type(social_types[0]))
 
     '''
     Adding Encoding to Education and Gender 
     '''
-    for ind,row in df.iterrows():
-        df.loc[ind,"Cataegory"] = encoding(df.loc[ind,"Type"])
-    df = df.astype({"Cataegory": int})
+    for ind,row in Social_train.iterrows():
+        Social_train.loc[ind,"Cataegory"] = encoding(df.loc[ind,"Type"])
+    Social_train = Social_train.astype({"Cataegory": int})
 
-    df = df.drop(['Type','Gender'],axis='columns')
+    Social_train = Social_train.drop(['Type','Gender'],axis='columns')
     # Getting the Averages for each social types
             
     prob_a,prob_b,prob_c,prob_d,prob_e =  find_indivitual_probability(df)
@@ -66,9 +66,6 @@ def main():
     total_per_cataegory.append(prob_d)
     total_per_cataegory.append(prob_e)
         
-    print(df)
-     
-
 if __name__ == "__main__":
     main()
 

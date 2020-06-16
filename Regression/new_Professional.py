@@ -54,4 +54,10 @@ def main():
     total_per_cataegory.append(prob_b)
     total_per_cataegory.append(prob_c)
     
+
+
+
+
+if __name__ == "__main__":
+    main() 
     
