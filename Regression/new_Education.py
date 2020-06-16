@@ -55,12 +55,17 @@ def main():
     
     df = df.drop(['State','Year','Type_code','Age_group'],axis = 'columns')
     
+        
+    Education_train = df.loc[(df['Year'] >= 2001) & (df['Year'] <= 2010)]
+    Education_test = df.loc[(df['Year'] >= 2011) & (df['Year'] <= 2012)]
+    
+    
     '''
     Adding Encoding to Education and Gender 
     '''
-    for ind,row in df.iterrows():
-        df.loc[ind,"Cataegory"] = lvl_encoding(df.loc[ind,"Type"])
-    df = df.astype({"Cataegory": int})
+    for ind,row in Education_train.iterrows():
+        Education_train.loc[ind,"Cataegory"] = lvl_encoding(df.loc[ind,"Type"])
+        Education_train= Education_train.astype({"Cataegory": int})
 
     prob_a,prob_b,prob_c,prob_d,prob_e,prob_f,prob_g,prob_h =  find_indivitual_probability(df)
     total_per_cataegory = []
