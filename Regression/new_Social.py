@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
+import csv
 
 def encoding(x):
     if (x == 'Never Married'):
@@ -17,26 +18,23 @@ def encoding(x):
         return 4
 
 def find_indivitual_probability(train):
-    print(train)
     a,b,c,d,e = 0,0,0,0,0
-    for i, j in train.iterrows(): 
-        if   j[1] ==  0: a = a + j[0]
-        elif j[1] ==  1: b = b + j[0]
-        elif j[1] ==  2: c = c + j[0]
-        elif j[1] ==  3: d = d + j[0]
-        elif j[1] ==  4: e = e + j[0]
+    # print(train)
+    for i, j in train.iterrows():
+        if   j[2] ==  0: a = a + j[1]
+        elif j[2] ==  1: b = b + j[1]
+        elif j[2] ==  2: c = c + j[1]
+        elif j[2] ==  3: d = d + j[1]
+        elif j[2] ==  4: e = e + j[1]
 
     total = a+b+c+d+e
-    # print(total)   
     prob_a = a/total
     prob_b = b/total
     prob_c = c/total
     prob_d = d/total
     prob_e = e/total
     
-    # print(prob_a,prob_b,prob_c,prob_d,prob_e)
-
-    return prob_a,prob_b,prob_e,prob_d,prob_e    
+    return prob_a,prob_b,prob_c,prob_d,prob_e,a,b,c,d,e   
     
 def main():
     df = pd.read_csv("Social.csv")
@@ -50,18 +48,33 @@ def main():
     for ind,row in Social_train.iterrows():
         Social_train.loc[ind,"Cataegory"] = encoding(Social_train.loc[ind,"Type"])
     Social_train = Social_train.astype({"Cataegory": int})
-    print(Social_train)
-    Social_train = Social_train.drop(['State','Year','Type','Type_code','Gender','Age_group'],axis='columns')
     
-    # Getting the Averages for each social types            
-    prob_a,prob_b,prob_c,prob_d,prob_e =  find_indivitual_probability(Social_train)
+    Social_train = Social_train.drop(['State','Type','Type_code','Gender','Age_group'],axis='columns')
+    
+    group_Year = Social_train.groupby('Year')
+    
     total_per_cataegory = []
-    total_per_cataegory.append(prob_a)
-    total_per_cataegory.append(prob_b)
-    total_per_cataegory.append(prob_c)
-    total_per_cataegory.append(prob_d)
-    total_per_cataegory.append(prob_e)
-        
+    prob_per_cataegory = []
+    
+    for year in set(Social_train['Year']):
+        grp = group_Year.get_group(year)
+        prob_a,prob_b,prob_c,prob_d,prob_e ,a,b,c,d,e =  find_indivitual_probability(grp) 
+        total_per_cataegory.append([a,b,c,d,e])
+        prob_per_cataegory.append([prob_a,prob_b,prob_c,prob_d,prob_e])
+    year = 2001
+    with open('Social_train.csv', 'a', newline='') as csvfile:
+        writer = csv.writer(csvfile)
+        for i in range(len(total_per_cataegory)):
+            total_each_year = total_per_cataegory[i]
+            prob_each_year = prob_per_cataegory[i]
+            cataegory = ['Never Married','Married','Seperated','Divorcee','Widowed/Widower']
+            for j in range(len(total_each_year)):
+                total = total_each_year[j]
+                prob = prob_each_year[j]
+                catae = cataegory[j]
+                writer.writerow([year,catae,total,prob])    
+            year = year + 1    
+
 if __name__ == "__main__":
     main()
 
