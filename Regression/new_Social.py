@@ -16,9 +16,10 @@ def encoding(x):
     elif (x == 'Widowed/Widower'):
         return 4
 
-def find_indivitual_probability(df):
+def find_indivitual_probability(train):
+    print(train)
     a,b,c,d,e = 0,0,0,0,0
-    for i, j in df.iterrows(): 
+    for i, j in train.iterrows(): 
         if   j[1] ==  0: a = a + j[0]
         elif j[1] ==  1: b = b + j[0]
         elif j[1] ==  2: c = c + j[0]
@@ -26,39 +27,34 @@ def find_indivitual_probability(df):
         elif j[1] ==  4: e = e + j[0]
 
     total = a+b+c+d+e
-    
+    # print(total)   
     prob_a = a/total
     prob_b = b/total
     prob_c = c/total
     prob_d = d/total
     prob_e = e/total
     
-    print(prob_a,prob_b,prob_c,prob_d,prob_e)
+    # print(prob_a,prob_b,prob_c,prob_d,prob_e)
 
     return prob_a,prob_b,prob_e,prob_d,prob_e    
     
 def main():
     df = pd.read_csv("Social.csv")
-
-
-    df = df.drop(['State','Year','Type_code','Age_group'],axis='columns')
-
           
     Social_train = df.loc[(df['Year'] >= 2001) & (df['Year'] <= 2010)]
     Social_test = df.loc[(df['Year'] >= 2011) & (df['Year'] <= 2012)]
-
-
+    
     '''
     Adding Encoding to Education and Gender 
     '''
     for ind,row in Social_train.iterrows():
-        Social_train.loc[ind,"Cataegory"] = encoding(df.loc[ind,"Type"])
+        Social_train.loc[ind,"Cataegory"] = encoding(Social_train.loc[ind,"Type"])
     Social_train = Social_train.astype({"Cataegory": int})
-
-    Social_train = Social_train.drop(['Type','Gender'],axis='columns')
-    # Getting the Averages for each social types
-            
-    prob_a,prob_b,prob_c,prob_d,prob_e =  find_indivitual_probability(df)
+    print(Social_train)
+    Social_train = Social_train.drop(['State','Year','Type','Type_code','Gender','Age_group'],axis='columns')
+    
+    # Getting the Averages for each social types            
+    prob_a,prob_b,prob_c,prob_d,prob_e =  find_indivitual_probability(Social_train)
     total_per_cataegory = []
     total_per_cataegory.append(prob_a)
     total_per_cataegory.append(prob_b)
