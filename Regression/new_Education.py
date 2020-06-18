@@ -1,10 +1,12 @@
 import pandas as pd
+pd.options.mode.chained_assignment = None 
 import matplotlib.pyplot as plt
 import numpy as np
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
+import csv
 
-def lvl_encoding(x):
+def encoding(x):
     if(x == 'No Education'):
         return 0
     elif(x == 'Primary'):
@@ -21,10 +23,10 @@ def lvl_encoding(x):
         return 6
     elif(x == 'Post Graduate and Above'):
         return 7
-    else: return 8
-
+    
 
 def find_indivitual_probability(df):
+    
     a,b,c,d,e,f,g,h = 0,0,0,0,0,0,0,0
     for i, j in df.iterrows(): 
         if   j[1] ==  0: a = a + j[0]
@@ -35,7 +37,8 @@ def find_indivitual_probability(df):
         elif j[1] ==  5: f = f + j[0]
         elif j[1] ==  6: g = g + j[0] 
         elif j[1] ==  7: h = h + j[0]
-    print(a,b,c,d,e,f,g,h)
+    
+    # print(a,b,c,d,e,f,g,h)
     total = a+b+c+d+e+f+g+h
     
     prob_a = a/total
@@ -47,37 +50,53 @@ def find_indivitual_probability(df):
     prob_g = g/total
     prob_h = h/total
     
-    print(prob_a,prob_b,prob_c,prob_d,prob_e,prob_f,prob_g,prob_h)
+    # print(prob_a,prob_b,prob_c,prob_d,prob_e,prob_f,prob_g,prob_h)
     
-    return prob_a,prob_b,prob_c,prob_d,prob_e,prob_f,prob_g,prob_h
+    return prob_a,prob_b,prob_c,prob_d,prob_e,prob_f,prob_g,prob_h,a,b,c,d,e,f,g,h
+
+
+
+
 def main():
     df = pd.read_csv("Education.csv")
-    
-    df = df.drop(['State','Year','Type_code','Age_group'],axis = 'columns')
-    
         
     Education_train = df.loc[(df['Year'] >= 2001) & (df['Year'] <= 2010)]
     Education_test = df.loc[(df['Year'] >= 2011) & (df['Year'] <= 2012)]
-    
     
     '''
     Adding Encoding to Education and Gender 
     '''
     for ind,row in Education_train.iterrows():
-        Education_train.loc[ind,"Cataegory"] = lvl_encoding(df.loc[ind,"Type"])
-        Education_train= Education_train.astype({"Cataegory": int})
+        Education_train.loc[ind,"Cataegory"] = encoding(Education_train.loc[ind,"Type"])
+    Education_train= Education_train.astype({"Cataegory": int})
 
-    prob_a,prob_b,prob_c,prob_d,prob_e,prob_f,prob_g,prob_h =  find_indivitual_probability(df)
-    total_per_cataegory = []
-    total_per_cataegory.append(prob_a)
-    total_per_cataegory.append(prob_b)
-    total_per_cataegory.append(prob_c)
-    total_per_cataegory.append(prob_d)
-    total_per_cataegory.append(prob_e)
-    total_per_cataegory.append(prob_f)
-    total_per_cataegory.append(prob_g)
-    total_per_cataegory.append(prob_h)
-
+    Education_train = Education_train.drop(['State','Type','Type_code','Gender','Age_group'],axis='columns')
     
+    group_Year = Education_train.groupby('Year')
+    
+    total_per_cataegory = []
+    prob_per_cataegory = []
+    
+    for year in set(Education_train['Year']):
+        grp = group_Year.get_group(year)
+        prob_a,prob_b,prob_c,prob_d,prob_e,prob_f,prob_g,prob_h,a,b,c,d,e,f,g,h =  find_indivitual_probability(grp) 
+        total_per_cataegory.append([a,b,c,d,e,f,g,h ])
+        prob_per_cataegory.append([prob_a,prob_b,prob_c,prob_d,prob_e,prob_f,prob_g,prob_h])
+
+    year = 2001
+    with open('Education_train.csv', 'a', newline='') as csvfile:
+        writer = csv.writer(csvfile)
+        for i in range(len(total_per_cataegory)):
+            total_each_year = total_per_cataegory[i]
+            prob_each_year = prob_per_cataegory[i]
+            cataegory = ['No Education','Primary','Middle','Matriculate/Secondary','Hr. Secondary','Diploma','Graduate','Post-Grad or above']
+            for j in range(len(total_each_year)):
+                total = total_each_year[j]
+                prob = prob_each_year[j]
+                catae = cataegory[j]
+                writer.writerow([year,catae,total,prob])    
+            year = year + 1    
+
+
 if __name__ == "__main__":
     main()

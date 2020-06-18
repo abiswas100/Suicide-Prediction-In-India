@@ -1,4 +1,5 @@
 import pandas as pd
+pd.options.mode.chained_assignment = None 
 import matplotlib.pyplot as plt
 import numpy as np
 from sklearn.linear_model import LinearRegression
