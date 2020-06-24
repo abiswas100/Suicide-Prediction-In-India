@@ -42,7 +42,7 @@ def main():
           
     Social_train = df.loc[(df['Year'] >= 2001) & (df['Year'] <= 2010)]
     Social_test = df.loc[(df['Year'] >= 2011) & (df['Year'] <= 2012)]
-    
+       
     '''
     Adding Encoding to Education and Gender 
     '''
@@ -50,9 +50,16 @@ def main():
         Social_train.loc[ind,"Cataegory"] = encoding(Social_train.loc[ind,"Type"])
     Social_train = Social_train.astype({"Cataegory": int})
     
-    Social_train = Social_train.drop(['State','Type','Type_code','Gender','Age_group'],axis='columns')
+    for ind,row in Social_test.iterrows():
+        Social_test.loc[ind,"Cataegory"] = encoding(Social_test.loc[ind,"Type"])
+    Social_test = Social_test.astype({"Cataegory": int})
     
+    
+    Social_train = Social_train.drop(['State','Type','Type_code','Gender','Age_group'],axis='columns')
+    Social_test = Social_test.drop(['State','Type','Type_code','Gender','Age_group'],axis='columns')
+        
     group_Year = Social_train.groupby('Year')
+    group_Year_test = Social_test.groupby('Year')
     
     total_per_cataegory = []
     prob_per_cataegory = []
@@ -62,6 +69,7 @@ def main():
         prob_a,prob_b,prob_c,prob_d,prob_e ,a,b,c,d,e =  find_indivitual_probability(grp) 
         total_per_cataegory.append([a,b,c,d,e])
         prob_per_cataegory.append([prob_a,prob_b,prob_c,prob_d,prob_e])
+
     year = 2001
     with open('Social_train.csv', 'a', newline='') as csvfile:
         writer = csv.writer(csvfile)
@@ -75,6 +83,49 @@ def main():
                 catae = cataegory[j]
                 writer.writerow([year,catae,total,prob])    
             year = year + 1    
+    # print(Social_test) 
+    
+    total_per_cataegory_test = []
+    prob_per_cataegory_test = []
+    
+    for year_test in set(Social_test['Year']):
+        grp = group_Year_test.get_group(year_test)
+        prob_a,prob_b,prob_c,prob_d,prob_e ,a,b,c,d,e =  find_indivitual_probability(grp) 
+        total_per_cataegory_test.append([a,b,c,d,e])
+        prob_per_cataegory_test.append([prob_a,prob_b,prob_c,prob_d,prob_e])
+    
+    year = 2011
+    with open('Social_test.csv', 'a', newline='') as csvfile:
+        writer = csv.writer(csvfile)
+        for i in range(len(total_per_cataegory_test)):
+            total_each_year = total_per_cataegory_test[i]
+            prob_each_year = prob_per_cataegory_test[i]
+            cataegory = ['Never Married','Married','Seperated','Divorcee','Widowed/Widower']
+            for j in range(len(total_each_year)):
+                total = total_each_year[j]
+                prob = prob_each_year[j]
+                catae = cataegory[j]
+                writer.writerow([year,catae,total,prob])    
+            year = year + 1    
+
+
+# training_Data = pd.read_csv('Social_train.csv')
+# # testing_Data = pd.read_csv('Social_test.csv')
+# print(training_Data)
+
+    # '''
+    # Performing Naive Bayes with X = Cataegory and Total-Deaths , Y = Gender 
+    # '''
+    # gnb = GaussianNB()
+    # gnb.fit(X_train1,Y_train1)
+
+    # y_pred = gnb.predict(X_test1)
+    # print(y_pred)
+    # print("Gaussian Naive Bayes model accuracy(in %):", metrics.accuracy_score(Y_test1, y_pred)*100)
+
+    # probabilities = gnb.predict_proba(X_test1)
+    # print(probabilities)
+    # print("Finished ......")
 
 if __name__ == "__main__":
     main()
