@@ -55,10 +55,18 @@ def main():
         Professional_train.loc[ind,"Cataegory"] = encoding(Professional_train.loc[ind,"Type"])
     Professional_train = Professional_train.astype({"Cataegory": int})
     
+    for ind,row in Professional_test.iterrows():
+        Professional_test.loc[ind,"Cataegory"] = encoding(Professional_test.loc[ind,"Type"])
+    Professional_test = Professional_test.astype({"Cataegory": int})
+    
+
     Professional_train = Professional_train.drop(['State','Type','Type_code','Gender','Age_group'],axis='columns')
+    Proffesional_test  = Professional_test.drop(['State','Type','Type_code','Gender','Age_group'],axis='columns')
 
     group_Year = Professional_train.groupby('Year')
-    
+    group_Year_test = Professional_test.groupby('Year')
+   
+   #Training Dataset Creation
     total_per_cataegory = []
     prob_per_cataegory = []    
     
@@ -83,8 +91,31 @@ def main():
                 writer.writerow([year,catae,total,prob])    
             year = year + 1    
 
-
-
+    #Testing Dataset Creation
+    
+    total_per_cataegory_test = []
+    prob_per_cataegory_test = []
+    
+    for year_test in set(Professional_test['Year']):
+        grp = group_Year_test.get_group(year_test)
+        prob_a,prob_b,prob_c,prob_d,prob_e ,a,b,c,d,e =  find_indivitual_probability(grp) 
+        total_per_cataegory_test.append([a,b,c,d,e])
+        prob_per_cataegory_test.append([prob_a,prob_b,prob_c,prob_d,prob_e])
+    
+    year = 2011
+    with open('Professional_test.csv', 'a', newline='') as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow(['YEAR','CATAEGORY','TOTAL-DEATHS','PROBABILITY'])
+        for i in range(len(total_per_cataegory_test)):
+            total_each_year = total_per_cataegory_test[i]
+            prob_each_year = prob_per_cataegory_test[i]
+            cataegory = ['Unemployed','Farming/Agriculture','Government Service','Private Sector','Self-Employed or Other Activity']
+            for j in range(len(total_each_year)):
+                total = total_each_year[j]
+                prob = prob_each_year[j]
+                catae = cataegory[j]
+                writer.writerow([year,catae,total,prob])    
+            year = year + 1    
 
 
 
