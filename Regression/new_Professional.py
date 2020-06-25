@@ -7,7 +7,6 @@ from sklearn.model_selection import train_test_split
 import csv
 
 def encoding(x):    
-    
     if (x == 'Student' or x == 'House Wife' or x == 'Unemployed' or x == 'Retired Person'):
         return 0
     elif(x == 'Farming/Agriculture Activity'):
@@ -59,9 +58,8 @@ def main():
         Professional_test.loc[ind,"Cataegory"] = encoding(Professional_test.loc[ind,"Type"])
     Professional_test = Professional_test.astype({"Cataegory": int})
     
-
     Professional_train = Professional_train.drop(['State','Type','Type_code','Gender','Age_group'],axis='columns')
-    Proffesional_test  = Professional_test.drop(['State','Type','Type_code','Gender','Age_group'],axis='columns')
+    Professional_test  = Professional_test.drop(['State','Type','Type_code','Gender','Age_group'],axis='columns')
 
     group_Year = Professional_train.groupby('Year')
     group_Year_test = Professional_test.groupby('Year')
@@ -76,6 +74,7 @@ def main():
         total_per_cataegory.append([a,b,c,d,e])
         prob_per_cataegory.append([prob_a,prob_b,prob_c,prob_d,prob_e])
     
+
     year = 2001
     with open('Professional_train.csv', 'a', newline='') as csvfile:
         writer = csv.writer(csvfile)
@@ -91,6 +90,7 @@ def main():
                 writer.writerow([year,catae,total,prob])    
             year = year + 1    
 
+    
     #Testing Dataset Creation
     
     total_per_cataegory_test = []
@@ -116,8 +116,6 @@ def main():
                 catae = cataegory[j]
                 writer.writerow([year,catae,total,prob])    
             year = year + 1    
-
-
 
 if __name__ == "__main__":
     main() 
