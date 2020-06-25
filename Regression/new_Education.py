@@ -38,7 +38,6 @@ def find_indivitual_probability(df):
         elif j[1] ==  6: g = g + j[0] 
         elif j[1] ==  7: h = h + j[0]
     
-    # print(a,b,c,d,e,f,g,h)
     total = a+b+c+d+e+f+g+h
     
     prob_a = a/total
@@ -49,8 +48,6 @@ def find_indivitual_probability(df):
     prob_f = f/total
     prob_g = g/total
     prob_h = h/total
-    
-    # print(prob_a,prob_b,prob_c,prob_d,prob_e,prob_f,prob_g,prob_h)
     
     return prob_a,prob_b,prob_c,prob_d,prob_e,prob_f,prob_g,prob_h,a,b,c,d,e,f,g,h
 
@@ -66,14 +63,24 @@ def main():
     '''
     Adding Encoding to Education and Gender 
     '''
+    #Encoding Training Dataset
     for ind,row in Education_train.iterrows():
         Education_train.loc[ind,"Cataegory"] = encoding(Education_train.loc[ind,"Type"])
     Education_train= Education_train.astype({"Cataegory": int})
+    #Encoding Testing Dataset
+    for ind,row in Education_test.iterrows():
+        Education_test.loc[ind,"Cataegory"] = encoding(Education_test.loc[ind,"Type"])
+    Education_test = Education_test.astype({"Cataegory": int})
 
     Education_train = Education_train.drop(['State','Type','Type_code','Gender','Age_group'],axis='columns')
+    Education_test = Education_test.drop(['State','Type','Type_code','Gender','Age_group'],axis='columns')
     
-    group_Year = Education_train.groupby('Year')
+    group_Year = Education_train.groupby('Year') 
+    group_Year_test = Education_test.groupby('Year')
     
+
+    #creating training dataset
+
     total_per_cataegory = []
     prob_per_cataegory = []
     
@@ -89,6 +96,31 @@ def main():
         for i in range(len(total_per_cataegory)):
             total_each_year = total_per_cataegory[i]
             prob_each_year = prob_per_cataegory[i]
+            cataegory = ['No Education','Primary','Middle','Matriculate/Secondary','Hr. Secondary','Diploma','Graduate','Post-Grad or above']
+            for j in range(len(total_each_year)):
+                total = total_each_year[j]
+                prob = prob_each_year[j]
+                catae = cataegory[j]
+                writer.writerow([year,catae,total,prob])    
+            year = year + 1    
+    
+    #creating testing dataset
+    
+    total_per_cataegory_test = []
+    prob_per_cataegory_test = []
+    
+    for year in set(Education_train['Year']):
+        grp = group_Year_test.get_group(year)
+        prob_a,prob_b,prob_c,prob_d,prob_e,prob_f,prob_g,prob_h,a,b,c,d,e,f,g,h =  find_indivitual_probability(grp) 
+        total_per_cataegory_test.append([a,b,c,d,e,f,g,h ])
+        prob_per_cataegory_test.append([prob_a,prob_b,prob_c,prob_d,prob_e,prob_f,prob_g,prob_h])
+
+    year = 2011
+    with open('Education_test.csv', 'a', newline='') as csvfile:
+        writer = csv.writer(csvfile)
+        for i in range(len(total_per_cataegory_test)):
+            total_each_year = total_per_cataegory_test[i]
+            prob_each_year = prob_per_cataegory_test[i]
             cataegory = ['No Education','Primary','Middle','Matriculate/Secondary','Hr. Secondary','Diploma','Graduate','Post-Grad or above']
             for j in range(len(total_each_year)):
                 total = total_each_year[j]
