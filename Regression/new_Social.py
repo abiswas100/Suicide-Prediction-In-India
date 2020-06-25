@@ -111,24 +111,6 @@ def main():
             year = year + 1    
 
 
-# training_Data = pd.read_csv('Social_train.csv')
-# # testing_Data = pd.read_csv('Social_test.csv')
-# print(training_Data)
-
-    # '''
-    # Performing Naive Bayes with X = Cataegory and Total-Deaths , Y = Gender 
-    # '''
-    # gnb = GaussianNB()
-    # gnb.fit(X_train1,Y_train1)
-
-    # y_pred = gnb.predict(X_test1)
-    # print(y_pred)
-    # print("Gaussian Naive Bayes model accuracy(in %):", metrics.accuracy_score(Y_test1, y_pred)*100)
-
-    # probabilities = gnb.predict_proba(X_test1)
-    # print(probabilities)
-    # print("Finished ......")
-
 if __name__ == "__main__":
     main()
 

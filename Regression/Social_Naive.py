@@ -14,30 +14,48 @@ import new_Professional as prof
 import new_Social as social
 
 
+def encoding(x):
+    if (x == 'Never Married'):
+        return 0
+    elif(x == 'Married'):
+        return 1
+    elif(x == 'Seperated'):
+        return 2
+    elif(x == 'Divorcee'):
+        return 3
+    elif (x == 'Widowed/Widower'):
+        return 4
+
 def main():
     train = pd.read_csv('Social_train.csv')
     test = pd.read_csv('Social_test.csv')
     
-    train_X = train['YEAR','TOTAL-DEATHS']
-    train_Y = train['PROBABILITIES']
+    for ind,row in train.iterrows():
+        train.loc[ind,"Type"] = encoding(train.loc[ind,"CATAEGORY"])
+    train = train.astype({"Type": int})
     
-    test_X = test['YEAR','TOTAL-DEATHS']
-    test_Y = train['PROBABILITIES']
-
+    for ind,row in test.iterrows():
+        test.loc[ind,"Type"] = encoding(test.loc[ind,"CATAEGORY"])
+    test = test.astype({"Type": int})
+    
+    train_X = train.drop(['TOTAL-DEATHS','CATAEGORY'],axis='columns')
+    train_Y = train['TOTAL-DEATHS']
+    
+    test_X = test.drop(['TOTAL-DEATHS','CATAEGORY'],axis='columns')
+    test_Y = test['TOTAL-DEATHS']
+    
     '''
-    Performing Naive Bayes with X = Cataegory and Total-Deaths , Y = Gender 
+    Performing Naive Bayes with X = Cataegory,Year and Total-Deaths , Y = probability 
     '''
     gnb = GaussianNB()
     gnb.fit(train_X,train_Y)
 
     y_pred = gnb.predict(test_X)
     print(y_pred)
-    print("Gaussian Naive Bayes model accuracy(in %):", metrics.accuracy_score(test_Y, y_pred)*100)
-
-    probabilities = gnb.predict_proba(test_X)
     
-    print(probabilities)
-
+    
+    print("Done")
+    
 if __name__ == "__main__":
     main() 
     
