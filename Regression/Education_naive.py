@@ -7,18 +7,24 @@ import new_Education as edu
 import new_Professional as prof
 import new_Social as social
 
-
 def encoding(x):
-    if (x == 'Never Married'):
+    if(x == 'No Education'):
         return 0
-    elif(x == 'Married'):
+    elif(x == 'Primary'):
         return 1
-    elif(x == 'Seperated'):
+    elif(x == 'Middle'):
         return 2
-    elif(x == 'Divorcee'):
+    elif(x == 'Matriculate/Secondary'):
         return 3
-    elif (x == 'Widowed/Widower'):
+    elif(x == 'Hr. Secondary/Intermediate/Pre-Universit'):
         return 4
+    elif(x == 'Diploma'):
+        return 5
+    elif(x == 'Graduate'):
+        return 6
+    elif(x == 'Post Graduate and Above'):
+        return 7
+    
 
 def main():
     train = pd.read_csv('Social_train.csv')
@@ -49,7 +55,4 @@ def main():
     
     
     print("Done")
-    
-if __name__ == "__main__":
-    main() 
     

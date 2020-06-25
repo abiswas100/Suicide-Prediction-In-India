@@ -52,8 +52,6 @@ def find_indivitual_probability(df):
     return prob_a,prob_b,prob_c,prob_d,prob_e,prob_f,prob_g,prob_h,a,b,c,d,e,f,g,h
 
 
-
-
 def main():
     df = pd.read_csv("Education.csv")
         
@@ -80,7 +78,6 @@ def main():
     
 
     #creating training dataset
-
     total_per_cataegory = []
     prob_per_cataegory = []
     
@@ -105,7 +102,6 @@ def main():
             year = year + 1    
     
     #creating testing dataset
-    
     total_per_cataegory_test = []
     prob_per_cataegory_test = []
     
