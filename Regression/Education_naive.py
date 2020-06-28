@@ -53,6 +53,7 @@ def main():
     y_pred = gnb.predict(test_X)
     print(y_pred)
     
+    print("Done")
     
     print("Done")
     
