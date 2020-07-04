@@ -77,7 +77,7 @@ def main():
     group_Year_test = Education_test.groupby('Year')
     
 
-    #creating training dataset
+    # #creating training dataset
     total_per_cataegory = []
     prob_per_cataegory = []
     
@@ -90,6 +90,7 @@ def main():
     year = 2001
     with open('Education_train.csv', 'a', newline='') as csvfile:
         writer = csv.writer(csvfile)
+        writer.writerow(['YEAR','CATAEGORY','TOTAL-DEATHS','PROBABILITY'])
         for i in range(len(total_per_cataegory)):
             total_each_year = total_per_cataegory[i]
             prob_each_year = prob_per_cataegory[i]
@@ -105,8 +106,8 @@ def main():
     total_per_cataegory_test = []
     prob_per_cataegory_test = []
     
-    for year in set(Education_train['Year']):
-        grp = group_Year_test.get_group(year)
+    for y in set(Education_test['Year']):
+        grp = group_Year_test.get_group(y)
         prob_a,prob_b,prob_c,prob_d,prob_e,prob_f,prob_g,prob_h,a,b,c,d,e,f,g,h =  find_indivitual_probability(grp) 
         total_per_cataegory_test.append([a,b,c,d,e,f,g,h ])
         prob_per_cataegory_test.append([prob_a,prob_b,prob_c,prob_d,prob_e,prob_f,prob_g,prob_h])

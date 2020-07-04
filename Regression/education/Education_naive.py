@@ -4,8 +4,7 @@ from sklearn import metrics
 import csv
 
 import new_Education as edu
-import new_Professional as prof
-import new_Social as social
+
 
 def encoding(x):
     if(x == 'No Education'):
@@ -27,8 +26,9 @@ def encoding(x):
     
 
 def main():
-    train = pd.read_csv('Social_train.csv')
-    test = pd.read_csv('Social_test.csv')
+    print("hello")
+    train = pd.read_csv('Education_train.csv')
+    test = pd.read_csv('Education_test.csv')
     
     for ind,row in train.iterrows():
         train.loc[ind,"Type"] = encoding(train.loc[ind,"CATAEGORY"])
