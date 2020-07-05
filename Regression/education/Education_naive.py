@@ -15,13 +15,13 @@ def encoding(x):
         return 2
     elif(x == 'Matriculate/Secondary'):
         return 3
-    elif(x == 'Hr. Secondary/Intermediate/Pre-Universit'):
+    elif(x == 'Hr. Secondary'):
         return 4
     elif(x == 'Diploma'):
         return 5
     elif(x == 'Graduate'):
         return 6
-    elif(x == 'Post Graduate and Above'):
+    elif(x == 'Post-Grad or above'):
         return 7
     
 
@@ -32,6 +32,7 @@ def main():
     
     for ind,row in train.iterrows():
         train.loc[ind,"Type"] = encoding(train.loc[ind,"CATAEGORY"])
+    print(train)
     train = train.astype({"Type": int})
     
     for ind,row in test.iterrows():
@@ -56,4 +57,6 @@ def main():
     print("Done")
     
     print("Done")
-    
+
+if __name__ == "__main__":
+    main()        

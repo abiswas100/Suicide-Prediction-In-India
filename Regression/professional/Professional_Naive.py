@@ -3,21 +3,19 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn import metrics  
 import csv
 
-import new_Education as edu
 import new_Professional as prof
-import new_Social as social
 
 def encoding(x):    
     
-    if (x == 'Student' or x == 'House Wife' or x == 'Unemployed' or x == 'Retired Person'):
+    if ( x == 'Unemployed'):
         return 0
-    elif(x == 'Farming/Agriculture Activity'):
+    elif(x == 'Farming/Agriculture'):
         return 1
-    elif(x == 'Service (Government)' or x == 'Public Sector Undertaking'):
+    elif(x == 'Government Service'):
         return 2
-    elif(x == 'Service (Private)'):
+    elif(x == 'Private Sector'):
         return 3
-    elif (x == 'Professional Activity' or x == 'Others (Please Specify)' or x == 'Self-employed (Business activity)'):
+    elif (x == 'Self-Employed or Other Activity'):
         return 4    
         
 

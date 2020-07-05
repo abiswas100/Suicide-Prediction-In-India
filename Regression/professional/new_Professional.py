@@ -78,7 +78,7 @@ def main():
     year = 2001
     with open('Professional_train.csv', 'a', newline='') as csvfile:
         writer = csv.writer(csvfile)
-        
+        writer.writerow(['YEAR','CATAEGORY','TOTAL-DEATHS','PROBABILITY'])
         for i in range(len(total_per_cataegory)):
             total_each_year = total_per_cataegory[i]
             prob_each_year = prob_per_cataegory[i]

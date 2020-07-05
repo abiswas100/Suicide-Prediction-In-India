@@ -3,8 +3,7 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn import metrics  
 import csv
 
-import new_Education as edu
-import new_Professional as prof
+
 import new_Social as social
 
 

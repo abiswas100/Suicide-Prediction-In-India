@@ -115,6 +115,7 @@ def main():
     year = 2011
     with open('Education_test.csv', 'a', newline='') as csvfile:
         writer = csv.writer(csvfile)
+        writer.writerow(['YEAR','CATAEGORY','TOTAL-DEATHS','PROBABILITY'])
         for i in range(len(total_per_cataegory_test)):
             total_each_year = total_per_cataegory_test[i]
             prob_each_year = prob_per_cataegory_test[i]
