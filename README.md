@@ -3,6 +3,9 @@ Created a website using streamlit library that shows different patterns of suici
 
 
 
-### Find the Published Paper here - https://www.researchgate.net/project/Machine-Learning-Based-Prediction-of-Suicide-Probability
+#### Find the Published Paper here - https://www.researchgate.net/project/Machine-Learning-Based-Prediction-of-Suicide-Probability
 
-### Presentation on this project - 
+#### Get the Presentation and Report here - 
+\[ [Presentation](https://github.com/abiswas100/SuicidePredictionModel/blob/master/REPORTS%20AND%20PRESENTATION/SUICIDE%20PREDICTION.pptx) \]
+\[ [Report](https://github.com/abiswas100/SuicidePredictionModel/blob/master/REPORTS%20AND%20PRESENTATION/SUICIDE_PREDICTION%20-%20REPORT.pdf) \]
+
