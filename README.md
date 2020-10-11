@@ -9,3 +9,20 @@ Created a Machine Learning models that will shows different patterns of suicides
 \[ [Presentation](https://github.com/abiswas100/SuicidePredictionModel/blob/master/REPORTS%20AND%20PRESENTATION/SUICIDE%20PREDICTION.pptx) \]
 \[ [Report](https://github.com/abiswas100/SuicidePredictionModel/blob/master/REPORTS%20AND%20PRESENTATION/SUICIDE_PREDICTION%20-%20REPORT.pdf) \]
 
+
+## Naive-Bayes Model training-dataset Images
+
+#### Educational Cataegories - <img src="https://github.com/abiswas100/SuicidePredictionModel/blob/master/project%20imags/Educational%20Cataegories%20(Training).jpg">
+
+#### Professional Cataegories - <img src="https://github.com/abiswas100/SuicidePredictionModel/blob/master/project%20imags/professional%20cateogories%20(Training).jpg">
+
+#### Social Cataegories - <img src="https://github.com/abiswas100/SuicidePredictionModel/blob/master/project%20imags/Social%20Categories%20(Training%20).jpg">
+
+## Naive-Bayes Model testing-dataset Images
+
+#### Educational Cataegories - <img src="https://github.com/abiswas100/SuicidePredictionModel/blob/master/project%20imags/Educational%20Cataegories%20(Testing).jpg">
+
+#### Professional Cataegories - <img src="https://github.com/abiswas100/SuicidePredictionModel/blob/master/project%20imags/professional%20cateogories%20(Testing).jpg">
+
+#### Social Cataegories - <img src="https://github.com/abiswas100/SuicidePredictionModel/blob/master/project%20imags/Social%20Categories%20(Testing%20).jpg">
+
